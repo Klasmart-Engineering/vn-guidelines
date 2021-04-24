@@ -1,0 +1,126 @@
+{
+  "unit": "Unit 2: Test Unit 2",
+  "introduction": {
+    "image": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "name": "Lesson 2: Test Unit 2 Lesson 2"
+  },
+  "description": [
+    {
+      "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+      "text": "5-6 years old"
+    },
+    {
+      "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+      "text": "45 minutes"
+    }
+  ],
+  "learning": {
+    "title": "Learning objectives",
+    "subtitle": "Students will be able to:",
+    "list": [
+      {
+        "text": "Learn the name of Badanamu characters and remember them"
+      },
+      {
+        "text": "Learn the basic color of Badanamu characters"
+      },
+      {
+        "text": "Develop speaking and listening skills"
+      },
+      {
+        "text": "Develop the other development skills:",
+        "list": [
+          {
+            "text": "<strong>Cognitive Development:</strong> Inquiry into Society (The kindergarten)"
+          },
+          {
+            "text": "<strong>Gross motor skill:</strong> move along the song"
+          },
+          {
+            "text": "<strong>Fine motor skills:</strong> play interactive games"
+          }
+        ]
+      }
+    ]
+  },
+  "materials": {
+    "title": "Materials",
+    "list": [
+      {
+        "text": "Kidsloop CMS: 5-6_U1_LP1_Welcome to Badanamu school 1"
+      }
+    ]
+  },
+  "lessons": {
+    "title": "Lesson Flow",
+    "list": [
+      {
+        "left_content": {
+          "title": "Opening",
+          "text": "3 mins"
+        },
+        "right_content": {
+          "list": [
+            {
+              "text": "Greet students. “Hello.” Wave at students and encourage them to wave back to you as they repeat the greeting"
+            },
+            {
+              "text": "Teacher introduces himself /herself (name, etc.)"
+            },
+            {
+              "text": "Reply with the sentence “Nice to meet you ___” and asks students to repeat this sentence"
+            }
+          ]
+        }
+      },
+      {
+        "left_content": {
+          "title": "Sing",
+          "text": "<i>“Badanamu Time”</i><br/>10 mins"
+        },
+        "right_content": {
+          "list": [
+            {
+              "text": "Start the lesson by listening to the song"
+            },
+            {
+              "text": "Teacher(s) says: “We will listen to a song and see who our new friends are”"
+            },
+            {
+              "text": "Play the song: <strong>“Badanamu Time”</strong>"
+            },
+            {
+              "text": "Let students listen to the song and explore the Badanamu characters. Introduce Badanamu characters’ names to students: Bada, Pogo, Curly, Jess, Mimi and Abby <img src=\"https://i.ibb.co/Yt3mFbg/gl-04.jpg\">"
+            },
+            {
+              "text": "Play the song “Badanamu Time” and encourage students to copy the characters’ movement"
+            },
+            {
+              "text": "Teacher(s) can pause the music to get students’ attention to the characters in the song by asking questions)",
+              "list": [
+                {
+                  "text": "Can you see Bada?"
+                },
+                {
+                  "text": "What color is he? (&#x02192; white)"
+                },
+                {
+                  "text": "What color is Mimi? (&#x02192; red)"
+                },
+                {
+                  "text": "Who is Jess? Is that a girl or a boy? (&#x02192; girl)"
+                },
+                {
+                  "text": "Who is in blue? (&#x02192; Curly)"
+                }
+              ]
+            },
+            {
+              "text": "Focus on the day's topic and have students repeat the names of the characters only"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

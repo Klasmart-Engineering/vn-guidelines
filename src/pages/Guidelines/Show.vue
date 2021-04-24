@@ -8,7 +8,7 @@
     import TemplateA from "@/components/TemplateA"
 
     export default {
-        name: 'guidelines-view',
+        name: 'guidelines-show',
         components: {
             TemplateA
         },

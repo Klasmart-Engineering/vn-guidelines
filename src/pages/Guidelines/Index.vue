@@ -14,12 +14,12 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="unit-group">
-                                    <h2>Unit 1: My Kindergarten</h2>
+                                <div class="unit-group" v-for="(item, index) in units" :key="index">
+                                    <h2>{{ item.name }}</h2>
                                     <ul>
-                                        <li v-for="(item, index) in guidelines" :key="index">
-                                            <router-link :to="'/guidelines/view?' + item">
-                                                {{ item.replaceAll('_', ' ') }}
+                                        <li v-for="(object, key) in lessons" :key="key">
+                                            <router-link :to="'/guidelines/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
+                                                {{ object.replaceAll('_', ' ') }}
                                             </router-link>
                                         </li>
                                     </ul>
@@ -36,15 +36,33 @@
 <script>
     export default {
         name: 'guidelines-index',
+        data() {
+            return {
+                units: []
+            }
+        },
         computed: {
-            guidelines: () => {
-                const guidelines = require.context(
+            lessons: () => {
+                const lessons = require.context(
                     '../../../public/json',
                     true,
                     /^.*\.json$/
                 )
-                return guidelines.keys().map(item => item.replace('./', '').replace('.json', ''))
+
+                return lessons.keys().map(item => item.replace('./', '').replace('.json', ''))
             }
+        },
+        methods: {
+            unitLoads() {
+                this.axios.get('/unit/list.json').then((response) => {
+                    this.units = response.data.list
+                })
+                return this.units
+            }
+        },
+        mounted() {
+            let self = this
+            self.unitLoads()
         }
     }
 </script>
