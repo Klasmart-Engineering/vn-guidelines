@@ -1,26 +1,26 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import GuideLinesListPage from "../pages/GuideLinesList";
-import GuideLinesDetail from "../pages/GuideLinesDetail";
-import HomePage from "../pages/Home";
+import GlIndex from "../pages/Guidelines/Index";
+import GlShow from "../pages/Guidelines/Show";
+import IndexPage from "../pages/Index";
 
 Vue.use(VueRouter)
 
 const routes = [
     {
         path: '/guidelines',
-        name:'guidelines-list',
-        component: GuideLinesListPage
+        name:'guidelines',
+        component: GlIndex
     },
     {
-        path: '/guidelines-view',
-        name:'guidelines-detail',
-        component: GuideLinesDetail
+        path: '/guidelines/view',
+        name:'guidelines-view',
+        component: GlShow
     },
     {
         path: '/',
         name: 'home',
-        component: HomePage
+        component: IndexPage
     }
 ]
 

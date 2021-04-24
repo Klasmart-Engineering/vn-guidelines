@@ -4,7 +4,9 @@
             <div class="page">
                 <section class="module-heading">
                     <div class="logo-wrap">
-                        <a href="unit-list.html"><img src="../assets/img/kl-logo.svg" alt=""></a>
+                        <router-link to="guidelines">
+                            <img src="@/assets/img/kl-logo.svg" alt="">
+                        </router-link>
                     </div>
                 </section>
 
@@ -16,7 +18,7 @@
                                     <h2>Unit 1: My Kindergarten</h2>
                                     <ul>
                                         <li v-for="(item, index) in guidelines" :key="index">
-                                            <router-link to="/guidelines-view?5-6_U1_LP1_Welcome_to_Badanamu_School_1">
+                                            <router-link :to="'/guidelines/view?' + item">
                                                 {{ item.replaceAll('_', ' ') }}
                                             </router-link>
                                         </li>
@@ -33,11 +35,11 @@
 
 <script>
     export default {
-        name: 'guidelines-list',
+        name: 'guidelines-index',
         computed: {
             guidelines: () => {
                 const guidelines = require.context(
-                    '../../public/json',
+                    '../../../public/json',
                     true,
                     /^.*\.json$/
                 )

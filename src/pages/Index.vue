@@ -5,7 +5,7 @@
                 <div class="col-12 text-center">
                     <div class="wrap">
                         <router-link to="/" class="logo">
-                            <img src="../assets/img/kl-logo.svg" alt="">
+                            <img src="@/assets/img/kl-logo.svg" alt="">
                         </router-link>
                         <h1>Welcome to KidsLoop VietNam</h1>
                         <router-link to="/guidelines" class="btn btn-primary cta">

@@ -1,8 +1,10 @@
 {
-  "unit_name": "Unit 1: My Kindergarten",
-  "lesson_name": "Lesson 2: Welcome to Badanamu school 2",
-  "lesson_banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "children_block": [
+  "unit": "Unit 1: My Kindergarten",
+  "introduction": {
+    "image": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "name": "Lesson 2: Welcome to Badanamu school 2"
+  },
+  "description": [
     {
       "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
       "text": "5-6 years old"
@@ -12,10 +14,10 @@
       "text": "45 minutes"
     }
   ],
-  "learning_block": {
-    "learning_title": "Learning objectives",
-    "learning_subtitle": "Students will be able to:",
-    "learning_list": [
+  "learning": {
+    "title": "Learning objectives",
+    "subtitle": "Students will be able to:",
+    "list": [
       {
         "text": "Learn the name of Badanamu characters and remember them"
       },
@@ -41,23 +43,23 @@
       }
     ]
   },
-  "materials_block": {
-    "materials_title": "Materials",
-    "materials_list": [
+  "materials": {
+    "title": "Materials",
+    "list": [
       {
         "text": "Kidsloop CMS: 5-6_U1_LP1_Welcome to Badanamu school 1"
       }
     ]
   },
-  "lesson_block": {
-    "lesson_title": "Lesson Flow",
-    "lesson_list": [
+  "lessons": {
+    "title": "Lesson Flow",
+    "list": [
       {
-        "col_left": {
+        "left_content": {
           "title": "Opening",
           "text": "3 mins"
         },
-        "col_right": {
+        "right_content": {
           "list": [
             {
               "text": "Greet students. “Hello.” Wave at students and encourage them to wave back to you as they repeat the greeting"
@@ -72,11 +74,11 @@
         }
       },
       {
-        "col_left": {
+        "left_content": {
           "title": "Sing",
           "text": "<i>“Badanamu Time”</i><br/>10 mins"
         },
-        "col_right": {
+        "right_content": {
           "list": [
             {
               "text": "Start the lesson by listening to the song"

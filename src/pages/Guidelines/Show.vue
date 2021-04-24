@@ -1,16 +1,16 @@
 <template>
     <div v-if="jsonData">
-        <gl-template-01 :data="jsonData"></gl-template-01>
+        <template-a :data="jsonData"></template-a>
     </div>
 </template>
 
 <script>
-    import glTemplate01 from "../components/GuideLinesTemplate01"
+    import TemplateA from "@/components/TemplateA"
 
     export default {
-        name: 'guidelines-detail',
+        name: 'guidelines-view',
         components: {
-            glTemplate01
+            TemplateA
         },
         data() {
             return {
@@ -21,7 +21,7 @@
             jsonLoad() {
                 this.$store.commit('windowURLGet')
                 const getURL = this.$store.state.windowURL
-                this.axios.get('json/'+getURL+'.json').then((response) => {
+                this.axios.get('/json/'+getURL+'.json').then((response) => {
                     this.jsonData = response.data
                 })
             }
