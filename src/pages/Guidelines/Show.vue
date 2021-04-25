@@ -17,6 +17,13 @@
                 jsonData: null
             }
         },
+        metaInfo() {
+            const regex = /\d-\d_U\d_LP\d_/i;
+            const title = this.$store.state.windowURL.replace(regex, '').replaceAll('_', ' ');
+            return {
+                title: title,
+            }
+        },
         methods: {
             jsonLoad() {
                 this.$store.commit('windowURLGet')

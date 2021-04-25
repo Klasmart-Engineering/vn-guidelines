@@ -36,6 +36,9 @@
 <script>
     export default {
         name: 'guidelines-index',
+        metaInfo: {
+            title: 'Guidelines List',
+        },
         data() {
             return {
                 units: []
