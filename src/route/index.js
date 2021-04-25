@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import GlIndex from "../pages/Guidelines/Index";
-import GlShow from "../pages/Guidelines/Show";
+import List from "../pages/Guidelines/Index";
+import Show from "../pages/Guidelines/Show";
 
 Vue.use(VueRouter)
 
@@ -9,12 +9,12 @@ const routes = [
     {
         path: '/guidelines/view',
         name:'guidelines-view',
-        component: GlShow
+        component: Show
     },
     {
         path: '/',
         name: 'home',
-        component: GlIndex
+        component: List
     }
 ]
 
