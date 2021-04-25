@@ -2,16 +2,10 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import GlIndex from "../pages/Guidelines/Index";
 import GlShow from "../pages/Guidelines/Show";
-import IndexPage from "../pages/Index";
 
 Vue.use(VueRouter)
 
 const routes = [
-    {
-        path: '/guidelines',
-        name:'guidelines',
-        component: GlIndex
-    },
     {
         path: '/guidelines/view',
         name:'guidelines-view',
@@ -20,7 +14,7 @@ const routes = [
     {
         path: '/',
         name: 'home',
-        component: IndexPage
+        component: GlIndex
     }
 ]
 

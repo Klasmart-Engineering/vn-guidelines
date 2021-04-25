@@ -12,9 +12,6 @@ export const store = new Vuex.Store({
         windowURL: '',
     },
     mutations: {
-        increment (state) {
-            state.count++
-        },
         windowURLGet (state) {
             state.windowURL = window.location.search.split('?')[1]
         }
