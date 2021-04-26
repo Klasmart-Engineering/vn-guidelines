@@ -2,7 +2,7 @@
     <main class="page-guidelines" v-if="data">
         <div class="container guidelines-container">
             <div class="page">
-                <section class="module-heading" v-if="data.introduction.image">
+                <section class="module-heading" v-if="data.introduction">
                     <div class="image-wrap">
                         <img :src="data.introduction.image" alt="">
                     </div>
@@ -23,7 +23,7 @@
                         <div class="row">
                             <div class="col-12 text-center">
                                 <div class="lesson-unit" v-if="data.unit">{{ data.unit }}</div>
-                                <h1 v-html="data.introduction.name"></h1>
+                                <h1 v-if="data.introduction" v-html="data.introduction.name"></h1>
                             </div>
                         </div>
                         <div class="row" v-if="data.description">
@@ -43,7 +43,7 @@
             </div>
 
             <div class="page">
-                <section class="module-lesson-guides">
+                <section class="module-lesson-guides" v-if="data.learning || data.materials">
                     <div class="container">
                         <div class="row" v-if="data.learning">
                             <div class="col-12">

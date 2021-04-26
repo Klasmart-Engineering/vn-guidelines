@@ -195,6 +195,10 @@
   }
 
   .module-heading {
+    ~ .module-title {
+      margin-top: -100px;
+    }
+
     .image-wrap {
       position: relative;
       padding-top: 75%;
@@ -213,7 +217,7 @@
 
   .module-title {
     position: relative;
-    margin-top: -100px;
+    margin-top: 20px;
 
     .logo {
       width: 200px;
