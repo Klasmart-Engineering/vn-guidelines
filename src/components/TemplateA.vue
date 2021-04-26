@@ -2,9 +2,9 @@
     <main class="page-guidelines" v-if="data">
         <div class="container guidelines-container">
             <div class="page">
-                <section class="module-heading">
+                <section class="module-heading" v-if="data.introduction.image">
                     <div class="image-wrap">
-                        <img v-if="data.introduction.image" :src="data.introduction.image" alt="">
+                        <img :src="data.introduction.image" alt="">
                     </div>
                 </section>
 
@@ -22,11 +22,11 @@
                         </div>
                         <div class="row">
                             <div class="col-12 text-center">
-                                <div class="lesson-unit">{{ data.unit }}</div>
+                                <div class="lesson-unit" v-if="data.unit">{{ data.unit }}</div>
                                 <h1 v-html="data.introduction.name"></h1>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row" v-if="data.description">
                             <div class="col-12">
                                 <ul>
                                     <li v-for="(item, index) in data.description" :key="index">
@@ -45,7 +45,7 @@
             <div class="page">
                 <section class="module-lesson-guides">
                     <div class="container">
-                        <div class="row">
+                        <div class="row" v-if="data.learning">
                             <div class="col-12">
                                 <h2 class="title-has-color is-secondary">{{ data.learning.title }}</h2>
                                 <h3>{{ data.learning.subtitle }}</h3>
@@ -62,7 +62,7 @@
                             </div>
                         </div>
 
-                        <div class="row">
+                        <div class="row" v-if="data.materials">
                             <div class="col-12">
                                 <h2 class="title-has-color">{{ data.materials.title }}</h2>
                                 <ul class="ul-custom">
@@ -81,7 +81,7 @@
                     </div>
                 </section>
 
-                <section class="module-lesson-table">
+                <section class="module-lesson-table" v-if="data.lessons">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">

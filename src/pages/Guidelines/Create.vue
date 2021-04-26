@@ -14,12 +14,15 @@
             >
             </vue-json-editor>
             <div class="actions-wrap">
+              <router-link to="/" class="btn btn-info back-to-home">
+                Back to home
+              </router-link>
+              <button type="button" @click="resetJson" class="btn btn-secondary btn-reset">reset</button>
+
               <div class="input-name-wrap">
                 <input type="text" placeholder="Input file name..." v-model="fileName">
               </div>
-              <button type="button" @click="resetJson" class="btn btn-danger btn-reset">reset</button>
             </div>
-            <a href="/" class="btn btn-success back-to-home">Back to home</a>
           </div>
         </div>
         <div class="col-12 col-lg-6">
