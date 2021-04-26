@@ -4,7 +4,7 @@
             <div class="page">
                 <section class="module-heading">
                     <div class="logo-wrap">
-                        <router-link to="guidelines">
+                        <router-link to="/">
                             <img src="@/assets/img/kl-logo.svg" alt="">
                         </router-link>
                     </div>
@@ -18,7 +18,7 @@
                                     <h2>{{ item.name }}</h2>
                                     <ul>
                                         <li v-for="(object, key) in lessons" :key="key">
-                                            <router-link :to="'/guidelines/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
+                                            <router-link :to="'/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
                                                 {{ object.replaceAll('_', ' ') }}
                                             </router-link>
                                         </li>

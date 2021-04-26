@@ -52,11 +52,10 @@ export default {
           this.jsonData = response.data;
         });
     },
-    onJsonChange(value) {
-      console.log("value:", value);
+    onJsonChange() {
+      // do nothing
     },
     onJsonSave() {
-      // console.log("value:", value);
       this.saveFile()
     },
     onError(value) {

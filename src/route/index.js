@@ -8,7 +8,7 @@ Vue.use(VueRouter)
 
 const routes = [
     {
-        path: '/guidelines/view',
+        path: '/view',
         name: 'guidelines-view',
         component: Show
     },

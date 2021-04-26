@@ -12,7 +12,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12 d-flex align-items-center justify-content-center">
-                                <router-link to="/guidelines" class="logo">
+                                <router-link to="/" class="logo">
                                     <div>
                                         <img src="../assets/img/kl-logo.svg" alt="">
                                         <span class="slogan">Welcome to KidsLoop</span>
