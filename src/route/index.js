@@ -13,7 +13,7 @@ const routes = [
         component: Show
     },
     {
-        path: '/guidelines/create',
+        path: '/editor',
         name: 'guidelines-create',
         component: Create
     },

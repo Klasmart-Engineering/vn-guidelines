@@ -1,29 +1,33 @@
 <template>
-  <div class="j-w">
-    <div class="editor-w clearfix">
-      <div class="w-2">
-        <div class="editor">
-          <vue-json-editor
-            v-model="jsonData"
-            :show-btns="true"
-            :mode="'code'"
-            @json-change="onJsonChange"
-            @json-save="onJsonSave"
-            @has-error="onError"
-          >
-          </vue-json-editor>
-        </div>
-      </div>
-      <div class="w-2">
-        <div class="code-pre">
-          <div slot="content">
-            <template-a :data="jsonData"></template-a>
+  <main class="page-guidelines create-mode">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-lg-6">
+          <div class="editor-wrap">
+            <vue-json-editor
+                    v-model="jsonData"
+                    :show-btns="true"
+                    :mode="'code'"
+                    @json-change="onJsonChange"
+                    @json-save="onJsonSave"
+                    @has-error="onError"
+            >
+            </vue-json-editor>
+            <div class="actions-wrap">
+              <div class="input-name-wrap">
+                <input type="text" placeholder="Input file name..." v-model="fileName">
+              </div>
+              <button type="button" @click="resetJson" class="btn btn-danger btn-reset">reset</button>
+            </div>
+            <a href="/" class="btn btn-success back-to-home">Back to home</a>
           </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <template-a :data="jsonData" v-if="jsonData"></template-a>
         </div>
       </div>
     </div>
-    <button type="button" @click="resetJson">reset</button>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -35,6 +39,7 @@ export default {
   data() {
     return {
       jsonData: null,
+      fileName: ''
     };
   },
   components: {
@@ -43,15 +48,16 @@ export default {
   },
   methods: {
     jsonLoad() {
-      this.axios.get("/json/sample.json").then((response) => {
-        this.jsonData = response.data;
-      });
+        this.axios.get("/json/sample.json").then((response) => {
+          this.jsonData = response.data;
+        });
     },
     onJsonChange(value) {
       console.log("value:", value);
     },
-    onJsonSave(value) {
-      console.log("value:", value);
+    onJsonSave() {
+      // console.log("value:", value);
+      this.saveFile()
     },
     onError(value) {
       console.log("value:", value);
@@ -61,6 +67,21 @@ export default {
         this.jsonData = response.data;
       });
     },
+    saveFile: function() {
+      const data = JSON.stringify(this.jsonData)
+      const blob = new Blob([data], {type: 'text/plain'})
+      const e = document.createEvent('MouseEvents'),
+              a = document.createElement('a')
+      if (this.fileName.length) {
+        a.download = this.fileName
+        a.href = window.URL.createObjectURL(blob)
+        a.dataset.downloadurl = ['text/json', a.download, a.href].join(':')
+        e.initEvent('click', true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null)
+        a.dispatchEvent(e)
+      } else {
+        alert('Please input file name')
+      }
+    }
   },
 
   mounted() {
@@ -69,40 +90,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.clearfix {
-  *zoom: 1;
-}
-
-.clearfix:before,
-.clearfix:after {
-  content: "";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.t {
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 60px;
-}
-
-.editor-w {
-  margin: 0 auto;
-  max-width: 1200px;
-  padding: 0 20px;
-}
-
-.w-2 {
-  float: left;
-  width: 50%;
-}
-
-.editor {
-  padding: 20px 60px;
-}
-</style>

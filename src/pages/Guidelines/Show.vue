@@ -1,7 +1,5 @@
 <template>
-    <div v-if="jsonData">
-        <template-a :data="jsonData"></template-a>
-    </div>
+    <template-a :data="jsonData" v-if="jsonData"></template-a>
 </template>
 
 <script>
@@ -30,7 +28,7 @@
                 const getURL = this.$store.state.windowURL
                 this.axios.get('/json/'+getURL+'.json').then((response) => {
                     this.jsonData = response.data
-                })
+                }).catch(error => console.log(error))
             }
         },
         mounted() {

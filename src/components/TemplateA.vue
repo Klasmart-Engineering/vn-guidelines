@@ -1,5 +1,5 @@
 <template>
-    <main class="page-guidelines">
+    <main class="page-guidelines" v-if="data">
         <div class="container guidelines-container">
             <div class="page">
                 <section class="module-heading">
@@ -23,7 +23,7 @@
                         <div class="row">
                             <div class="col-12 text-center">
                                 <div class="lesson-unit">{{ data.unit }}</div>
-                                <h1>{{ data.introduction.name }}</h1>
+                                <h1 v-html="data.introduction.name"></h1>
                             </div>
                         </div>
                         <div class="row">
