@@ -77,8 +77,46 @@
   padding-bottom: 200px;
   background-color: #fff;
 
+  &.index {
+    header {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px 0;
+      margin-bottom: 20px;
+
+      a {
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+
+      .logo-wrap {
+        color: $primary-color;
+        letter-spacing: 2px;
+
+        img {
+          height: 100px;
+        }
+
+        span {
+          display: block;
+        }
+      }
+
+      .editor-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+      }
+    }
+  }
+
   .guidelines-container {
-    background-color: #ffff;
+    background-color: #fff;
     padding: 20px 0 0;
   }
 

@@ -1,36 +1,35 @@
 <template>
-    <main class="page-guidelines">
-        <div class="container guidelines-list-container">
-            <div class="page">
-                <section class="module-heading">
-                    <div class="logo-wrap">
-                        <router-link to="/">
-                            <img src="@/assets/img/kl-logo.svg" alt="">
-                        </router-link>
-                    </div>
-                </section>
-
-                <section>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="unit-group" v-for="(item, index) in units" :key="index">
-                                    <h2>{{ item.name }}</h2>
-                                    <ul>
-                                        <li v-for="(object, key) in lessons" :key="key">
-                                            <router-link :to="'/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
-                                                {{ object.replaceAll('_', ' ') }}
-                                            </router-link>
-                                        </li>
-                                    </ul>
-                                </div>
+    <div class="page-guidelines index">
+        <header>
+            <router-link to="/" class="logo-wrap">
+                <img src="@/assets/img/kl-logo.svg" alt="">
+                <span>Welcome to Guidelines site</span>
+            </router-link>
+            <router-link to="/editor" class="btn btn-primary editor-btn">
+                Go Editor
+            </router-link>
+        </header>
+        <main>
+            <section class="guidelines-list-container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="unit-group" v-for="(item, index) in units" :key="index">
+                                <h2>{{ item.name }}</h2>
+                                <ul>
+                                    <li v-for="(object, key) in lessons" :key="key">
+                                        <router-link :to="'/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
+                                            {{ object.replaceAll('_', ' ') }}
+                                        </router-link>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
-                </section>
-            </div>
-        </div>
-    </main>
+                </div>
+            </section>
+        </main>
+    </div>
 </template>
 
 <script>
