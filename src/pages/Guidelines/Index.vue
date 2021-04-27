@@ -5,9 +5,6 @@
                 <img src="@/assets/img/kl-logo.svg" alt="">
                 <span>Welcome to Guidelines site</span>
             </router-link>
-            <router-link to="/editor" class="btn btn-primary editor-btn">
-                Go Editor
-            </router-link>
         </header>
         <main>
             <section class="guidelines-list-container">
