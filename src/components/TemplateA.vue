@@ -29,7 +29,7 @@
                             <div class="row">
                                 <div class="col-12 text-center">
                                     <div class="lesson-unit" v-if="data.unit">{{ data.unit }}</div>
-                                    <h1 v-if="data.introduction" v-html="data.introduction.name"></h1>
+                                    <h1 v-if="data.lesson_name" v-html="data.lesson_name"></h1>
                                 </div>
                             </div>
                             <div class="row" v-if="data.description">
