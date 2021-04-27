@@ -60,7 +60,6 @@ export default {
       const getURL = this.$store.state.windowURL
       const fileName = (getURL) ? `${getURL}.json` : 'sample.json'
       this.axios.get(`/json/${fileName}`).then((response) => {
-        console.log(response.data)
         this.jsonData = response.data;
       }).catch(error => console.log(error))
     },
