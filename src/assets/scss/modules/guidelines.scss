@@ -570,6 +570,18 @@
                       content: '\00bb';
                       background-color: transparent;
                     }
+
+                    ul {
+                      padding-left: 20px;
+                      padding-top: 5px;
+
+                      li {
+                        &:before {
+                          top: 4px;
+                          content: '\00b0';
+                        }
+                      }
+                    }
                   }
                 }
               }

@@ -120,6 +120,11 @@
                                                                     <ul v-if="object2.list">
                                                                         <li v-for="(object3, key3) in object2.list" :key="key3">
                                                                             <div v-html="object3.text"></div>
+                                                                            <ul v-if="object3.list">
+                                                                                <li v-for="(object4, key4) in object3.list" :key="key4">
+                                                                                    <div v-html="object4.text"></div>
+                                                                                </li>
+                                                                            </ul>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
