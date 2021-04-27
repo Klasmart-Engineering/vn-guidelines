@@ -45,15 +45,24 @@ export default {
       fileName: ''
     };
   },
+  metaInfo() {
+      return {
+          title: "Editor",
+      }
+  },
   components: {
     vueJsonEditor,
     TemplateA,
   },
   methods: {
     jsonLoad() {
-        this.axios.get("/json/sample.json").then((response) => {
-          this.jsonData = response.data;
-        });
+      this.$store.commit('windowURLGet')
+      const getURL = this.$store.state.windowURL
+      const fileName = (getURL) ? `${getURL}.json` : 'sample.json'
+      this.axios.get(`/json/${fileName}`).then((response) => {
+        console.log(response.data)
+        this.jsonData = response.data;
+      }).catch(error => console.log(error))
     },
     onJsonChange() {
       // do nothing
@@ -67,7 +76,7 @@ export default {
     resetJson() {
       this.axios.get("/json/sample.json").then((response) => {
         this.jsonData = response.data;
-      });
+      }).catch(error => console.log(error))
     },
     saveFile: function() {
       const data = JSON.stringify(this.jsonData)
