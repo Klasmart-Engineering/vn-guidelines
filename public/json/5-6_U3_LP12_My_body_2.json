@@ -4,7 +4,7 @@
     {
       "lang": "en",
       "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 11: MY BODY 1",
+      "lesson_name": "LESSON 12: MY BODY 2",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -35,6 +35,9 @@
                 "text": "<b>Gross motor skills:</b> movement following the song to dance along"
               },
               {
+                "text": "<b>Aesthetic development:</b> develop creative through art activities, make a body model using macaroni"
+              },
+              {
                 "text": "<b>Fine motor skills:</b> play interactive games"
               }
             ]
@@ -45,7 +48,10 @@
         "title": "Materials",
         "list": [
           {
-            "text": "Kidsloop CMS: 5-6_U3_LP11_My body 1"
+            "text": "Kidsloop CMS: 5-6_U3_LP12_My body 2"
+          },
+          {
+            "text": "A4 white paper, white glue, macaroni (straight shape and C shape), crayon"
           }
         ]
       },
@@ -79,12 +85,6 @@
               {
                 "list": [
                   {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher says: “We will sing a song about body parts today”"
-                  },
-                  {
                     "text": "Play the song: <b>“Mimi’s Robot”</b>"
                   },
                   {
@@ -111,19 +111,7 @@
                     ]
                   },
                   {
-                    "text": "Teacher plays the song again. Teacher pauses the music to focus on the day’s keywords <b>(feet, legs, hands, arms, head, neck)</b> and asks students to repeat the keywords"
-                  },
-                  {
-                    "text":  "Teacher emphasizes singular nouns and plural nouns of the body parts"
-                  },
-                  {
-                    "text":  "Teacher raises 1 hand and says: “It is my hand”"
-                  },
-                  {
-                    "text":  "Teacher raises 2 hands and say: “They are my hand<b style='color: red'>s</b>”"
-                  },
-                  {
-                    "text":  "Do the same with leg(<b style='color: red'>s</b>) / arm(<b style='color: red'>s</b>), ask students to repeat words (hand / hands; leg / legs; arm / arms) and correct their pronunciation"
+                    "text":  "Teacher emphasizes singular nouns and plural nouns of the body parts (hand / hands, arm / arms, leg / legs)<br/>Eg: Teacher raises 1 hand and asks students to say the word <i>“hand”</i>. Teacher raises 2 hands and asks students to say the word <i>“hands”</i>"
                   },
                   {
                     "text":  "Teacher calls out the keywords of body parts <b>(feet, legs, hands, arms, head, neck)</b>, students point to their body parts and repeat the keywords"
@@ -141,23 +129,20 @@
               {
                 "list": [
                   {
+                    "text": "Review keywords of the lesson <b>(arms, legs, feet, hands, head)</b>"
+                  },
+                  {
                     "text": "Teacher plays the storybook <b>“Mimi’s Robot board book”</b> and asks students to listen to the story"
                   },
                   {
-                    "text": "Teacher plays the story again, stop at each page. Teacher reads the story slowly and asks students questions:",
+                    "text": "Teacher pauses at each page containing keywords, points to the pictures and asks students to say the keywords"
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation"
+                  },
+                  {
+                    "text": "Teacher asks some questions to check their knowledge",
                     "list": [
-                      {
-                        "text": "What is Bada playing with? -> Bada is playing with a car"
-                      },
-                      {
-                        "text": "What is Abby playing with? -> Abby is playing with a frog"
-                      },
-                      {
-                        "text": "What is Mimi playing with? -> Mimi is playing with a Robot"
-                      },
-                      {
-                        "text": "What happens with Mimi’s robot? -> Mimi’s robot is broken"
-                      },
                       {
                         "text": "What does Abby find? -> Abby find the robot’s legs / the robot’s arms"
                       },
@@ -171,31 +156,6 @@
                         "text": "What does the robot need to complete the body? -> The robot needs legs, arms, feet, hands, head to complete the body"
                       }
                     ]
-                  },
-                  {
-                    "text": "Play a game to review the keywords",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at random pages that contain the images of keywords (legs, hands, feet, arms, head)"
-                      },
-                      {
-                        "text": "Teacher points to the images and invites students to say parts of the body"
-                      },
-                      {
-                        "text": "Ask students to repeat key words and correct their pronunciation",
-                        "list": [
-                          {
-                            "text": "Teacher flips through the book and stops at random pages that contain the images of keywords (legs, hands, feet, arms, head)"
-                          },
-                          {
-                            "text": "Teacher points to the images and invites students to say parts of the body"
-                          },
-                          {
-                            "text": "Ask students to repeat key words and correct their pronunciation"
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               }
@@ -204,14 +164,14 @@
           {
             "left_content": {
               "title": "Play",
-              "text": "<i>20 mins</i>"
+              "text": "<i>8 mins</i>"
             },
             "right_content": [
               {
                 "title": "Reinforce vocabulary"
               },
               {
-                "text": "<b>Keywords - Robot</b>",
+                "text": "<b>Keywords - Robot (5-6)</b>",
                 "list": [
                   {
                     "text": "Invite students to come to the board, click on the pictures and keywords to listen and repeat the keywords"
@@ -236,37 +196,54 @@
                 "title": "Interactive games"
               },
               {
-                "text": "<b>Memory game - Parts of the Body</b>",
+                "text": "<b>Body Robot - Body 1</b>",
                 "list": [
                   {
-                    "text": "Invite students to come to the board and turn over 2 cards to find pairs of pictures"
+                    "text": "Invite students to come to the board, drag the body parts of the robot on the right to put the robot together on the left"
+                  }
+                ]
+              },
+              {
+                "text": "<b>Drag the words – Robot</b>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, look at the pictures and listen the words and then drag the correct words into the box"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Do (steam activities)",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "text": "STEAM activity: <b>“Making body parts with macaroni”</b>",
+                "list": [
+                  {
+                    "text": "Work in individually"
+                  }
+                ]
+              },
+              {
+                "text": "<u>How to play</u>",
+                "list": [
+                  {
+                    "text": "Teacher prepares macaroni (straight shape and C shape), white glue, a sheet of A4, crayon paper for each students"
                   },
                   {
-                    "text": "Ask students to say the keywords"
-                  }
-                ]
-              },
-              {
-                "text": "<b>Maze - Mimi's robot</b>",
-                "list": [
+                    "text": "Instruct students to draw a head and color it by crayon"
+                  },
                   {
-                    "text": "Invite students to come to the board, look at the maze and the questions, choose the stickers to answer the questions"
-                  }
-                ]
-              },
-              {
-                "text": "<b>Matching - parts of body (Robot)</b>",
-                "list": [
+                    "text": "Use the white glue and stick the macaroni (straight shape) to make the neck, body, arms and legs"
+                  },
                   {
-                    "text": "Invite students to come to the board, drag the stickers to label the parts of the robot"
-                  }
-                ]
-              },
-              {
-                "text": "<b>Find the parts – Robot</b>",
-                "list": [
+                    "text": "Stick the macaroni (C shape) to make hands and feet"
+                  },
                   {
-                    "text": "Invite students to come to the board, look at the pictures and find the body parts of the robot"
+                    "text": "Look at the picture below as a model <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_000.jpg\">"
                   }
                 ]
               }
@@ -302,7 +279,7 @@
     {
       "lang": "vi",
       "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 11: CƠ THỂ BÉ 1",
+      "lesson_name": "BÀI 12: CƠ THỂ BÉ 2",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -333,7 +310,10 @@
                 "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc và nhảy theo bài hát."
               },
               {
-                "text": "<b>Kĩ năng vận động tinh:</b> Trò chơi tương tác."
+                "text": "<b>Phát triển thẩm mỹ:</b> Thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, làm mô hình cơ thể người sử dụng nui các loại."
+              },
+              {
+                "text": "<b>Kĩ năng vận động tinh:<b/> Trò chơi tương tác."
               }
             ]
           }
@@ -344,7 +324,10 @@
         "title": "Dụng cụ - Học liệu",
         "list": [
           {
-            "text": "Kidsloop CMS: 5-6_U3_LP11_My body 1."
+            "text": "Kidsloop CMS: 5-6_U3_LP12_My body 2."
+          },
+          {
+            "text": "Giấy trắng A4, keo sữa, nui (hình thẳng và hình C), màu sáp."
           }
         ]
       },
@@ -372,22 +355,16 @@
           {
             "left_content": {
               "title": "Hát",
-              "text": "“Mimi’s Robot”<br/><i><i>10 phút</i></i>"
+              "text": "“Mimi’s Robot”<br/><i><i>5 phút</i></i>"
             },
             "right_content": [
               {
                 "list": [
                   {
-                    "text": "Bắt đầu bài học bằng một bài hát."
+                    "text": "Phát bài hát (bài nhảy): “Mimi’s robot”."
                   },
                   {
-                    "text": "Giáo viên nói: “Hôm nay chúng ta sẽ nghe một bài hát về các bộ phận cơ thể.”"
-                  },
-                  {
-                    "text": "Phát bài hát (bài nhảy): <b>“Mimi’s robot”</b>."
-                  },
-                  {
-                    "text": "Tạo động tác và khuyến khích học sinh làm theo:",
+                    "text": "Ôn tập động tác và khuyến khích học sinh làm theo:",
                     "list": [
                       {
                         "text": "<b>Legs:</b> lắc chân."
@@ -410,23 +387,12 @@
                     ]
                   },
                   {
-                    "text": "Giáo viên mở lại bài hát. Giáo viên dừng nhạc để tập trung vào từ vựng của bài học <b>(bàn chân, chân, bàn tay, cánh tay, đầu, cổ)</b> và nói học sinh lặp lại từ vựng."
+                    "text": "Giáo viên ôn tập danh từ số ít và danh từ số nhiều của các bộ phận cơ thể (bàn tay / nhiều bàn tay, cánh tay / nhiều cánh tay, chân / nhiều bàn chân)<br/>Ví dụ:<br/> Giáo viên giơ 1 bàn tay và nói học sinh nói từ “bàn tay”<br/>Giáo viên giơ 2 bàn tay và nói học sinh nói từ “nhiều bàn tay”"
                   },
                   {
-                    "text": "Giáo viên nhấn mạnh danh từ số ít và danh từ số nhiều của các bộ phận cơ thể."
-                  },
-                  {
-                    "text": "Giáo viên giơ 1 bàn tay lên và nói: “Nó là 1 bàn tay của tôi”"
-                  },
-                  {
-                    "text": "Giáo viên giơ 2 bàn tay lên và nói: “Nó là các bàn tay của tôi”"
-                  },
-                  {
-                    "text": "Làm tương tự với chân / cánh tay, nói học sinh lặp lại các từ (bàn tay / nhiều bàn tay, chân / nhiều bàn chân, cánh tay / nhiều cánh tay) và sửa phát âm của học sinh."
-                  },
-                  {
-                    "text": "Giáo viên gọi từ vựng về các bộ phận cơ thể <b>(bàn chân, chân, bàn tay, cánh tay, đầu, cổ)</b>, học sinh chỉ vào các bộ phận trên cơ thể của mình và lặp lại từ vựng."
+                    "text": "Giáo viên gọi từ vựng về các bộ phận cơ thể (bàn chân, chân, bàn tay, cánh tay, đầu, cổ), học sinh chỉ vào các bộ phận trên cơ thể của mình và lặp lại từ vựng."
                   }
+
               ]
               }
             ]
@@ -440,26 +406,20 @@
               {
                 "list": [
                   {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (cánh tay, chân, bàn chân, đầu )."
+                    "text": "Ôn tập từ vựng của bài học (cánh tay, chân, bàn chân, head)."
                   },
                   {
                     "text": "Giáo viên mở sách “Mimi’s Robot storybook”, nói học sinh lắng nghe câu truyện."
                   },
                   {
-                    "text": "Giáo viên mở câu truyện lại lần nữa, ngừng ở từng trang. Giáo viên đọc chậm câu truyện và đặt câu hỏi cho học sinh:",
+                    "text": "Giáo viên dừng lại ở từng trang có chứa từ vựng, chỉ vào các bức tranh và nói học sinh nói từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  },
+                  {
+                    "text": "Giáo viên đặt câu để kiểm tra kiến thức của học sinh:",
                     "list": [
-                      {
-                        "text": "Bada đang chơi với cái gì? -> Bada đang chơi với xe hơi."
-                      },
-                      {
-                        "text": "Abby đang chơi vơi cái gì? -> Abby đang chơi vơi con ếch."
-                      },
-                      {
-                        "text": "Mimi đang chơi với cái gì? -> Mimi đang chơi vơi người máy."
-                      },
-                      {
-                        "text": "Chuyện gì xảy ra với người máy của Mimi? -> Người máy của Mimi bị vỡ."
-                      },
                       {
                         "text": "Abby tìm cái gì? -> Abby tìm chân người máy / cánh tay của người máy."
                       },
@@ -473,20 +433,6 @@
                         "text": "Người máy cần gì để hoàn thành cơ thể? -> Người máy cần chân, cánh tay, bàn chân, bàn tay, đầu để hoàn thành cơ thể."
                       }
                     ]
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập lại từ vựng.",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và ngừng ở các trang bất kì có chứa hình ảnh của từ vựng. (chân, bàn tay, bàn chân, cánh tay, đầu)"
-                      },
-                      {
-                        "text": "Giáo viên chỉ vào hình ảnh và mời học sinh nói tên bộ phận cơ thể."
-                      },
-                      {
-                        "text": "Nói học sinh lặp lại từ vựng và sửa phát âm của học sinh."
-                      }
-                    ]
                   }
               ]
               }
@@ -495,7 +441,7 @@
           {
             "left_content": {
               "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
+              "text": "<i>5 phút</i>"
             },
             "right_content": [
               {
@@ -510,7 +456,7 @@
                   {
                     "text": "Giáo viên sửa phát âm của học sinh."
                   }
-              ]
+                ]
               },
               {
                 "text": "<b>Tranh ảnh – Bộ phận cơ thể</b>",
@@ -521,43 +467,62 @@
                   {
                     "text": "Giáo viên sửa phát âm của học sinh."
                   }
-              ]
+                ]
               },
               {
                 "title": "Trò chơi tương tác"
               },
               {
-                "text": "<b>Trò chơi trí nhớ – Bộ phận cơ thể 1</b>",
+                "text": "<b>Cơ thể người máy – Cơ thể 1</b>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cặp hình ảnh."
+                    "text": "Mời học sinh lên bảng, kéo các bộ phận của người máy ở bên phải và ghép người máy lại với nhau ở bên trái."
+                  }
+                ]
+              },
+              {
+                "text": "<b>Kéo từ - Người máy</b>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, nhìn vào các bức tranh và nghe từ vựng và sau đó kéo từ đúng vào ô trống."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hoạt động khoa học nghệ thuật",
+              "text": "<i>20 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Hoạt động Khoa học – Nghệ thuật: “Làm các bộ phận cơ thể với nui”."
                   },
                   {
-                    "text": "Nói học sinh nói từ vựng."
+                    "text": "Hoạt động cá nhân."
                   }
               ]
               },
               {
-                "text": "<b>Mê cung - Người máy của Mimi</b>",
+                "text": "<u>Cách làm:</u>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng, nhìn vào mê cung và câu hỏi, chọn hình dán để trả lời câu hỏi."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Ghép nối - Các bộ phận cơ thể</b>",
-                "list": [
+                    "text": "Giáo viên chuẩn bị nui (hình đoạn thẳng và hình C), keo sữa, giấy A4, bút màu sáp cho từng học sinh."
+                  },
                   {
-                    "text": "Mời học sinh lên bảng, kéo hình dán để dán nhãn cho các bộ phận cơ thể."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Tìm các bộ phận</b>",
-                "list": [
+                    "text": "Hướng dẫn học sinh vẽ đầu và tô màu cái đầu bằng bút màu sáp."
+                  },
                   {
-                    "text": "Mời học sinh lên bảng, nhìn vào các bức tranh và tìm các bộ phận cơ thể của người máy."
+                    "text": "Sử dụng keo sữa và dán nui (hình đoạn thẳng) để làm cổ, cơ thể, cánh tay và chân."
+                  },
+                  {
+                    "text": "Dán nui hình C để làm bàn tay và bàn chân."
+                  },
+                  {
+                    "text": "Nhìn hình bên dưới như hình mẫu.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_000.jpg\">"
                   }
                 ]
               }
