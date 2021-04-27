@@ -111,8 +111,9 @@
 
   .content-wrap {
     &.vi-ver {
-      background-color: rgba($primary-color, 0.05);
-      padding-top: 40px;
+      padding-top: 50px;
+      border-top: dashed 5px rgba($primary-color, 0.5);
+      margin-top: 50px;
     }
   }
 
@@ -151,6 +152,9 @@
 
     .content-wrap {
       background-color: #fff !important;
+      padding-top: 0 !important;
+      margin-top: 0 !important;
+      border-top: none !important;
     }
   }
 
