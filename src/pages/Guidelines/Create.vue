@@ -97,6 +97,10 @@ export default {
   mounted() {
     let self = this;
     self.jsonLoad();
+
+    if(window.location.search) {
+      this.fileName = window.location.search.split('?')[1] + '.json'
+    }
   },
 };
 </script>

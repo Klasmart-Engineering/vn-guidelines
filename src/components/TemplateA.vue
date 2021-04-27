@@ -2,7 +2,7 @@
     <main class="page-guidelines" v-if="data">
         <div class="guidelines-container">
             <div class="content-wrap" v-for="(data, ckey) in data.content" :key="ckey" :class="data.lang === 'vi' ? 'vi-ver': ''">
-                <div class="page">
+                <div class="page" v-if="data.type !== 'others'">
                     <section class="module-heading" v-if="banner">
                         <div class="container">
                             <div class="row">
@@ -86,7 +86,7 @@
                     </section>
                 </div>
 
-                <div class="page">
+                <div class="page" v-if="data.type !== 'others'">
                     <section class="module-lesson-table" v-if="data.lessons">
                         <div class="container">
                             <div class="row">
@@ -135,6 +135,12 @@
                             </div>
                         </div>
                     </section>
+                </div>
+
+                <div class="page others" v-if="data.type === 'others'">
+                    <div class="img-wrap" v-for="(item, index) in data.list" :key="index">
+                        <img :src="item.src" alt="">
+                    </div>
                 </div>
             </div>
         </div>

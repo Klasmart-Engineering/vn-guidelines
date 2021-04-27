@@ -18,6 +18,11 @@
                                         <router-link :to="'/view?' + object" v-if="object.indexOf('U'+(index+1)) > 0">
                                             {{ object.replaceAll('_', ' ') }}
                                         </router-link>
+                                        <div class="actions-wrap">
+                                            <router-link :to="'/editor?' + object" v-if="object.indexOf('U'+(index+1)) > 0" class="btn btn-primary">
+                                                Edit
+                                            </router-link>
+                                        </div>
                                     </li>
                                 </ul>
                             </div>

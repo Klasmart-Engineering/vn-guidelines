@@ -42,21 +42,33 @@
     margin: 0;
 
     li {
+      display: flex;
+      align-self: center;
+
+      &:hover {
+        .actions-wrap {
+          opacity: 1;
+        }
+      }
+
       ~ li {
         margin-top: 5px;
       }
 
       a {
         position: relative;
+        display: inline-block;
+        vertical-align: top;
         color: #222;
         text-decoration: none;
         padding-left: 20px;
+        line-height: 30px;
 
         &:before {
           content: '';
           display: block;
           position: absolute;
-          top: 10px;
+          top: 12.5px;
           left: 0;
           width: 5px;
           height: 5px;
@@ -67,6 +79,21 @@
         &:hover {
           text-decoration: none;
           color: $primary-color;
+        }
+      }
+
+      .actions-wrap {
+        margin-left: 20px;
+        opacity: 0;
+
+        a {
+          padding: 0 10px;
+          line-height: 30px;
+          color: #fff;
+
+          &:before {
+            display: none;
+          }
         }
       }
     }
@@ -142,6 +169,10 @@
       background: initial;
       page-break-after: always;
       min-height: 297mm !important;
+
+      &.others {
+        padding-top: 0 !important;
+      }
     }
 
     table {
@@ -211,6 +242,10 @@
 
   .page {
     min-height: 100vh;
+
+    &.others {
+      padding-top: 40px;
+    }
   }
 
   ul.ul-custom {
