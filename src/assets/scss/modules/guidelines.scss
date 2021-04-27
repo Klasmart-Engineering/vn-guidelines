@@ -220,7 +220,7 @@
     li {
       position: relative;
       color: #000;
-      line-height: 300%;
+      line-height: 250%;
       padding-left: 20px;
 
       &:before {
@@ -313,13 +313,15 @@
       display: inline-block;
       vertical-align: top;
       color: #fff;
-      padding: 20px 60px;
+      padding: 15px 40px;
+      font-size: 26px;
       border-radius: 200px;
+      margin-top: 20px;
       background-color: $primary-color;
     }
 
     .lesson-unit {
-      font-size: 30px;
+      font-size: 24px;
       color: $secondary-color;
       margin-top: 15px;
       margin-bottom: 0;
@@ -368,10 +370,10 @@
 
   .module-lesson-guides {
     .container {
-      margin-top: 30px;
+      margin-top: 20px;
       background-color: rgba($primary-color, 0.1);
       border-radius: 50px;
-      padding: 30px 60px;
+      padding: 20px 60px;
     }
 
     .title-has-color {
