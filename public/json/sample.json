@@ -248,6 +248,30 @@
           },
           {
             "left_content": {
+              "title": "Do (steam activities)",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "text": "STEAM Activity: <strong>“Badamanu Colouring”</strong>"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Teacher prepares crayons and different drawings of Badanamu characters"
+                  },
+                  {
+                    "text": "Students use crayons to colour the characters"
+                  },
+                  {
+                    "text": "Encourage students to name the characters"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
               "title": "Closing",
               "text": "<i>2 mins</i>"
             },
