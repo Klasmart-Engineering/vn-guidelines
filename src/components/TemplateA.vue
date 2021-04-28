@@ -51,8 +51,8 @@
                         <div class="container">
                             <div class="row" v-if="data.learning">
                                 <div class="col-12">
-                                    <h2 class="title-has-color is-secondary">{{ data.learning.title }}</h2>
-                                    <h3>{{ data.learning.subtitle }}</h3>
+                                    <h3 class="title-has-color is-secondary">{{ data.learning.title }}</h3>
+                                    <h4>{{ data.learning.subtitle }}</h4>
                                     <ul class="ul-custom">
                                         <li v-for="(item, index) in data.learning.list" :key="index">
                                             <div v-html="item.text"></div>
@@ -68,7 +68,7 @@
 
                             <div class="row" v-if="data.materials">
                                 <div class="col-12">
-                                    <h2 class="title-has-color">{{ data.materials.title }}</h2>
+                                    <h3 class="title-has-color">{{ data.materials.title }}</h3>
                                     <ul class="ul-custom">
                                         <li v-for="(item, index) in data.materials.list" :key="index">
                                             <div v-html="item.text">
@@ -143,8 +143,16 @@
                 </div>
 
                 <div class="page others" v-if="data.type === 'others'">
-                    <div class="img-wrap" v-for="(item, index) in data.list" :key="index">
-                        <img :src="item.img" alt="">
+                    <div class="container">
+                        <div class="row" v-for="(item, index) in data.list" :key="index">
+                            <div class="col-12" v-if="item.img">
+                                <div class="img-wrap">
+                                    <img :src="item.img" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-12" v-if="item.text" v-html="item.text"></div>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -571,6 +571,17 @@
           }
         ]
       }
+    },
+    {
+      "type": "others",
+      "list": [
+        {
+          "img": "https://kidsloop.vn/wp-content/uploads/2021/04/u1-pl2-color.png"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
     }
   ]
 }
