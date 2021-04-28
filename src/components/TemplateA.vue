@@ -144,7 +144,7 @@
 
                 <div class="page others" v-if="data.type === 'others'">
                     <div class="img-wrap" v-for="(item, index) in data.list" :key="index">
-                        <img :src="item.src" alt="">
+                        <img :src="item.img" alt="">
                     </div>
                 </div>
             </div>
