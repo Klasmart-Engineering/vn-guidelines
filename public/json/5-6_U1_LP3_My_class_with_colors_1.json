@@ -212,10 +212,10 @@
                                 "text": "<strong>Flashcards - Purple, orange, green and pink</strong>",
                                 "list": [
                                     {
-                                        "text": "Teach play the flashcards, invites students to come to the board and write the name of colors by clicking on the letter with the keyboard"
+                                        "text": "Teacher plays the flashcards, invites students to come to the board and say the colors."
                                     },
                                     {
-                                        "text": "Ask students to say the colors"
+                                        "text": "Record their voice and check the answer."
                                     }
                                 ]
                             },
@@ -511,10 +511,10 @@
                                 "text": "<strong>Tranh ảnh – màu tím, màu cam, màu xanh lá cây và màu hồng</strong>",
                                 "list": [
                                     {
-                                        "text": "Giáo viên mở các bức tranh, mời học sinh lên bảng và viết tên màu sắc bằng cách bấm vào chữ cái trên bàn phím."
+                                        "text": "Giáo viên mở các bức tranh, mời học sinh lên bảng và đọc tên màu sắc."
                                     },
                                     {
-                                        "text": "Nói học sinh đọc tên màu sắc."
+                                        "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
                                     }
                                 ]
                             },
