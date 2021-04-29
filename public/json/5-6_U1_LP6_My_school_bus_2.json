@@ -1,533 +1,544 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 1: MY KINDERGARTEN",
-      "lesson_name": "LESSON 6: MY SCHOOL BUS 2",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "UNIT 1: MY KINDERGARTEN",
+            "lesson_name": "LESSON 6: MY SCHOOL BUS 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn some vocabulary: window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep"
+                    },
+                    {
+                        "text": "Develop speaking and listening skills"
+                    },
+                    {
+                        "text": "Develop the other development skills:",
+                        "list": [
+                            {
+                                "text": "<strong>Cognitive Development:</strong> know and understand characteristics of parts of the bus"
+                            },
+                            {
+                                "text": "<strong>Gross motor skill:</strong> movement following the song to stand up, sit down, move the hands round and round, etc"
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games"
+                            },
+                            {
+                                "text": "<b>Aesthetic development:</b> through a Steam activity - making a paper school bus"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U1_LP6_My school bus 2"
+                    },
+                    {
+                        "text": "Handout, scissors, crayon"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Teacher welcomes the class and introduces Bada and friends"
+                                    },
+                                    {
+                                        "text": "Review names of Badanamu characters if necessary"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“The wheels on the bus”<br/><i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by reviewing the song"
+                                    },
+                                    {
+                                        "text": "Play the song: <b>“The wheel on the bus”</b>"
+                                    },
+                                    {
+                                        "text": "Review the actions and encourage students to follow",
+                                        "list": [
+                                            {
+                                                "text": "<b>Wheel:</b> make a round and round motion with your arms"
+                                            },
+                                            {
+                                                "text": "<b>Window:</b> stand up and sit down"
+                                            },
+                                            {
+                                                "text": "<b>Horn:</b> put 2 hands on the mouth pretend blowing"
+                                            },
+                                            {
+                                                "text": "<b>Light:</b> open and close the palms"
+                                            },
+                                            {
+                                                "text": "<b>Wiper:</b> raise the arms up straight and move from the left to the right and vice versa"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song the second time, ask students to make the actions along the song and say: Window – up and down; wiper – swish, swish, swish; wheel – round and round; light – blink, blink, blink; horn – beep, beep, beep"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“The wheels on the bus”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Review the keywords of the lesson <b>(window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep)</b>"
+                                    },
+                                    {
+                                        "text": "Open each page of the storybook, ask students to listen to the story of the book"
+                                    },
+                                    {
+                                        "text": "Teacher asks students to repeat the keywords and correct their pronunciation"
+                                    },
+                                    {
+                                        "text": "Invites students to say the sentences “The wheels on the bus go round and round, the horn on the bus goes beep, beep, beep, etc.” Teacher corrrects their pronunciation"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords (wheel, round and round, light, blink, horn, beep)</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Keywords (window, up and down, wiper, swish)</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Drag & Drop - Horn, lights, wheels</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students come to the board, read the descriptions and choose the correct pictures to match with the descriptions"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Arrange the correct letters - Wheel, horn</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and arrange the letters in the correct order"
+                                    },
+                                    {
+                                        "text": "Ask students to say the words"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do (steam activities)",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "STEAM activity: <b>“Paper Weaving School Bus Craft”</b>",
+                                "list": [
+                                    {
+                                        "text": "Work in individually"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>How to play</u>",
+                                "list": [
+                                    {
+                                        "text": "Use the scissors to cut out the templates in the handout and colour the school bus by crayons <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0003.jpg\">"
+                                    },
+                                    {
+                                        "text": "Fold the school bus in half and make sure that the dotted lines show on the outside <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0004.jpg\">"
+                                    },
+                                    {
+                                        "text": "Cut along the folded edge of the school bus along the dotted lines marked on the template. Make sure to stop at the end of the dotted line. Unfold the paper school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0005.jpg\">"
+                                    },
+                                    {
+                                        "text": "Insert the biggest white rectangle and begin weaving it through the slots of the school bus. Start at the end of the school bus, weaving the white rectangle up through the first slot and then down in the next slot. Continue until the rectangle is weaved through the entire school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0006.jpg\">"
+                                    },
+                                    {
+                                        "text": "Insert the black rectangle and weave it through the bus. This time, start at the end of the school bus and weave the black rectangle going down into the first slot and then up into the next slot, etc <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0007.jpg\">"
+                                    },
+                                    {
+                                        "text": "Weave the yellow rectangle through the school bus, weaving up from the last slot and then down into the next slot, continue until it is weaved through the school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0008.jpg\">"
+                                    },
+                                    {
+                                        "text": "Glue the wheels at the bottom of your paper weaved school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0009.jpg\">"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again <strong>“The wheels on the bus”</strong>"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn some vocabulary: window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep"
-          },
-          {
-            "text": "Develop speaking and listening skills"
-          },
-          {
-            "text": "Develop the other development skills:",
-            "list": [
-              {
-                "text": "<strong>Cognitive Development:</strong> know and understand characteristics of parts of the bus"
-              },
-              {
-                "text": "<strong>Gross motor skill:</strong> movement following the song to stand up, sit down, move the hands round and round, etc"
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> play interactive games"
-              },
-              {
-                "text": "<b>Aesthetic development:</b> through a Steam activity - making a paper school bus"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U1_LP6_My school bus 2"
-          },
-          {
-            "text": "Handout, scissors, crayon"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
+            "lang": "vi",
+            "unit": "Chương 1: Trường mầm non của bé",
+            "lesson_name": "BÀI 6: XE BUÝT CỦA TRƯỜNG TÔI 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng: cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp."
+                    },
+                    {
+                        "text": "Phát triển kỹ năng nghe và nói"
+                    },
+                    {
+                        "text": "Phát triển các kỹ năng phát triển khác:",
+                        "list": [
+                            {
+                                "text": "<strong>Phát triển nhận thức:</strong> biết và hiểu được đặc tính của các bộ phận của xe buýt."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc đứng lên ngồi xuống, xoay vòng 2 cánh tay, v.v."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác."
+                            },
+                            {
+                                "text": "<b>Phát triển thẩm mĩ:</b> thông qua hoạt động Steam – làm chiếc xe buýt bằng giấy."
+                            }
+                        ]
+                    }
+                ]
             },
-            "right_content": [
-              {
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
                 "list": [
-                  {
-                    "text": "Teacher welcomes the class and introduces Bada and friends"
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary"
-                  }
+                    {
+                        "text": "Kidsloop CMS: 5-6_U1_LP6_My school bus 2."
+                    },
+                    {
+                        "text": "Handout, kéo, màu sáp, hồ dán."
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“The wheels on the bus”<br/><i>5 mins</i>"
             },
-            "right_content": [
-              {
+            "lessons": {
+                "title": "Tiến trình bài học",
                 "list": [
-                  {
-                    "text": "Start the lesson by reviewing the song"
-                  },
-                  {
-                    "text": "Play the song: <b>“The wheel on the bus”</b>"
-                  },
-                  {
-                    "text": "Review the actions and encourage students to follow",
-                    "list": [
-                      {
-                        "text": "<b>Wheel:</b> make a round and round motion with your arms"
-                      },
-                      {
-                        "text": "<b>Window:</b> stand up and sit down"
-                      },
-                      {
-                        "text": "<b>Horn:</b> put 2 hands on the mouth pretend blowing"
-                      },
-                      {
-                        "text": "<b>Light:</b> open and close the palms"
-                      },
-                      {
-                        "text": "<b>Wiper:</b> raise the arms up straight and move from the left to the right and vice versa"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song the second time, ask students to make the actions along the song and say: Window – up and down; wiper – swish, swish, swish; wheel – round and round; light – blink, blink, blink; horn – beep, beep, beep"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“The wheels on the bus”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Review the keywords of the lesson <b>(window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep)</b>"
-                  },
-                  {
-                    "text": "Open each page of the storybook, ask students to listen to the story of the book"
-                  },
-                  {
-                    "text": "Teacher asks students to repeat the keywords and correct their pronunciation"
-                  },
-                  {
-                    "text": "Invites students to say the sentences “The wheels on the bus go round and round, the horn on the bus goes beep, beep, beep, etc.” Teacher corrrects their pronunciation"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords (wheel, round and round, light, blink, horn, beep)</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
+                                    },
+                                    {
+                                        "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“The wheels on the bus”<br/><i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học ôn tập bài hát."
+                                    },
+                                    {
+                                        "text": "Phát bài hát: “The wheel on the bus”."
+                                    },
+                                    {
+                                        "text": "Ôn tập hoạt động và thuyết phục học sinh làm theo.",
+                                        "list": [
+                                            {
+                                                "text": "<b>Wheel:</b> xoay vòng 2 cánh tay với nhau."
+                                            },
+                                            {
+                                                "text": "<b>Window:</b> đứng lên và ngồi xuống."
+                                            },
+                                            {
+                                                "text": "<b>Horn:</b> đưa 2 tay lên miệng như đang thổi."
+                                            },
+                                            {
+                                                "text": "<b>Light:</b> đóng và mở lòng bàn tay."
+                                            },
+                                            {
+                                                "text": "<b>Wiper:</b> đưa 2 cánh tay lên mà di chuyển từ trái sang phải và ngược lại."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên mở lại bài hát lần hai, nói học sinh làm động tác theo bài hát và nói: Cửa số - lên và xuống, cần gạt nước – sột soạt, sột soạt, sột soạt, bánh xe – quay vòng vòng; đèn – nhấp nháy, nhấp nháy, nhấp nháy; kèn – bíp, bíp bíp."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“The wheels on the bus”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Ôn tập từ vựng của bài học <b>(cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp)</b>."
+                                    },
+                                    {
+                                        "text": "Mở từng trang của câu chuyện, nói học sinh lắng nghe câu chuyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói học sinh lặp lại từ vựng và sửa phát âm của học sinh."
+                                    },
+                                    {
+                                        "text": "Mời học sinh nói các câu <i>“Bánh xe của xe buýt quay vòng vòng, Cái còi của xe buýt kêu bíp, bíp, bíp,</i> … Giáo viên sửa phát âm của học sinh"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Từ vựng (wheel, round and round, light, blink, horn, beep)</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Từ vựng (window, up and down, wiper, swish)</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Kéo và thả - Kèn, đèn, bánh xe</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, đọc các mô tả và chọn bức tranh đúng để ghép vào mô tả."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Mời học sinh lên bảng, đọc các mô tả và chọn bức tranh đúng để ghép vào mô tả</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và sắp xếp các chữ cái theo đúng thứ tự"
+                                    },
+                                    {
+                                        "text": "Nói học sinh đọc từ"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động khoa học nghệ thuật",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "Hoạt động Khoa học – Nghệ thuật: <b>“Xe buýt thủ công”</b>.",
+                                "list": [
+                                    {
+                                        "text": "Hoạt động cá nhân."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>Cách làm:</u>",
+                                "list": [
+                                    {
+                                        "text": "Dùng kéo cắt các hình mẫu từ bản mẫu và tô màu xe buýt bằng bút màu sáp. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0003.jpg\">"
+                                    },
+                                    {
+                                        "text": "Gấp đôi xe buýt và đảm bảo rằng các đường chấm chấm hiển thị bên ngoài. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0004.jpg\">"
+                                    },
+                                    {
+                                        "text": "Cắt dọc theo mép gấp của xe buýt, theo đường nét chấm đã được đánh dấu trên mẫu. Đảm bảo dừng ở cuối vạch kẻ nét chấm. Mở xe buýt bằng giấy ra. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0005.jpg\">"
+                                    },
+                                    {
+                                        "text": "Chèn hình chữ nhật trắng lớn vào xe buýt và bắt đầu đan nó qua các khe của xe buýt. Bắt đầu từ cuối xe buýt, đan hình chữ nhật màu trắng qua rãnh đầu tiên rồi luồng xuống rãnh tiếp theo. Cứ tiếp tục cho đến khi đan qua toàn bộ xe buýt. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0006.jpg\">"
+                                    },
+                                    {
+                                        "text": "Chèn hình chữ nhật màu đen và đan nó vào xe buýt. Lần này bắt đầu ở cuối xe buýt và đan hình chữ nhật màu đen xuống khe đầu tiên rồi sau đó lên khe tiếp theo. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0007.jpg\">"
+                                    },
+                                    {
+                                        "text": "Đan hình chữ nhật màu vàng xuyên qua xe buýt, đan lên từ rãnh cuối cùng rồi xuống rãnh tiếp theo, tiếp tục đan qua toàn bộ xe buýt. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0008.jpg\">"
+                                    },
+                                    {
+                                        "text": "Dán bánh xe vào dưới cùng của xe. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0009.jpg\">"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Phát lại bài hát <strong>“The wheels on the bus”</strong>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              },
-              {
-                "text": "<b>Keywords (window, up and down, wiper, swish)</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Drag & Drop - Horn, lights, wheels</strong>",
-                "list": [
-                  {
-                    "text": "Invite students come to the board, read the descriptions and choose the correct pictures to match with the descriptions"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Arrange the correct letters - Wheel, horn</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and arrange the letters in the correct order"
-                  },
-                  {
-                    "text": "Ask students to say the words"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Do (steam activities)",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "text": "STEAM activity: <b>“Paper Weaving School Bus Craft”</b>",
-                "list": [
-                  {
-                    "text": "Work in individually"
-                  }
-                ]
-              },
-              {
-                "text": "<u>How to play</u>",
-                "list": [
-                  {
-                    "text": "Use the scissors to cut out the templates in the handout and colour the school bus by crayons <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0003.jpg\">"
-                  },
-                  {
-                    "text": "Fold the school bus in half and make sure that the dotted lines show on the outside <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0004.jpg\">"
-                  },
-                  {
-                    "text": "Cut along the folded edge of the school bus along the dotted lines marked on the template. Make sure to stop at the end of the dotted line. Unfold the paper school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0005.jpg\">"
-                  },
-                  {
-                    "text": "Insert the biggest white rectangle and begin weaving it through the slots of the school bus. Start at the end of the school bus, weaving the white rectangle up through the first slot and then down in the next slot. Continue until the rectangle is weaved through the entire school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0006.jpg\">"
-                  },
-                  {
-                    "text": "Insert the black rectangle and weave it through the bus. This time, start at the end of the school bus and weave the black rectangle going down into the first slot and then up into the next slot, etc <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0007.jpg\">"
-                  },
-                  {
-                    "text": "Weave the yellow rectangle through the school bus, weaving up from the last slot and then down into the next slot, continue until it is weaved through the school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0008.jpg\">"
-                  },
-                  {
-                    "text": "Glue the wheels at the bottom of your paper weaved school bus <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0009.jpg\">"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song again <strong>“The wheels on the bus”</strong>"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "Chương 1: Trường mầm non của bé",
-      "lesson_name": "BÀI 6: XE BUÝT CỦA TRƯỜNG TÔI 2",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng: cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp."
-          },
-          {
-            "text": "Phát triển kỹ năng nghe và nói"
-          },
-          {
-            "text": "Phát triển các kỹ năng phát triển khác:",
+            "type": "others",
             "list": [
-              {
-                "text": "<strong>Phát triển nhận thức:</strong> biết và hiểu được đặc tính của các bộ phận của xe buýt."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc đứng lên ngồi xuống, xoay vòng 2 cánh tay, v.v."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác."
-              },
-              {
-                "text": "<b>Phát triển thẩm mĩ:</b> thông qua hoạt động Steam – làm chiếc xe buýt bằng giấy."
-              }
+                {
+                    "img": "https://kidsloop.vn/wp-content/uploads/2021/04/bus-1.png"
+                },
+                {
+                    "img": "https://kidsloop.vn/wp-content/uploads/2021/04/bus-2.png"
+                }
             ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U1_LP6_My school bus 2."
-          },
-          {
-            "text": "Handout, kéo, màu sáp, hồ dán."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
-                  },
-                  {
-                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“The wheels on the bus”<br/><i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học ôn tập bài hát."
-                  },
-                  {
-                    "text": "Phát bài hát: “The wheel on the bus”."
-                  },
-                  {
-                    "text": "Ôn tập hoạt động và thuyết phục học sinh làm theo.",
-                    "list": [
-                      {
-                        "text": "<b>Wheel:</b> xoay vòng 2 cánh tay với nhau."
-                      },
-                      {
-                        "text": "<b>Window:</b> đứng lên và ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Horn:</b> đưa 2 tay lên miệng như đang thổi."
-                      },
-                      {
-                        "text": "<b>Light:</b> đóng và mở lòng bàn tay."
-                      },
-                      {
-                        "text": "<b>Wiper:</b> đưa 2 cánh tay lên mà di chuyển từ trái sang phải và ngược lại."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên mở lại bài hát lần hai, nói học sinh làm động tác theo bài hát và nói: Cửa số - lên và xuống, cần gạt nước – sột soạt, sột soạt, sột soạt, bánh xe – quay vòng vòng; đèn – nhấp nháy, nhấp nháy, nhấp nháy; kèn – bíp, bíp bíp."
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“The wheels on the bus”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Ôn tập từ vựng của bài học <b>(cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp)</b>."
-                  },
-                  {
-                    "text": "Mở từng trang của câu chuyện, nói học sinh lắng nghe câu chuyện."
-                  },
-                  {
-                    "text": "Giáo viên nói học sinh lặp lại từ vựng và sửa phát âm của học sinh."
-                  },
-                  {
-                    "text": "Mời học sinh nói các câu <i>“Bánh xe của xe buýt quay vòng vòng, Cái còi của xe buýt kêu bíp, bíp, bíp,</i> … Giáo viên sửa phát âm của học sinh"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Từ vựng (wheel, round and round, light, blink, horn, beep)</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Từ vựng (window, up and down, wiper, swish)</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Kéo và thả - Kèn, đèn, bánh xe</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, đọc các mô tả và chọn bức tranh đúng để ghép vào mô tả."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Mời học sinh lên bảng, đọc các mô tả và chọn bức tranh đúng để ghép vào mô tả</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và sắp xếp các chữ cái theo đúng thứ tự"
-                  },
-                  {
-                    "text": "Nói học sinh đọc từ"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hoạt động khoa học nghệ thuật",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "text": "Hoạt động Khoa học – Nghệ thuật: <b>“Xe buýt thủ công”</b>.",
-                "list": [
-                  {
-                    "text": "Hoạt động cá nhân."
-                  }
-                ]
-              },
-              {
-                "text": "<u>Cách làm:</u>",
-                "list": [
-                  {
-                    "text": "Dùng kéo cắt các hình mẫu từ bản mẫu và tô màu xe buýt bằng bút màu sáp. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0003.jpg\">"
-                  },
-                  {
-                    "text": "Gấp đôi xe buýt và đảm bảo rằng các đường chấm chấm hiển thị bên ngoài. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0004.jpg\">"
-                  },
-                  {
-                    "text": "Cắt dọc theo mép gấp của xe buýt, theo đường nét chấm đã được đánh dấu trên mẫu. Đảm bảo dừng ở cuối vạch kẻ nét chấm. Mở xe buýt bằng giấy ra. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0005.jpg\">"
-                  },
-                  {
-                    "text": "Chèn hình chữ nhật trắng lớn vào xe buýt và bắt đầu đan nó qua các khe của xe buýt. Bắt đầu từ cuối xe buýt, đan hình chữ nhật màu trắng qua rãnh đầu tiên rồi luồng xuống rãnh tiếp theo. Cứ tiếp tục cho đến khi đan qua toàn bộ xe buýt. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0006.jpg\">"
-                  },
-                  {
-                    "text": "Chèn hình chữ nhật màu đen và đan nó vào xe buýt. Lần này bắt đầu ở cuối xe buýt và đan hình chữ nhật màu đen xuống khe đầu tiên rồi sau đó lên khe tiếp theo. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0007.jpg\">"
-                  },
-                  {
-                    "text": "Đan hình chữ nhật màu vàng xuyên qua xe buýt, đan lên từ rãnh cuối cùng rồi xuống rãnh tiếp theo, tiếp tục đan qua toàn bộ xe buýt. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0008.jpg\">"
-                  },
-                  {
-                    "text": "Dán bánh xe vào dưới cùng của xe. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0009.jpg\">"
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Phát lại bài hát <strong>“The wheels on the bus”</strong>."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+        }
+    ]
 }
