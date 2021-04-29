@@ -1,600 +1,600 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "Unit 1: My Kindergarten",
-      "lesson_name": "Lesson 3: My class with colors 1",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "Unit 1: My Kindergarten",
+            "lesson_name": "Lesson 3: My class with colors 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn some secondary colors: <strong>purple, orange, green, pink</strong> which are mixed by primary colors"
+                    },
+                    {
+                        "text": "Develop speaking and listening skills"
+                    },
+                    {
+                        "text": "Develop the other development skills:",
+                        "list": [
+                            {
+                                "text": "<strong>Cognitive Development:</strong> understand the mixing primary colors creates new colors"
+                            },
+                            {
+                                "text": "<strong>Gross motor skill:</strong> movement following the song and jump with characters"
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U1_LP3_ My class with colors 1"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Teacher welcomes the class and introduces Bada and friends"
+                                    },
+                                    {
+                                        "text": "Review names of Badanamu characters if necessary"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Mixing colors”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Teacher(s) says: <i>“We will sing a song about colors today”</i>"
+                                    },
+                                    {
+                                        "text": "Play the song: <strong>“Mixing color”</strong>, pause at the keywords (purple, orange, green, pink) and practice the actions below:",
+                                        "list": [
+                                            {
+                                                "text": "<strong>Purple:</strong> Clap the hands"
+                                            },
+                                            {
+                                                "text": "<strong>Orange:</strong> Turn around"
+                                            },
+                                            {
+                                                "text": "<strong>Green:</strong> Sit down"
+                                            },
+                                            {
+                                                "text": "<strong>Pink:</strong> Wiggle"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Let’s listen to the song again. Teacher pauses the song at each secondary color <strong>(purple, orange, green, pink)</strong> and emphasizes students that.",
+                                        "list": [
+                                            {
+                                                "text": "<i>Red and blue make purple</i>"
+                                            },
+                                            {
+                                                "text": "<i>Yellow and red make orange</i>"
+                                            },
+                                            {
+                                                "text": "<i>Yellow and blue make green</i>"
+                                            },
+                                            {
+                                                "text": "<i>White and red make pink</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“My colors” storybook<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic of the story and the keywords <strong>(purple, orange, green, pink)</strong>"
+                                    },
+                                    {
+                                        "text": "Teach plays the storybook in page 5, 6, 7 and 9 and asks students to listen the colors"
+                                    },
+                                    {
+                                        "text": "Teacher pauses at each page, points to colors and additional vocabulary <i>(Ecco, grape, flower, glove, hopping horse, carrot, yarn, cat, button, dinosaur, tree, mitten, wig, shoes, horn, pig)</i> and asks students questions:",
+                                        "list": [
+                                            {
+                                                "text": "<i>What color is it? &#x02192; It is purple / orange / green / pink</i>"
+                                            },
+                                            {
+                                                "text": "<i>What is it? &#x02192; It is a/an Ecco / grape / flower / glove / hopping horse / carrot/ yarn / cat / button / dinosaur / tree / mitten / wig / shoes / horn / pig</i>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Asks students to repeat vocabulary. Teacher corrects their pronunciation"
+                                    },
+                                    {
+                                        "text": "Teacher instructs students to say whole sentences and corrects their pronunciation",
+                                        "list": [
+                                            {
+                                                "text": "It is a (an) purple Ecco / grape / etc."
+                                            },
+                                            {
+                                                "text": "It is an (a) orange carrot / hopping horse / etc."
+                                            },
+                                            {
+                                                "text": "It is a (an) green button / dinosaur / etc."
+                                            },
+                                            {
+                                                "text": "It is a (an) pink wig / horn / etc."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book"
+                                            },
+                                            {
+                                                "text": "Teacher calls out the color of an image and invites students to point to the correct image (purple grape, orange carrot, etc.)"
+                                            },
+                                            {
+                                                "text": "Have students say color of an image"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Teacher points to some objects in the classroom and asks students to say color of them"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<strong>Course presentation – Purple, orange, green and pink</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the colors and pictures to listen and repeat the words"
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Flashcards - Purple, orange, green and pink</strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, invites students to come to the board and say the colors."
+                                    },
+                                    {
+                                        "text": "Record their voice and check the answer."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Memory game - Orange, Purple, Green and Pink</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and turn over 2 cards to find the pairs of pictures"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag & Drop - Mixing colors: Purple, Orange, Green</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and drag the items to the correct colors"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Colors Maze Pink</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and help The Ecco get to Mipi by drawing the line to follow the pink objects"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Mixing colors - Orange, green, purple</strong>",
+                                "list": [
+                                    {
+                                        "text": "Ask students to click on the colors and symbols “+, =” to listen and repeat each word"
+                                    },
+                                    {
+                                        "text": "Ask students to say the whole sentences"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Mixing colors - Orange, Purple, Green and Pink</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, choose correct colors to be orange, purple, green and pink"
+                                    },
+                                    {
+                                        "text": "Ask students to say the sentences. <i>(e.g.: Red and blue make purple, etc.)</i>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again <strong>“Mixing color”</strong>"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "Chương 1: Trường mầm non của bé",
+            "lesson_name": "Bài 3: Lớp học với màu sắc 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học tên màu sắc: tím, cam, xanh lá, hồng"
+                    },
+                    {
+                        "text": "Phát triển kỹ năng nghe và nói"
+                    },
+                    {
+                        "text": "Phát triển các kỹ năng phát triển khác:",
+                        "list": [
+                            {
+                                "text": "<strong>Phát triển nhận thức:</strong> biết cách pha màu và nhận biết các màu “tím, cam, xanh lá, hồng”"
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc và nhảy cùng các nhân vật"
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "KidsLoop CMS: 5-6_U1_LP3_My class with colors 1"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
+                                    },
+                                    {
+                                        "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Mixing color”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: “Hôm nay chúng ta sẽ hát bài hát về màu sắc”."
+                                    },
+                                    {
+                                        "text": "Mở bài hát: “Mixing color”, dừng ở các từ vựng <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong> và luyện tập các động tác bên dưới:",
+                                        "list": [
+                                            {
+                                                "text": "<strong>Purple:</strong> vỗ tay"
+                                            },
+                                            {
+                                                "text": "<strong>Orange:</strong> Quay vòng tròn"
+                                            },
+                                            {
+                                                "text": "<strong>Green:</strong> Ngồi xuống"
+                                            },
+                                            {
+                                                "text": "<strong>Pink:</strong> Lắc lư"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở bài hát lần thứ 2 và nói học sinh làm hành động theo bài hát."
+                                    },
+                                    {
+                                        "text": "Nghe bài hát lần nữa. Giáo viên dừng bài hát ở các màu thứ cấp <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong> và nhấn mạnh",
+                                        "list": [
+                                            {
+                                                "text": "<i>Màu đỏ và màu xanh sẽ tạo thành màu tím.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Màu vàng và màu đỏ sẽ tạo thành màu cam.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Màu vàng và màu xanh dương sẽ tạo thành màu xanh lá.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Màu trắng và màu đỏ sẽ tạo thành màu hồng.</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“My color”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề của câu truyện và từ vựng <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong>."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách ở trang 5, 6, 7 và 9 và nói học sinh lắng nghe màu sắc."
+                                    },
+                                    {
+                                        "text": "Giáo viên dừng ở từng trang, chỉ vào các màu và từ vựng bổ sung <i>(Ecco, quả nho, bông hoa, găng tay, con ngựa nhún, củ cà rốt, sợi dây, con mèo, hột nút, con khủng long, cái cây, găng tay hở ngón, tóc giả, đôi giày, cái còi, con heo)</i> và đặt câu hỏi cho học sinh:",
+                                        "list": [
+                                            {
+                                                "text": "<i>Đây là màu gì? &#x02192; Nó là màu tím / màu cam / màu xanh lá cây / màu hồng.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Đây là cái gì? &#x02192; Nó là Ecco / quả nho / bông hoa / găng tay / con ngựa nhún / cà rốt / sợi dây / con mèo / hột nút / con khủng long / cái cây / găng tay hở ngón / tóc giả / đôi giày / cái còi / con heo.</i>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Nói học sinh lặp lại từ vựng. Giáo viên sửa phát âm của học sinh"
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh nói cả câu và sửa phát âm của học sinh.",
+                                        "list": [
+                                            {
+                                                "text": "<i>Nó là Ecco màu tím/quả nhỏ màu tím/...</i>"
+                                            },
+                                            {
+                                                "text": "<i>Nó là củ cà rốt màu cam/con ngựa nhún màu cam/...</i>"
+                                            },
+                                            {
+                                                "text": "<i>Nó là hột nút màu xanh lá cây/con khủng long màu xanh lá cây/...</i>"
+                                            },
+                                            {
+                                                "text": "<i>Nó là tóc giả màu hồng / cái còi màu hồng</i>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập từ vựng.",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách."
+                                            },
+                                            {
+                                                "text": "Giáo viên gọi màu sách của các hình ảnh và mời học sinh chỉ vào hình đúng (quả nho màu tím, củ cà rốt màu cam, …)."
+                                            },
+                                            {
+                                                "text": "Để học sinh nói màu sắc của hình ảnh."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên chỉ vào các đồ vật trong lớp và nói học sinh nói màu của chúng."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Từ vựng – màu tím, màu cam, màu xanh lá cây và màu hồng</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh để lắng nghe và lặp lai từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Tranh ảnh – màu tím, màu cam, màu xanh lá cây và màu hồng</strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các bức tranh, mời học sinh lên bảng và đọc tên màu sắc."
+                                    },
+                                    {
+                                        "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Trò chơi trí nhớ - màu Tím, màu Cam, màu Xanh lá cây và màu Hồng</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và thả - Pha màu: P, O, G</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và kéo đồ vật đến đúng màu."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Mê cung màu hồng</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và giúp Ecco gặp Mipi bằng cách vẽ đường theo các đồ vật màu hồng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Pha trộn màu</strong>",
+                                "list": [
+                                    {
+                                        "text": "Nói học sinh bấm vào màu sắc và biểu tượng “+, =” để lắng nghe và lặp lại từng từ."
+                                    },
+                                    {
+                                        "text": "Nói học sinh đọc nguyên câu."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Pha trộn màu -  màu Tím, màu Cam, màu Xanh lá cây và màu Hồng</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, chọn các màu đúng để pha thành màu cam, màu tím, màu xanh lá cây và màu hồng."
+                                    },
+                                    {
+                                        "text": "Nói học sinh đọc câu (ví dụ: <i>Màu đỏ và màu xanh sẽ tạo thành màu tím,...</i>)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Phát lại bài hát <strong>“Mixing color”</strong>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn some secondary colors: <strong>purple, orange, green, pink</strong> which are mixed by primary colors"
-          },
-          {
-            "text": "Develop speaking and listening skills"
-          },
-          {
-            "text": "Develop the other development skills:",
-            "list": [
-              {
-                "text": "<strong>Cognitive Development:</strong> understand the mixing primary colors creates new colors"
-              },
-              {
-                "text": "<strong>Gross motor skill:</strong> movement following the song and jump with characters"
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U1_LP3_ My class with colors (purple, orange, green, pink) 1"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Teacher welcomes the class and introduces Bada and friends"
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Mixing colors”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher(s) says: <i>“We will sing a song about colors today”</i>"
-                  },
-                  {
-                    "text": "Play the song: <strong>“Mixing color”</strong>, pause at the keywords (purple, orange, green, pink) and practice the actions below:",
-                    "list": [
-                      {
-                        "text": "<strong>Purple:</strong> Clap the hands"
-                      },
-                      {
-                        "text": "<strong>Orange:</strong> Turn around"
-                      },
-                      {
-                        "text": "<strong>Green:</strong> Sit down"
-                      },
-                      {
-                        "text": "<strong>Pink:</strong> Wiggle"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Let’s listen to the song again. Teacher pauses the song at each secondary color <strong>(purple, orange, green, pink)</strong> and emphasizes students that.",
-                    "list": [
-                      {
-                        "text": "<i>Red and blue make purple</i>"
-                      },
-                      {
-                        "text": "<i>Yellow and red make orange</i>"
-                      },
-                      {
-                        "text": "<i>Yellow and blue make green</i>"
-                      },
-                      {
-                        "text": "<i>White and red make pink</i>"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“My colors” storybook<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic of the story and the keywords <strong>(purple, orange, green, pink)</strong>"
-                  },
-                  {
-                    "text": "Teach plays the storybook in page 5, 6, 7 and 9 and asks students to listen the colors"
-                  },
-                  {
-                    "text": "Teacher pauses at each page, points to colors and additional vocabulary <i>(Ecco, grape, flower, glove, hopping horse, carrot, yarn, cat, button, dinosaur, tree, mitten, wig, shoes, horn, pig)</i> and asks students questions:",
-                    "list": [
-                      {
-                        "text": "<i>What color is it? &#x02192; It is purple / orange / green / pink</i>"
-                      },
-                      {
-                        "text": "<i>What is it? &#x02192; It is a/an Ecco / grape / flower / glove / hopping horse / carrot/ yarn / cat / button / dinosaur / tree / mitten / wig / shoes / horn / pig</i>"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Asks students to repeat vocabulary. Teacher corrects their pronunciation"
-                  },
-                  {
-                    "text": "Teacher instructs students to say whole sentences and corrects their pronunciation",
-                    "list": [
-                      {
-                        "text": "It is a (an) purple Ecco / grape / etc"
-                      },
-                      {
-                        "text": "It is an (a) orange carrot / hopping horse / etc"
-                      },
-                      {
-                        "text": "It is a (an) green button / dinosaur / etc"
-                      },
-                      {
-                        "text": "It is a (an) pink wig / horn / etc"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play a game to review the keywords",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book"
-                      },
-                      {
-                        "text": "Teacher calls out the color of an image and invites students to point to the correct image (purple grape, orange carrot, etc.)"
-                      },
-                      {
-                        "text": "Have students say color of an image"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Teacher points to some objects in the classroom and asks students to say color of them"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<strong>Course presentation – Purple, orange, green and pink</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the colors and pictures to listen and repeat the words"
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Flashcards - Purple, orange, green and pink</strong>",
-                "list": [
-                  {
-                    "text": "Teach play the flashcards, invites students to come to the board and write the name of colors by clicking on the letter with the keyboard"
-                  },
-                  {
-                    "text": "Ask students to say the colors"
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Memory game - Orange, Purple, Green and Pink</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and turn over 2 cards to find the pairs of pictures"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag & Drop - Mixing colors: Purple, Orange, Green</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and drag the items to the correct colors"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Colors Maze Pink</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and help The Ecco get to Mipi by drawing the line to follow the pink objects"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Mixing colors - Orange, green, purple</strong>",
-                "list": [
-                  {
-                    "text": "Ask students to click on the colors and symbols “+, =” to listen and repeat each word"
-                  },
-                  {
-                    "text": "Ask students to say the whole sentences"
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Mixing colors - Orange, Purple, Green and Pink</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, choose correct colors to be orange, purple, green and pink"
-                  },
-                  {
-                    "text": "Ask students to say the sentences. <i>(e.g.: Red and blue make purple, etc.)</i>"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song again <strong>“Mixing color”</strong>"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "Chương 1: Trường mầm non của bé",
-      "lesson_name": "Bài 3: Lớp học với màu sắc 1",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học tên màu sắc: tím, cam, xanh lá, hồng"
-          },
-          {
-            "text": "Phát triển kỹ năng nghe và nói"
-          },
-          {
-            "text": "Phát triển các kỹ năng phát triển khác:",
-            "list": [
-              {
-                "text": "<strong>Phát triển nhận thức:</strong> biết cách pha màu và nhận biết các màu “tím, cam, xanh lá, hồng”"
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc và nhảy cùng các nhân vật"
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "KidsLoop CMS: 5-6_U1_LP3_My class with colors (purple, orange, green, pink) 1"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
-                  },
-                  {
-                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Mixing color”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: “Hôm nay chúng ta sẽ hát bài hát về màu sắc”."
-                  },
-                  {
-                    "text": "Mở bài hát: “Mixing color”, dừng ở các từ vựng <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong> và luyện tập các động tác bên dưới:",
-                    "list": [
-                      {
-                        "text": "<strong>Purple:</strong> vỗ tay"
-                      },
-                      {
-                        "text": "<strong>Orange:</strong> Quay vòng tròn"
-                      },
-                      {
-                        "text": "<strong>Green:</strong> Ngồi xuống"
-                      },
-                      {
-                        "text": "<strong>Pink:</strong> Lắc lư"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở bài hát lần thứ 2 và nói học sinh làm hành động theo bài hát."
-                  },
-                  {
-                    "text": "Nghe bài hát lần nữa. Giáo viên dừng bài hát ở các màu thứ cấp <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong> và nhấn mạnh",
-                    "list": [
-                      {
-                        "text": "<i>Màu đỏ và màu xanh sẽ tạo thành màu tím.</i>"
-                      },
-                      {
-                        "text": "<i>Màu vàng và màu đỏ sẽ tạo thành màu cam.</i>"
-                      },
-                      {
-                        "text": "<i>Màu vàng và màu xanh dương sẽ tạo thành màu xanh lá.</i>"
-                      },
-                      {
-                        "text": "<i>Màu trắng và màu đỏ sẽ tạo thành màu hồng.</i>"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“My color”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề của câu truyện và từ vựng <strong>(màu tím, màu cam, màu xanh lá cây, màu hồng)</strong>."
-                  },
-                  {
-                    "text": "Giáo viên mở sách ở trang 5, 6, 7 và 9 và nói học sinh lắng nghe màu sắc."
-                  },
-                  {
-                    "text": "Giáo viên dừng ở từng trang, chỉ vào các màu và từ vựng bổ sung <i>(Ecco, quả nho, bông hoa, găng tay, con ngựa nhún, củ cà rốt, sợi dây, con mèo, hột nút, con khủng long, cái cây, găng tay hở ngón, tóc giả, đôi giày, cái còi, con heo)</i> và đặt câu hỏi cho học sinh:",
-                    "list": [
-                      {
-                        "text": "<i>Đây là màu gì? &#x02192; Nó là màu tím / màu cam / màu xanh lá cây / màu hồng.</i>"
-                      },
-                      {
-                        "text": "<i>Đây là cái gì? &#x02192; Nó là Ecco / quả nho / bông hoa / găng tay / con ngựa nhún / cà rốt / sợi dây / con mèo / hột nút / con khủng long / cái cây / găng tay hở ngón / tóc giả / đôi giày / cái còi / con heo.</i>"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Nói học sinh lặp lại từ vựng. Giáo viên sửa phát âm của học sinh"
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh nói cả câu và sửa phát âm của học sinh.",
-                    "list": [
-                      {
-                        "text": "<i>Nó là Ecco màu tím/quả nhỏ màu tím/...</i>"
-                      },
-                      {
-                        "text": "<i>Nó là củ cà rốt màu cam/con ngựa nhún màu cam/...</i>"
-                      },
-                      {
-                        "text": "<i>Nó là hột nút màu xanh lá cây/con khủng long màu xanh lá cây/...</i>"
-                      },
-                      {
-                        "text": "<i>Nó là tóc giả màu hồng / cái còi màu hồng</i>"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập từ vựng.",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách."
-                      },
-                      {
-                        "text": "Giáo viên gọi màu sách của các hình ảnh và mời học sinh chỉ vào hình đúng (quả nho màu tím, củ cà rốt màu cam, …)."
-                      },
-                      {
-                        "text": "Để học sinh nói màu sắc của hình ảnh."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên chỉ vào các đồ vật trong lớp và nói học sinh nói màu của chúng."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Từ vựng – màu tím, màu cam, màu xanh lá cây và màu hồng</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh để lắng nghe và lặp lai từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Tranh ảnh – màu tím, màu cam, màu xanh lá cây và màu hồng</strong>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các bức tranh, mời học sinh lên bảng và viết tên màu sắc bằng cách bấm vào chữ cái trên bàn phím."
-                  },
-                  {
-                    "text": "Nói học sinh đọc tên màu sắc."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Trò chơi trí nhớ - màu Tím, màu Cam, màu Xanh lá cây và màu Hồng</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và thả - Pha màu: P, O, G</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và kéo đồ vật đến đúng màu."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Mê cung màu hồng</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và giúp Ecco gặp Mipi bằng cách vẽ đường theo các đồ vật màu hồng."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Pha trộn màu</strong>",
-                "list": [
-                  {
-                    "text": "Nói học sinh bấm vào màu sắc và biểu tượng “+, =” để lắng nghe và lặp lại từng từ."
-                  },
-                  {
-                    "text": "Nói học sinh đọc nguyên câu."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Pha trộn màu -  màu Tím, màu Cam, màu Xanh lá cây và màu Hồng</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, chọn các màu đúng để pha thành màu cam, màu tím, màu xanh lá cây và màu hồng."
-                  },
-                  {
-                    "text": "Nói học sinh đọc câu (ví dụ: <i>Màu đỏ và màu xanh sẽ tạo thành màu tím,...</i>)"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Phát lại bài hát <strong>“Mixing color”</strong>."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

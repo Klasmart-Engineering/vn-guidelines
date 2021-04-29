@@ -202,10 +202,10 @@
                 "text": "<strong>Badanamu Friends Flashcards</strong>",
                 "list": [
                   {
-                    "text": "Teacher opens the flashcards, invites students to come to the board and write the name of the character by clicking on the letters on the keyboard"
+                    "text": "Teacher plays the flashcards, invites students to come to the board and say the name of the characters."
                   },
                   {
-                    "text": "Ask students to say the name of characters"
+                    "text": "Record their voice and check the answer."
                   }
                 ]
               },
@@ -477,10 +477,10 @@
                 "text": "<strong>Thẻ hình các bạn Badanamu</strong>",
                 "list": [
                   {
-                    "text": "Giáo viên mở các bức tranh, mời học sinh lên bảng và viết tên các nhân vật bằng cách bấm chữ cái trên bàn phím."
+                    "text": "Giáo viên mở các thẻ hình, mời học sinh lên bảng và đọc tên các nhân vật."
                   },
                   {
-                    "text": "Nói học sinh đọc tên các nhân vật."
+                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
                   }
                 ]
               },

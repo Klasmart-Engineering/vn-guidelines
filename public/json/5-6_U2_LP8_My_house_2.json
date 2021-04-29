@@ -1,530 +1,530 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 2: MY FAMILY",
-      "lesson_name": "LESSON 8: MY HOUSE 2",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "UNIT 2: MY FAMILY",
+            "lesson_name": "LESSON 8: MY HOUSE 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "learn vocabulary of rooms in a house: bathroom, living room, bedroom, kitchen"
+                    },
+                    {
+                        "text": "develop speaking and listening skills"
+                    },
+                    {
+                        "text": "develop the other skills:",
+                        "list": [
+                            {
+                                "text": "<b>Cognitive Development</b>: students is able to sequence events in a story"
+                            },
+                            {
+                                "text": "<b>Gross motor skills</b>: movement following the song to sit down, stand up, clap the hands, fold hands under cheek"
+                            },
+                            {
+                                "text": "<b>Aesthetic development:</b> develop creative through art activities, make a house"
+                            },
+                            {
+                                "text": "<b>Fine motor skills</b>: play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U2_LP8_My house 2"
+                    },
+                    {
+                        "text": "Handout, craft stick, scissors, glue, white paper (A4), crayon"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Teacher welcomes the class and introduces Bada and friends"
+                                    },
+                                    {
+                                        "text": "Review names of Badanamu characters if necessary"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Bada let’s play hide and seek”.<br/>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song (chant): <b>“Bada let’s play hide and seek”</b>"
+                                    },
+                                    {
+                                        "text": "Make the actions and encourage students to follow:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Living room:</b> sit down."
+                                            },
+                                            {
+                                                "text": "<b>Bathroom:</b> stand up."
+                                            },
+                                            {
+                                                "text": "<b>Kitchen:</b> clap the hands."
+                                            },
+                                            {
+                                                "text": "<b>Bedroom:</b> fold hands under the cheek."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Ask students to repeat keywords in several times and correct their pronunciation <b>(bathroom, living room, bedroom, kitchen)</b>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Let’s play hide and seek board book”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Review keywords of the lesson (bathroom, living room, bedroom, kitchen)"
+                                    },
+                                    {
+                                        "text": "Teacher plays storybook “Let’s play hide and seek board book” and asks students to listen to the story"
+                                    },
+                                    {
+                                        "text": "Teacher pauses at each page containing the keywords, point to the pictures and asks students to say the keywords. Teacher corrects their pronunciation"
+                                    },
+                                    {
+                                        "text": "Teacher can ask students some questions to check their understanding",
+                                        "list": [
+                                            {
+                                                "text": "<i>Where is Jess? -> Jess is in the bathroom"
+                                            },
+                                            {
+                                                "text": "<i>Where is Curly? -> Curly is in the living room"
+                                            },
+                                            {
+                                                "text": "<i>Where is Pogo? -> Pogo is in the bedroom"
+                                            },
+                                            {
+                                                "text": "<i>Where are they? -> They are in the kitchen"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords - My house 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite student to come to the board, click on the pictures and ask students to listen and repeat the keywords"
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<b>Match the correct items - My house 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, drag the right items from the left to match them with each room"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Arrange the letters - My house 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board",
+                                        "list": [
+                                            {
+                                                "text": "Arrange letters in correct order (slide 1,2)"
+                                            },
+                                            {
+                                                "text": "Look at the picture and choose the correct word to match with the picture (slide 3)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do (steam activities)",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "STEAM activity: <b>“Make a house”</b>",
+                                "list": [
+                                    {
+                                        "text": "Work in individually"
+                                    },
+                                    {
+                                        "text": "Teacher prepares craft stick, glue, handout, scissors and a sheet of paper for each student"
+                                    },
+                                    {
+                                        "text": "Teacher instructs students how to make a house"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>How to play</u>",
+                                "list": [
+                                    {
+                                        "text": "Note: Teacher can help students cut out the templates in the handout"
+                                    },
+                                    {
+                                        "text": "Use a glue to stick the triangle into the A4 paper and then stick 6 craft ticks below the triangle to make a house. Look at the picture below <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0001.jpg\">"
+                                    },
+                                    {
+                                        "text": "Stick a door and 2 windows into the house <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0002.jpg\">"
+                                    },
+                                    {
+                                        "text": "Ask students to decorate their house by drawing trees, cloud, etc., around their house"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song <strong>“Bada let’s play hide and seek”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA BÉ",
+            "lesson_name": "BÀI 8: NGÔI NHÀ CỦA BÉ 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng về các phòng trong nhà: phòng tắm, phòng khách, phòng ngủ, nhà bếp."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<b>Phát triển nhận thức:</b> Học sinh có thể sắp xếp các sự kiện trong truyện."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, ngồi xuống, đứng lên, vỗ tay, chắp tay đặt dưới má."
+                            },
+                            {
+                                "text": "<b>Phát triển thẩm mỹ:</b> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, làm ngôi nhà."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận động tinh:</b> chơi trò chơi tương tác."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U2_LP8_My house 2."
+                    },
+                    {
+                        "text": "Bản mẫu, que kem, kéo, hồ dán, giấy A4 trắng, bút màu sáp."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
+                                    },
+                                    {
+                                        "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Bada let’s play hide and seek”<br/><i><i>10 phút</i></i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Phát bài hát: <b>“Bada let’s play hide and seek”</b>."
+                                    },
+                                    {
+                                        "text": "Ôn tập động tác và khuyến khích học sinh làm theo:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Living room:</b> ngồi xuống."
+                                            },
+                                            {
+                                                "text": "<b>Bathroom:</b> stand up."
+                                            },
+                                            {
+                                                "text": "<b>Kitchen:</b> vỗ tay"
+                                            },
+                                            {
+                                                "text": "<b>Bedroom:</b> chắp tay đặt dưới má."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Nói học sinh lặp lại từ vựng vài lần và sửa phát âm cho học sinh <b>(phòng tắm, phòng khách, phòng ngủ, nhà bếp)</b>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách ",
+                            "text": "“Let’s play hide and seek board book”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Ôn tập từ vựng của bài học <b>(phòng tắm, phòng khách, phòng ngủ, nhà bếp)</b>."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách <b>“Let’s play hide and seek board book”</b>, nói học sinh lắng nghe câu chuyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên dừng ở từng trang có chứa từ vựng, chỉ vào các bức tranh và nói học sinh nói từ vựng. Giáo viên sửa phát âm cho học sinh."
+                                    },
+                                    {
+                                        "text": "Giáo viên có thể đặt câu hỏi để kiểm tra sự hiểu bài của học sinh.",
+                                        "list": [
+                                            {
+                                                "text": "<i>Jess ở đâu? -> Jess ở trong phòng tắm.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Curly ở đâu? -> Curly ở phòng khách.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Pogo ở đâu? -> Pogo ở phòng ngủ.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Họ ở đâu? -> Họ ở phòng bếp.</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<b>Từ vựng – Ngôi nhà của tôi 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<b>Ghép các đồ vật đúng – Ngôi nhà của tôi 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, kéo đồ vật đúng từ bên trái và ghép với đúng phòng ở bên phải."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Sắp xếp chữ cái – Ngôi nhà của tôi 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng:",
+                                        "list": [
+                                            {
+                                                "text": "Sắp xếp chữ cái theo đúng thứ tự (trang 1, 2)"
+                                            },
+                                            {
+                                                "text": "Nhìn vào bức tranh và chọn từ đúng để ghép vào bức tranh (trang 3)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động khoa học nghệ thuật",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "<b>Hoạt động Khoa học – Nghệ thuật: “Làm ngôi nhà”."
+                            },
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên chuẩn bị que kem, hồ dán, bản mẫu, kéo, bút màu sáp và 1 tờ giấy cho từng học sinh cho từng học sinh."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh cách làm ngôi nhà."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>Cách làm:</u>",
+                                "list": [
+                                    {
+                                        "text": "Lưu ý: Giáo viên có thể giúp học sinh cắt các hình mẫu từ bản mẫu."
+                                    },
+                                    {
+                                        "text": "Dùng hồ dán để dán hình tam giác vào tờ giấy A4 và sau đó dán 6 que kem vào phía dưới hình tam giác để làm ngôi nhà. Nhìn vào bức tranh bên dưới. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0001.jpg\">"
+                                    },
+                                    {
+                                        "text": "Dán cửa ra vào và 2 cửa sổ vào ngôi nhà. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0002.jpg\">"
+                                    },
+                                    {
+                                        "text": "Nói học sinh trang trí ngôi nhà của các con bằng cách vẽ thêm cây, mây, … xung quanh ngôi nhà."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <b>“Bada let’s play hide and seek”</b>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "learn vocabulary of rooms in a house: bathroom, living room, bedroom, kitchen"
-          },
-          {
-            "text": "develop speaking and listening skills"
-          },
-          {
-            "text": "develop the other skills:",
-            "list": [
-              {
-                "text": "Cognitive Development: students is able to sequence events in a story"
-              },
-              {
-                "text": "Gross motor skills: movement following the song to sit down, stand up, clap the hands, fold hands under cheek"
-              },
-              {
-                "text": "<b>Aesthetic development:</b> develop creative through art activities, make a house"
-              },
-              {
-                "text": "Fine motor skills: play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U2_LP8_My house 2"
-          },
-          {
-            "text": "Handout, craft stick, scissors, glue, white paper (A4), crayon"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Teacher welcomes the class and introduces Bada and friends"
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Mimi’s Robot”<br/><i>“Bada let’s play hide and seek”.<br/>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song (chant): <b>“Bada let’s play hide and seek”</b>"
-                  },
-                  {
-                    "text": "Make the actions and encourage students to follow:",
-                    "list": [
-                      {
-                        "text": "<b>Living room:</b> sit down."
-                      },
-                      {
-                        "text": "<b>Bathroom:</b> stand up."
-                      },
-                      {
-                        "text": "<b>Kitchen:</b> clap the hands."
-                      },
-                      {
-                        "text": "<b>Bedroom:</b> fold hands under the cheek."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Ask students to repeat keywords in several times and correct their pronunciation <b>(bathroom, living room, bedroom, kitchen)</b>"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Let’s play hide and seek board book”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Review keywords of the lesson (bathroom, living room, bedroom, kitchen)"
-                  },
-                  {
-                    "text": "Teacher plays storybook “Let’s play hide and seek board book” and asks students to listen to the story"
-                  },
-                  {
-                    "text": "Teacher pauses at each page containing the keywords, point to the pictures and asks students to say the keywords. Teacher corrects their pronunciation"
-                  },
-                  {
-                    "text": "Teacher can ask students some questions to check their understanding",
-                    "list": [
-                      {
-                        "text": "Where is Jess? -> Jess is in the bathroom"
-                      },
-                      {
-                        "text": "Where is Curly? -> Curly is in the living room"
-                      },
-                      {
-                        "text": "Where is Pogo? -> Pogo is in the bedroom"
-                      },
-                      {
-                        "text": "Where are they? -> They are in the kitchen"
-                      }
-                    ]
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords - My house 1</b>",
-                "list": [
-                  {
-                    "text": "Invite student to come to the board, click on the pictures and ask students to listen and repeat the keywords"
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation"
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<b>Match the correct items - My house 1</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, drag the right items from the left to match them with each room"
-                  }
-                ]
-              },
-              {
-                "text": "<b>Arrange the letters - My house 1</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board",
-                    "list": [
-                      {
-                        "text": "Arrange letters in correct order (slide 1,2)"
-                      },
-                      {
-                        "text": "Look at the picture and choose the correct word to match with the picture (slide 3)"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Do (steam activities)",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "text": "STEAM activity: <b>“Make a house”</b>",
-                "list": [
-                  {
-                    "text": "Work in individually"
-                  },
-                  {
-                    "text": "Teacher prepares craft stick, glue, handout, scissors and a sheet of paper for each student"
-                  },
-                  {
-                    "text": "Teacher instructs students how to make a house"
-                  }
-              ]
-              },
-              {
-                "text": "<u>How to play</u>",
-                "list": [
-                  {
-                    "text": "Note: Teacher can help students cut out the templates in the handout"
-                  },
-                  {
-                    "text": "Use a glue to stick the triangle into the A4 paper and then stick 6 craft ticks below the triangle to make a house. Look at the picture below <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0001.jpg\">"
-                  },
-                  {
-                    "text": "Stick a door and 2 windows into the house <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0002.jpg\">"
-                  },
-                  {
-                    "text": "Ask students to decorate their house by drawing trees, cloud, etc., around their house"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song <strong>“Bada let’s play hide and seek”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA BÉ",
-      "lesson_name": "BÀI 7: NGÔI NHÀ CỦA BÉ 1",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng về các phòng trong nhà: phòng tắm, phòng khách, phòng ngủ, nhà bếp."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<b>Phát triển nhận thức:</b> Học sinh có thể sắp xếp các sự kiện trong truyện."
-              },
-              {
-                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, ngồi xuống, đứng lên, vỗ tay, chắp tay đặt dưới má."
-              },
-              {
-                "text": "<b>Phát triển thẩm mỹ:</b> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, làm ngôi nhà."
-              },
-              {
-                "text": "<b>Kĩ năng vận động tinh:</b> Trò chơi tương tác."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U2_LP8_My house 2."
-          },
-          {
-            "text": "Bản mẫu, que kem, kéo, hồ dán, giấy A4 trắng, bút màu sáp."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
-                  },
-                  {
-                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Bada let’s play hide and seek”<br/><i><i>10 phút</i></i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Phát bài hát: <b>“Bada let’s play hide and seek”</b>."
-                  },
-                  {
-                    "text": "Ôn tập động tác và khuyến khích học sinh làm theo:",
-                    "list": [
-                      {
-                        "text": "<b>Living room:</b> ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Bathroom:</b> stand up."
-                      },
-                      {
-                        "text": "<b>Kitchen:</b> vỗ tay"
-                      },
-                      {
-                        "text": "<b>Bedroom:</b> chắp tay đặt dưới má."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Nói học sinh lặp lại từ vựng vài lần và sửa phát âm cho học sinh <b>(phòng tắm, phòng khách, phòng ngủ, nhà bếp)</b>."
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách ",
-              "text": "“Let’s play hide and seek board book”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Ôn tập từ vựng của bài học <b>(phòng tắm, phòng khách, phòng ngủ, nhà bếp)</b>."
-                  },
-                  {
-                    "text": "Giáo viên mở sách <b>“Let’s play hide and seek board book”</b>, nói học sinh lắng nghe câu chuyện."
-                  },
-                  {
-                    "text": "Giáo viên dừng ở từng trang có chứa từ vựng, chỉ vào các bức tranh và nói học sinh nói từ vựng. Giáo viên sửa phát âm cho học sinh."
-                  },
-                  {
-                    "text": "Giáo viên có thể đặt câu hỏi để kiểm tra sự hiểu bài của học sinh.",
-                    "list": [
-                      {
-                        "text": "<i>Jess ở đâu? -> Jess ở trong phòng tắm.</i>"
-                      },
-                      {
-                        "text": "<i>Curly ở đâu? -> Curly ở phòng khách.</i>"
-                      },
-                      {
-                        "text": "<i>Pogo ở đâu? -> Pogo ở phòng ngủ.</i>"
-                      },
-                      {
-                        "text": "<i>Họ ở đâu? -> Họ ở phòng bếp.</i>"
-                      }
-                    ]
-                  }
-              ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<b>Từ vựng – Ngôi nhà của tôi 1</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<b>Ghép các đồ vật đúng – Ngôi nhà của tôi 1</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, kéo đồ vật đúng từ bên trái và ghép với đúng phòng ở bên phải."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Sắp xếp chữ cái – Ngôi nhà của tôi 1</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng:",
-                    "list": [
-                      {
-                        "text": "Sắp xếp chữ cái theo đúng thứ tự (trang 1, 2)"
-                      },
-                      {
-                        "text": "Nhìn vào bức tranh và chọn từ đúng để ghép vào bức tranh (trang 3)"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hoạt động khoa học nghệ thuật",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Hoạt động Khoa học – Nghệ thuật: “Làm ngôi nhà”."
-                  },
-                  {
-                    "text": "Giáo viên chuẩn bị que kem, hồ dán, bản mẫu, kéo, bút màu sáp và 1 tờ giấy cho từng học sinh cho từng học sinh."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh cách làm ngôi nhà."
-                  }
-              ]
-              },
-              {
-                "text": "<u>Cách làm:</u>",
-                "list": [
-                  {
-                    "text": "Lưu ý: Giáo viên có thể giúp học sinh cắt các hình mẫu từ bản mẫu."
-                  },
-                  {
-                    "text": "Dùng hồ dán để dán hình tam giác vào tờ giấy A4 và sau đó dán 6 que kem vào phía dưới hình tam giác để làm ngôi nhà. Nhìn vào bức tranh bên dưới. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0001.jpg\">"
-                  },
-                  {
-                    "text": "Dán cửa ra vào và 2 cửa sổ vào ngôi nhà. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/gl_0002.jpg\">"
-                  },
-                  {
-                    "text": "Nói học sinh trang trí ngôi nhà của các con bằng cách vẽ thêm cây, mây, … xung quanh ngôi nhà."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <b>“Bada let’s play hide and seek”</b>"
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

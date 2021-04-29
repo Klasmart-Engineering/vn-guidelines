@@ -4,7 +4,7 @@
         {
             "lang": "en",
             "unit": "UNIT 3: MY SELF",
-            "lesson_name": "LESSON 13: HEALTHY HABITS 1",
+            "lesson_name": "LESSON 14: HEALTHY HABITS 2",
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -23,7 +23,7 @@
                         "text": "learn vocabulary of symptom of sick: sick, cold, sneeze, tissue, cough."
                     },
                     {
-                        "text": "develop speaking and listening skills."
+                        "text": "develop speaking and listening skills"
                     },
                     {
                         "text": "develop the other skills:",
@@ -32,10 +32,13 @@
                                 "text": "<strong>Cognitive Development:</strong> physical Development - Nutrition and health."
                             },
                             {
-                                "text": "<strong>Physical Development: </strong> movement following the song such as fold the arms, sit down, touch the head, hop to the left, jump up and down."
+                                "text": "<strong>Gross motor skill:</strong> movement following the song such as fold the arms, sitting down, touch the head, hop to the left, jump up and down."
                             },
                             {
-                                "text": "<strong>Fine motor skills:</strong> play interactive games."
+                                "text": "<strong>Aesthetic Development: </strong> develop creative through art activities, make a flower."
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games"
                             }
                         ]
                     }
@@ -45,7 +48,10 @@
                 "title": "Materials",
                 "list": [
                     {
-                        "text": "Kidsloop CMS: 5-6_U3_LP13_Healthy habits 1."
+                        "text": "Kidsloop CMS: 5-6_U3_LP14_Healthy habits 2"
+                    },
+                    {
+                        "text": "Paper plate (d= 13cm), crayon, white glue, craft stick."
                     }
                 ]
             },
@@ -61,10 +67,10 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Greet students. <i>“Good morning/afternoon.”</i> Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                        "text": "Greet students<i>“Good morning/afternoon.” </i> Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
                                     },
                                     {
-                                        "text": "Reply with <i>“How are you today?”</i>. Encourage students to reply back with <i>“I am ___ (good)”.</i>"
+                                        "text": " Reply with <i>“How are you today?” </i>. Encourage students to reply back with <i>“I am ___ (good).” </i> "
                                     }
                                 ]
                             }
@@ -79,50 +85,33 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Start the lesson by listening to the song."
+                                        "text": "Start the lesson by listening to the song"
                                     },
                                     {
-                                        "text": "Teacher says: <i>“We will sing a song about symptoms of sickness”</i>."
+                                        "text": "Play the song (chant):  <b>“Three sick Kittens”</b>."
                                     },
                                     {
-                                        "text": "Play the song (chant):  <strong>“Three sick Kittens”</strong>."
-                                    },
-                                    {
-                                        "text": "Make actions and encourage students to follow:",
+                                        "text": "Review the actions and encourage students to follow:",
                                         "list": [
                                             {
-                                                "text": "<strong>Cold:</strong> fold your arms."
+                                                "text": "<b>Cold: </b>fold your arms."
                                             },
                                             {
-                                                "text": "<strong>Cough: </strong> sit down."
+                                                "text": "<b>Cough:  </b>sit down."
                                             },
                                             {
-                                                "text": "<strong>Sick: </strong> touch your forehead."
+                                                "text": "<b>Sick:  </b>touch your forehead."
                                             },
                                             {
-                                                "text": "<strong>Sneeze: </strong> hop to the left."
+                                                "text": "<b>Sneeze:  </b>hop to the left."
                                             },
                                             {
-                                                "text": "<strong>Grab a tissue: </strong> jump up and down."
+                                                "text": "<b>Grab a tissue:  </b>jump up and down."
                                             }
                                         ]
                                     },
                                     {
-                                        "text": "Teacher plays a song again, pauses the song to focus on keywords <strong>(sick, cold, sneeze, tissue, cough) </strong> and asks students questions:",
-                                        "list": [
-                                            {
-                                                "text": "<i>Who are sick? -> The Kittens are sick</i>."
-                                            },
-                                            {
-                                                "text": "<i>What is the Kittens’ sickness? -> The Kittens have a cold.</i>"
-                                            },
-                                            {
-                                                "text": "<i>What are symptoms of a cold? -> The symptoms are cough and sneeze.</i>"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "text": "Teacher uses the body language to describe the keywords and then asks students to repeat the keywords several times. "
+                                        "text": "Teacher plays a song again, pauses the song to focus on the keywords <b>(sick, cold, sneeze, tissue, cough) </b> and asks students to say the keywords. "
                                     },
                                     {
                                         "text": "Teacher corrects their pronunciation."
@@ -134,16 +123,16 @@
                     {
                         "left_content": {
                             "title": "Read",
-                            "text": "“Three sick Kittens” Boardbook<br/><i>10 mins</i>"
+                            "text": "“Three sick Kittens” boardbook”<br/><i>10 mins</i>"
                         },
                         "right_content": [
                             {
                                 "list": [
                                     {
-                                        "text": "Introduce the topic and keywords of the lesson <strong>(sick, cold, sneeze, tissue, cough).</trong> "
+                                        "text": "Review keywords of the lesson <b>(sick, cold, sneeze, tissue, cough).</b> "
                                     },
                                     {
-                                        "text": "Teacher plays storybook <b>“Three sick Kittens board book”</b> asks students to listen to the story.  "
+                                        "text": "Teacher plays boardbook <b>Three sick Kittens</b>, asks students to listen to the story. "
                                     },
                                     {
                                         "text": "Teacher plays the story again, stops at each page from page 1 to page 7 and asks students question.",
@@ -161,7 +150,7 @@
                                                 "text": "<i>What food is good for a cold? -> Soup is good for a cold.</i>"
                                             },
                                             {
-                                                "text": "<i>What do Kittens use when they sneeze? -> They use a tissue</i>"
+                                                "text": "<i>What do Kittens use when they sneeze? -> They use a tissue.</i>"
                                             },
                                             {
                                                 "text": "<i>Where should the Kittens throw the tissues? -> The Kittens should throw the tissues in the waste basket.</i>"
@@ -178,7 +167,7 @@
                     {
                         "left_content": {
                             "title": "Play",
-                            "text": "<i>20 mins</i>"
+                            "text": "<i>5 mins</i>"
                         },
                         "right_content": [
                             {
@@ -210,37 +199,67 @@
                                 "title": "Interactive games"
                             },
                             {
-                                "text": "<strong>Arrange the letters - Sick</strong>",
+                                "text": "<strong>Three Sick Kittens Sequence</strong>",
                                 "list": [
                                     {
-                                        "text": "Invite students to come to the board, look at the picture and arrange the letters in the correct order."
+                                        "text": "Invite student to come to the board, look at the pictures and drag to arrange the images in the correct sequence."
                                     }
                                 ]
                             },
                             {
-                                "text": "<strong>Match the correct word - Tissue</strong>",
+                                "text": "<strong>Pairing - healthy habits</strong>",
                                 "list": [
                                     {
-                                        "text": "Invite students to come to the board, look at the picture and choose the correct word and match it with the picture."
+                                        "text": "Invite students to come to the board and drag images from the left to match them with corresponding images on the right"
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do (steam activities)",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "STEAM Activity: <strong>“Make a flower”</strong>"
                             },
                             {
-                                "text": "<strong>Memory game - Healthy Habits 1</strong>",
                                 "list": [
                                     {
-                                        "text": "Invite students to turn over 2 cards to find the pairs of pictures."
+                                        "text": "Work in individually."
                                     },
                                     {
-                                        "text": "Have students to read the words aloud."
+                                        "text": "Teacher prepares the paper plate, handout, crayons, scissors, craft stick, white glue"
+                                    },
+                                    {
+                                        "text": "Teacher instructs students how to make a flower."
                                     }
                                 ]
                             },
                             {
-                                "text": "<strong>Find the word- Healthy Habits</strong>",
+                                "text": "<u>How to do:</u>"
+                            },
+                            {
                                 "list": [
                                     {
-                                        "text": "Invite students to draw lines to find the words and read the word aloud."
+                                        "text": "Note: Teacher can help students cut out petals and leaves from the handout."
+                                    },
+                                    {
+                                        "text": "Use the crayons to colour petals and leaves in the handout and cut it out."
+                                    },
+                                    {
+                                        "text": "Use a white glue and stick petals into the paper plate to make a flower."
+                                    },
+                                    {
+                                        "text": "Stick a craft stick into the flower to make a stem."
+                                    },
+                                    {
+                                        "text": "Stick the leaves into the stem of the flower and let it dry."
+                                    },
+                                    {
+                                        "text": "Teacher moves around the classroom, points to images of their flower and asks them to say keywords.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/1-1.jpg\"width=\"150\">"
                                     }
                                 ]
                             }
@@ -255,7 +274,7 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Play the song <strong>“Three sick Kittens”</strong> again"
+                                        "text": "Play the song again  <strong>“Three sick Kittens”</strong> again"
                                     },
                                     {
                                         "text": "Tell students to tidy up the classroom"
@@ -264,7 +283,36 @@
                                         "text": "Say goodbye to students"
                                     },
                                     {
-                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher"
+                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sources"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "https://www.shutterstock.com/image-vector/sick-kid-boy-handkerchief-hand-season-753693886"
+                                    },
+                                    {
+                                        "text": "https://www.shutterstock.com/image-vector/sick-kid-bed-467800568"
+                                    },
+                                    {
+                                        "text": "https://www.shutterstock.com/image-vector/man-flu-sickness-1044208561"
+                                    },
+                                    {
+                                        "text": "https://www.shutterstock.com/image-vector/boy-blowing-her-nose-tissue-kid-1193989837"
+                                    },
+                                    {
+                                        "text": "https://www.shutterstock.com/image-vector/illustration-young-teenager-girl-coughing-fist-1222901296"
+                                    },
+                                    {
+                                        "text": "https://www.shutterstock.com/image-illustration/set-black-line-leaves-on-white-1736689379"
                                     }
                                 ]
                             }
@@ -276,7 +324,7 @@
         {
             "lang": "vi",
             "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-            "lesson_name": "BÀI 13: THÓI QUEN SỐNG KHỎE 1",
+            "lesson_name": "BÀI 14: THÓI QUEN SỐNG KHỎE 2",
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -298,13 +346,16 @@
                         "text": "Phát triển kĩ năng nghe và nói. "
                     },
                     {
-                        "text": "Phát triển các kĩ năng khác: ",
+                        "text": "Phát triển các kĩ năng khác:",
                         "list": [
                             {
                                 "text": "<strong>Phát triển nhận thức: </strong> giáo dục phát triển thể chất - dinh dưỡng và sức khỏe."
                             },
                             {
-                                "text": "<strong>Phát triển thể chất:</strong> vận động theo nhạc, học sinh khoanh tay, ngồi xuống, chạm vào đầu, nhảy sang bên trái, nhảy lên và xuống. "
+                                "text": "<strong>Phát triển thể chất: </strong> vận động theo nhạc, học sinh khoanh tay, ngồi xuống, chạm vào đầu, nhảy sang bên trái, nhảy lên và xuống. "
+                            },
+                            {
+                                "text": "<strong>Phát triển thẩm mỹ:  </strong> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, làm bông hoa."
                             },
                             {
                                 "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
@@ -317,7 +368,10 @@
                 "title": "Dụng cụ - Học liệu",
                 "list": [
                     {
-                        "text": "KidsLoop CMS: 5-6_U3_LP13_Healthy habits 1."
+                        "text": "KidsLoop CMS: 5-6_U3_LP14_Healthy habits 2."
+                    },
+                    {
+                        "text": "Đĩa giấy (dk=13cm), bút màu sáp, keo sữa, que kem (que đè lưỡi)"
                     }
                 ]
             },
@@ -333,10 +387,10 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
+                                        "text": "Chào học sinh <i>“Chào buổi sáng / buổi chiều”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
                                     },
                                     {
-                                        "text": "Trả lời với <i>“Các con khỏe không?” </i>. Khuyến khích học sinh trả lời lại với <i>“Con ___(khỏe)” </i> "
+                                        "text": "Trả lời với  <i>“Các con khỏe không?”</i>. Khuyến khích học sinh trả lời lại với <i>“Con ___(khỏe)</i>."
                                     }
                                 ]
                             }
@@ -345,7 +399,7 @@
                     {
                         "left_content": {
                             "title": "Hát",
-                            "text": "“Chant: Three sick kittens”<br/><i>10 phút</i>"
+                            "text": "“Three sick kittens”<br/><i>5 phút</i>"
                         },
                         "right_content": [
                             {
@@ -354,47 +408,30 @@
                                         "text": "Bắt đầu bài học bằng một bài hát."
                                     },
                                     {
-                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về các triệu chứng của bệnh.”</i>"
+                                        "text": "Phát bài hát:  <b>“Three sick kittens”</b>."
                                     },
                                     {
-                                        "text": "Phát bài hát: <strong>“Three sick kittens”</strong>."
-                                    },
-                                    {
-                                        "text": "Tạo động tác và khuyến khích học sinh làm theo:",
+                                        "text": "Ôn tập động tác và khuyến khích học sinh làm theo:",
                                         "list": [
                                             {
-                                                "text": "<strong>Cold: </strong> khoanh tay."
+                                                "text": "<b>Cold: </b>khoanh tay."
                                             },
                                             {
-                                                "text": "<strong>Cough:  </strong> ngồi xuống."
+                                                "text": "<b>Cough:  </b>ngồi xuống."
                                             },
                                             {
-                                                "text": "<strong>Sick:  </strong> chạm vào đầu."
+                                                "text": "<b>Sick:  </b>chạm vào đầu."
                                             },
                                             {
-                                                "text": "<strong>Sneeze:  </strong> nhảy sang bên trái."
+                                                "text": "<b>Sneeze:  </b>nhảy sang bên trái."
                                             },
                                             {
-                                                "text": "<strong>Grab a tissue: </strong> lấy khăn giấy."
+                                                "text": "<b>Grab a tissue:  </b>lấy khăn giấy."
                                             }
                                         ]
                                     },
                                     {
-                                        "text": "Giáo viên mở lại bài hát. Giáo viên dừng nhạc để tập trung vào từ vựng của bài học <strong>(bệnh, cảm lạnh, hắt hơi, khăn giấy, ho) </strong> và đặt câu hỏi cho học sinh:",
-                                        "list": [
-                                            {
-                                                "text": "<i>Ai bị bệnh? -> Các chú mèo con bị bệnh.</i> "
-                                            },
-                                            {
-                                                "text": "<i>Các chú mèo bị bệnh gì? -> Các chú mèo bị cảm lạnh.</i> "
-                                            },
-                                            {
-                                                "text": "<i>Triệu chứng của bệnh cảm lạnh là gì? -> Triệu chứng là ho và hắt hơi.</i> "
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "text": "Giáo viên sử dụng ngôn ngữ hình thể để miêu tả từ vựng và sau đó nói học sinh lặp lại từ vựng vài lần."
+                                        "text": "Giáo viên mở lại bài hát. Giáo viên dừng nhạc để tập trung vào từ vựng của bài học <b>(bệnh, cảm lạnh, hắt hơi, khăn giấy, ho) </b>và nói học sinh đọc từ vựng."
                                     },
                                     {
                                         "text": "Giáo viên sửa phát âm của học sinh."
@@ -412,25 +449,25 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <strong>(bệnh, cảm lạnh, hắt hơi, khăn giấy, ho)</strong> "
+                                        "text": "Ôn tập từ vựng quan trọng của bài học <b>(bệnh, cảm lạnh, hắt hơi, khăn giấy, ho)</b>."
                                     },
                                     {
-                                        "text": "Giáo viên mở sách  <b>“Three sick Kittens”</b>, nói học sinh lắng nghe câu truyện. "
+                                        "text": "Giáo viên mở sách <b>“Three sick Kittens”</b>, nói học sinh lắng nghe câu truyện. "
                                     },
                                     {
-                                        "text": "Giáo viên mở lại câu truyện lần nữa, dừng ở từng trang và đặt câu hỏi:",
+                                        "text": "Giáo viên mở lại câu truyện lần nữa, dừng ở từng trang từ trang 1 đến trang 7 và đặt câu hỏi:",
                                         "list": [
                                             {
-                                                "text": "<i>Bada đi đâu? -> Bada đi thăm các chú mèo con.</i>"
+                                                "text": "<i>Bada đi đâu? -> Bada đi thăm các chứ mèo con.</i>"
                                             },
                                             {
-                                                "text": "<i>Chuyện gì xảy ra với các chú mèo? -> Các chú mèo con bị bệnh.</i>"
+                                                "text": "<i>Chuyện gì xảy ra với các chú mèo? -> Các chú mèo con bị bệnh</i>"
                                             },
                                             {
                                                 "text": "<i>Triệu chứng của bệnh là gì? -> Nó là 1 sự hắt hơi lớn.</i>"
                                             },
                                             {
-                                                "text": "<i>Đồ ăn nào tốt cho cảm lạnh? -> Canh nóng tốt cho cảm lạnh.</i>"
+                                                "text": "<i>Đồ ăn nào tốt cho cảm lạnh? -> Canh tốt cho cảm lạnh.</i>"
                                             },
                                             {
                                                 "text": "<i>Các chú mèo con dùng gì khi hắt hơi? -> Các chú mèo con dùng khăn giấy.</i>"
@@ -450,7 +487,7 @@
                     {
                         "left_content": {
                             "title": "Vui chơi",
-                            "text": "<i>20 phút</i>"
+                            "text": "<i>5 phút</i>"
                         },
                         "right_content": [
                             {
@@ -482,37 +519,67 @@
                                 "title": "Trò chơi tương tác"
                             },
                             {
-                                "text": "<strong>Sắp xếp chữ cái - sick </strong>",
+                                "text": "<strong>Trình tự ba chú mèo ốm</strong>",
                                 "list": [
                                     {
-                                        "text": "Mời học sinh lên bảng, nói học sinh nhìn vào bức tranh và sắp xếp các chữ cái theo đúng thứ tự."
+                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và kéo để sắp xếp hình ảnh theo đúng trình tự"
                                     }
                                 ]
                             },
                             {
-                                "text": "<strong>Ghép từ đúng - Tissue </strong>",
+                                "text": "<strong>Ghép - Thói quen sống khỏe</strong>",
                                 "list": [
                                     {
-                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và chọn từ đúng và ghép nó với bức tranh. ."
+                                        "text": "Mời học sinh lên bảng và kéo từ vựng từ bên trái để ghép với hình tương ứng ở bên phải. "
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động khoa học nghệ thuật",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "Hoạt động Khoa học – Nghệ thuật:<strong> “Làm một bông hoa”</strong>."
                             },
                             {
-                                "text": "<strong>Trò chơi trí nhớ - Thói quen sống khỏe 1</strong>",
                                 "list": [
                                     {
-                                        "text": "Mời học sinh lên bảng lật 2 hình để tìm các cặp hình ảnh."
+                                        "text": "Hoạt động cá nhân."
                                     },
                                     {
-                                        "text": "Nói học sinh đọc to từ vựng"
+                                        "text": "Giáo viên chuẩn bị đĩa giấy, bản mẫu, màu sáp, kéo, que kem (que đè lưỡi), keo sữa."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh cách làm một bông hoa."
                                     }
                                 ]
                             },
                             {
-                                "text": "<strong>Tìm từ - Thói quen sống khỏe </strong>",
+                                "text": "<u>Cách làm: </u>"
+                            },
+                            {
                                 "list": [
                                     {
-                                        "text": "Mời học sinh lên vẽ các đường thẳng để tìm từ và đọc to từ vựng."
+                                        "text": "Lưu ý: Giáo viên có thể giúp học sinh cắt cánh hoa và lá từ bản mẫu."
+                                    },
+                                    {
+                                        "text": "Sử dụng màu sáp tô các cánh hoa và lá trong bản mẫu và cắt nó ra."
+                                    },
+                                    {
+                                        "text": "Dùng keo sữa và dán các cánh hoa vào đĩa giấy để làm bông hoa."
+                                    },
+                                    {
+                                        "text": "Dán que kem (que đè lưỡi) vào bông hoa để làm thân."
+                                    },
+                                    {
+                                        "text": "Dán lá vào thân bông hoa và để nó khô."
+                                    },
+                                    {
+                                        "text": "Giáo viên di chuyển trong lớp, chỉ vào hình ảnh trên bông hoa và nói học sinh đọc từ vựng.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/1-1.jpg\"width=\"150\">"
                                     }
                                 ]
                             }
@@ -527,7 +594,7 @@
                             {
                                 "list": [
                                     {
-                                        "text": "Phát lại bài hát <b>“Three sick Kittens”</b>."
+                                        "text": "Mở lại bài hát  <b>“Three sick Kittens”</u>"
                                     },
                                     {
                                         "text": "Yêu cầu các học sinh dọn dẹp lớp học."
@@ -544,6 +611,17 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "others",
+            "list": [
+                {
+                    "img": "https://kidsloop.vn/wp-content/uploads/2021/04/2.jpg"
+                },
+                {
+                    "img": "https://kidsloop.vn/wp-content/uploads/2021/04/3.jpg"
+                }
+            ]
         }
     ]
 }

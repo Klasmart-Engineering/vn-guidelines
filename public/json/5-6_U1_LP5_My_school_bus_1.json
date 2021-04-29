@@ -1,559 +1,559 @@
 {
-    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-    "content": [
-      {
-        "lang": "en",
-        "unit": "Unit 1: My Kindergarten",
-        "lesson_name": "Lesson 5: My school bus 1",
-        "description": [
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "lesson_name": "Lesson 5: My school bus 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "5-6 years old"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 minutes"
+        }
+      ],
+      "learning": {
+        "title": "Learning objectives",
+        "subtitle": "Students will be able to:",
+        "list": [
           {
-            "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-            "text": "5-6 years old"
+            "text": "Learn some vocabulary: window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep"
           },
           {
-            "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-            "text": "45 minutes"
+            "text": "Develop speaking and listening skills"
+          },
+          {
+            "text": "Develop the other development skills:",
+            "list": [
+              {
+                "text": "<strong>Cognitive Development:</strong> know and understand characteristics of parts of the bus"
+              },
+              {
+                "text": "<strong>Gross motor skill:</strong> movement following the song to stand up, sit down, move the hands round and round, etc"
+              },
+              {
+                "text": "<strong>Fine motor skills:</strong> play interactive games"
+              }
+            ]
           }
-        ],
-        "learning": {
-          "title": "Learning objectives",
-          "subtitle": "Students will be able to:",
-          "list": [
-            {
-              "text": "Learn some vocabulary: window, up and down, wiper, swish, wheel, round and round, light, blink, horn, beep"
-            },
-            {
-              "text": "Develop speaking and listening skills"
-            },
-            {
-              "text": "Develop the other development skills:",
-              "list": [
-                {
-                  "text": "<strong>Cognitive Development:</strong> know and understand characteristics of parts of the bus"
-                },
-                {
-                  "text": "<strong>Gross motor skill:</strong> movement following the song to stand up, sit down, move the hands round and round, etc"
-                },
-                {
-                  "text": "<strong>Fine motor skills:</strong> play interactive games"
-                }
-              ]
-            }
-          ]
-        },
-        "materials": {
-          "title": "Materials",
-          "list": [
-            {
-              "text": "Kidsloop CMS: 5-6_U1_LP5_My school bus 1"
-            }
-          ]
-        },
-        "lessons": {
-          "title": "Lesson Flow",
-          "list": [
-            {
-              "left_content": {
-                "title": "Opening",
-                "text": "<i>3 mins</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Teacher welcomes the class and introduces Bada and friends"
-                    },
-                    {
-                      "text": "Review names of Badanamu characters if necessary"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Sing",
-                "text": "“The wheels on the bus”<br/><i>10 mins</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Start the lesson by listening to the song"
-                    },
-                    {
-                      "text": "Teacher says: <i>“We will sing a song about how the students go to the school</i>"
-                    },
-                    {
-                      "text": "Play the song: <strong>“The wheels on the bus”</strong>"
-                    },
-                    {
-                      "text": "Make the actions and encourage students to follow",
-                      "list": [
-                        {
-                          "text": "<strong>Wheel:</strong> make a round and round motion with your arms"
-                        },
-                        {
-                          "text": "<strong>Window:</strong> stand up and sit down"
-                        },
-                        {
-                          "text": "<strong>Horn:</strong> put 2 hands on the mouth pretend blowing"
-                        },
-                        {
-                          "text": "<strong>Light:</strong> open and close the palms"
-                        },
-                        {
-                          "text": "<strong>Wiper:</strong> raise the arms up straight and move from the left to the right and vice versa"
-                        }
-                      ]
-                    },
-                    {
-                      "text": "Play the song the second time, ask students to make the actions along the song and say: <i>Window – up and down; wiper – swish, swish, swish; wheel – round and round; light – blink, blink, blink; horn – beep, beep, beep</i>"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Read",
-                "text": "“The wheels on the bus”<br/><i>10 mins</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Introduce the topic and keywords of the lesson <strong>(wheel, round and round, window, up and down, horn, beep, wiper, light, blink, swish)</strong>"
-                    },
-                    {
-                      "text": "Open each page of the storybook, ask students to listen to the story of the book"
-                    },
-                    {
-                      "text": "Teacher plays a book again, stops at each page, asks students to repeat each sentence of the story"
-                    },
-                    {
-                      "text": "Teacher asks students questions:",
-                      "list": [
-                        {
-                          "text": "<i>What goes round and round? &#x02192; The wheels on the bus go round and round</i>"
-                        },
-                        {
-                          "text": "<i>What goes up and down? &#x02192; The windows on the bus go up and down.</i>"
-                        },
-                        {
-                          "text": "<i>What makes the sound beep, beep, beep? &#x02192; The horn on the bus goes beep, beep, beep.</i>"
-                        },
-                        {
-                          "text": "<i>What blink? &#x02192; The lights on the bus go blink, blink, blink.</i>"
-                        },
-                        {
-                          "text": "<i>What makes the sound swish, swish, swish? &#x02192; The wipers on the bus go swish, swish, swish.</i>"
-                        }
-                      ]
-                    },
-                    {
-                      "text": "Teacher invites students to say the sentence <i>“The wheels on the bus go round and round”</i>. Teacher corrects their pronunciation if any. Call on other students to speak other sentences such as <i>“The horn on the bus goes beep, beep, beep”</i>."
-                    },
-                    {
-                      "text": "Play a game to review the keywords.",
-                      "list": [
-                        {
-                          "text": "Teacher flips through the book."
-                        },
-                        {
-                          "text": "Teacher points to the parts of the bus <strong>(wheel, horn, wiper, light, window)</strong>, asks students to say name of each part and how they go <strong>(round and round, up and down, blink, swish, beep)</strong>."
-                        },
-                        {
-                          "text": "Ask students to repeat key words and correct their pronunciation."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Play",
-                "text": "<i>20 mins</i>"
-              },
-              "right_content": [
-                {
-                  "title": "Reinforce vocabulary"
-                },
-                {
-                  "text": "<strong>Keywords (wheel, round and round, light, blink, horn, beep)</strong>",
-                  "list": [
-                    {
-                      "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
-                    },
-                    {
-                      "text": "Teacher corrects their pronunciation."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Keywords (window, up and down, wiper, swish)</strong>",
-                  "list": [
-                    {
-                      "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
-                    },
-                    {
-                      "text": "Teacher corrects their pronunciation."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Image slider - My school bus</strong>",
-                  "list": [
-                    {
-                      "text": "Teacher plays the pictures and asks students to say the keywords. Teacher corrects their pronunciation."
-                    }
-                  ]
-                },
-                {
-                  "title": "Interactive games"
-                },
-                {
-                  "text": "<strong>Maze - My school bus</strong>",
-                  "list": [
-                    {
-                      "text": "Invite students to come to the board, tap the bus and drag it through the path."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Drag and drop</strong>",
-                  "list": [
-                    {
-                      "text": "Invite students to choose the words and match it to the correct parts of the bus."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Image pairing</strong>",
-                  "list": [
-                    {
-                      "text": "Invite students to come to the board, drag and match images from the left to the corresponding images on the right."
-                    },
-                    {
-                      "text": "Teacher can refresh the game and invite other students to play."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Drag the words - My school bus</strong>",
-                  "list": [
-                    {
-                      "text": "Invite student to come to the board, read the sentences and choose the correct words to fill in the blanks."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Closing",
-                "text": "<i>2 mins</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Play the song again <strong>“The wheels on the bus”</strong>"
-                    },
-                    {
-                      "text": "Tell students to tidy up the classroom"
-                    },
-                    {
-                      "text": "Say goodbye to students"
-                    },
-                    {
-                      "text": "Ask students to say goodbye to their peers and to the teacher"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+        ]
       },
-      {
-        "lang": "vi",
-        "unit": "Chương 1: Trường mầm non của bé",
-        "lesson_name": "Bài 5: Xe buýt của trường tôi 1",
-        "description": [
+      "materials": {
+        "title": "Materials",
+        "list": [
           {
-            "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-            "text": "5-6 tuổi"
+            "text": "Kidsloop CMS: 5-6_U1_LP5_My school bus 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Lesson Flow",
+        "list": [
+          {
+            "left_content": {
+              "title": "Opening",
+              "text": "<i>3 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Teacher welcomes the class and introduces Bada and friends"
+                  },
+                  {
+                    "text": "Review names of Badanamu characters if necessary"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-            "text": "45 phút"
+            "left_content": {
+              "title": "Sing",
+              "text": "“The wheels on the bus”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Start the lesson by listening to the song"
+                  },
+                  {
+                    "text": "Teacher says: <i>“We will sing a song about how the students go to the school</i>"
+                  },
+                  {
+                    "text": "Play the song: <strong>“The wheels on the bus”</strong>"
+                  },
+                  {
+                    "text": "Make the actions and encourage students to follow",
+                    "list": [
+                      {
+                        "text": "<strong>Wheel:</strong> make a round and round motion with your arms"
+                      },
+                      {
+                        "text": "<strong>Window:</strong> stand up and sit down"
+                      },
+                      {
+                        "text": "<strong>Horn:</strong> put 2 hands on the mouth pretend blowing"
+                      },
+                      {
+                        "text": "<strong>Light:</strong> open and close the palms"
+                      },
+                      {
+                        "text": "<strong>Wiper:</strong> raise the arms up straight and move from the left to the right and vice versa"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Play the song the second time, ask students to make the actions along the song and say: <i>Window – up and down; wiper – swish, swish, swish; wheel – round and round; light – blink, blink, blink; horn – beep, beep, beep</i>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Read",
+              "text": "“The wheels on the bus”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Introduce the topic and keywords of the lesson <strong>(wheel, round and round, window, up and down, horn, beep, wiper, light, blink, swish)</strong>"
+                  },
+                  {
+                    "text": "Open each page of the storybook, ask students to listen to the story of the book"
+                  },
+                  {
+                    "text": "Teacher plays a book again, stops at each page, asks students to repeat each sentence of the story"
+                  },
+                  {
+                    "text": "Teacher asks students questions:",
+                    "list": [
+                      {
+                        "text": "<i>What goes round and round? &#x02192; The wheels on the bus go round and round</i>"
+                      },
+                      {
+                        "text": "<i>What goes up and down? &#x02192; The windows on the bus go up and down.</i>"
+                      },
+                      {
+                        "text": "<i>What makes the sound beep, beep, beep? &#x02192; The horn on the bus goes beep, beep, beep.</i>"
+                      },
+                      {
+                        "text": "<i>What blink? &#x02192; The lights on the bus go blink, blink, blink.</i>"
+                      },
+                      {
+                        "text": "<i>What makes the sound swish, swish, swish? &#x02192; The wipers on the bus go swish, swish, swish.</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Teacher invites students to say the sentence <i>“The wheels on the bus go round and round”</i>. Teacher corrects their pronunciation if any. Call on other students to speak other sentences such as <i>“The horn on the bus goes beep, beep, beep”</i>."
+                  },
+                  {
+                    "text": "Play a game to review the keywords.",
+                    "list": [
+                      {
+                        "text": "Teacher flips through the book."
+                      },
+                      {
+                        "text": "Teacher points to the parts of the bus <strong>(wheel, horn, wiper, light, window)</strong>, asks students to say name of each part and how they go <strong>(round and round, up and down, blink, swish, beep)</strong>."
+                      },
+                      {
+                        "text": "Ask students to repeat key words and correct their pronunciation."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Play",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "title": "Reinforce vocabulary"
+              },
+              {
+                "text": "<strong>Keywords (wheel, round and round, light, blink, horn, beep)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Keywords (window, up and down, wiper, swish)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, click on the pictures and keywords and ask students to listen and repeat the keywords."
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Image slider - My school bus</strong>",
+                "list": [
+                  {
+                    "text": "Teacher plays the pictures and asks students to say the keywords. Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "title": "Interactive games"
+              },
+              {
+                "text": "<strong>Maze - My school bus</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, tap the bus and drag it through the path."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Drag and drop</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to choose the words and match it to the correct parts of the bus."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Image pairing</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, drag and match images from the left to the corresponding images on the right."
+                  },
+                  {
+                    "text": "Teacher can refresh the game and invite other students to play."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Drag the words - My school bus</strong>",
+                "list": [
+                  {
+                    "text": "Invite student to come to the board, read the sentences and choose the correct words to fill in the blanks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Closing",
+              "text": "<i>2 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Play the song again <strong>“The wheels on the bus”</strong>"
+                  },
+                  {
+                    "text": "Tell students to tidy up the classroom"
+                  },
+                  {
+                    "text": "Say goodbye to students"
+                  },
+                  {
+                    "text": "Ask students to say goodbye to their peers and to the teacher"
+                  }
+                ]
+              }
+            ]
           }
-        ],
-        "learning": {
-          "title": "Mục tiêu bài học",
-          "subtitle": "Học sinh sẽ được:",
-          "list": [
-            {
-              "text": "Học từ vựng: cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp."
-            },
-            {
-              "text": "Phát triển kỹ năng nghe và nói"
-            },
-            {
-              "text": "Phát triển các kỹ năng phát triển khác:",
-              "list": [
-                {
-                  "text": "<strong>Phát triển nhận thức:</strong> biết và hiểu được đặc tính của các bộ phận của xe buýt."
-                },
-                {
-                  "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc đứng lên ngồi xuống, xoay vòng 2 cánh tay, v.v."
-                },
-                {
-                  "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác."
-                }
-              ]
-            }
-          ]
-        },
-        "materials": {
-          "title": "Dụng cụ - Học liệu",
-          "list": [
-            {
-              "text": "KidsLoop CMS: 5-6_U1_LP5_My school bus 1"
-            }
-          ]
-        },
-        "lessons": {
-          "title": "Tiến trình bài học",
-          "list": [
-            {
-              "left_content": {
-                "title": "Mở đầu",
-                "text": "<i>3 phút</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
-                    },
-                    {
-                      "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Hát",
-                "text": "“The wheels on the bus”<br/><i>10 phút</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Bắt đầu bài học bằng một bài hát."
-                    },
-                    {
-                      "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về cách mọi người đi vòng quanh thành phố.”</i>."
-                    },
-                    {
-                      "text": "Mở bài hát: <strong>“The wheels on the bus”</strong>"
-                    },
-                    {
-                      "text": "Hướng dẫn và khuyến khích học sinh làm theo các động tác:",
-                      "list": [
-                        {
-                          "text": "<strong>Wheel:</strong> xoay vòng 2 cánh tay với nhau."
-                        },
-                        {
-                          "text": "<strong>Window:</strong> đứng lên và ngồi xuống."
-                        },
-                        {
-                          "text": "<strong>Horn:</strong> đưa 2 tay lên miệng như đang thổi."
-                        },
-                        {
-                          "text": "<strong>Light:</strong> đóng và mở lòng bàn tay."
-                        },
-                        {
-                          "text": "<strong>Wiper:</strong> đưa 2 cánh tay lên mà di chuyển từ trái sang phải và ngược lại"
-                        }
-                      ]
-                    },
-                    {
-                      "text": "Giáo viên mở lại bài hát lần hai, nói học sinh làm động tác theo bài hát và nói: <i>Cửa số - lên và xuống, cần gạt nước – sột soạt, sột soạt, sột soạt, bánh xe – quay vòng vòng; đèn – nhấp nháy, nhấp nháy, nhấp nháy; kèn – bíp, bíp bíp</i>"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Đọc sách",
-                "text": "“The wheels on the bus”<br/><i>10 phút</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <strong>(cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp).</strong>."
-                    },
-                    {
-                      "text": "Giáo viên mở sách, nói học sinh lắng nghe câu chuyện của quyển sách."
-                    },
-                    {
-                      "text": "Giáo viên mở sách lại lần nữa, dừng ở từng trang, nói học sinh lặp lại từng câu của câu chuyện."
-                    },
-                    {
-                      "text": "Giáo viên đặt câu hỏi.",
-                      "list": [
-                        {
-                          "text": "<i>Cái gì quay vòng tròn? &#x02192; Bánh xe của xe buýt quay vòng vòng.</i>"
-                        },
-                        {
-                          "text": "<i>Cái gì di chuyển lên và xuống? &#x02192; Cửa sổ của xe buýt di chuyển lên và xuống.</i>"
-                        },
-                        {
-                          "text": "<i>Cái gì tạo ra âm thanh bíp, bíp, bíp? &#x02192; Cái còi xe buýt kêu bíp, bíp, bíp.</i>"
-                        },
-                        {
-                          "text": "<i>Cái gì nhấp nháy? &#x02192; Cái đèn của xe buýt nhấp nháy nhấp nháy nhấp nháy.</i>"
-                        },
-                        {
-                          "text": "<i>Cái gì tạo ra âm thanh sột soạt? &#x02192; Cái cần gạt nước của xe buýt kêu sột soạt.</i>"
-                        }
-                      ]
-                    },
-                    {
-                      "text": "Giáo viên mời học sinh nói <i>“Bánh xe của xe buýt quay vòng vòng”</i>. Chỉnh sửa phát âm của học sinh nếu có. Mời các bạn khác đọc câu khác như <i>“Cái còi của xe buýt kêu bíp, bíp, bíp”</i>."
-                    },
-                    {
-                      "text": "Chơi game để ôn tập từ vựng:",
-                      "list": [
-                        {
-                          "text": "Giáo viên lật các trang sách."
-                        },
-                        {
-                          "text": "Giáo viên chỉ vào từng bộ phận của xe buýt (bánh xe, còi xe, cần gạt nước, đèn, cửa sổ), nói học sinh đọc tên từng bộ phận và chúng hoạt động như thế nào (quay vòng vòng, lên và xuống, nhấp nháy, sột soạt, bíp)."
-                        },
-                        {
-                          "text": "Yêu cầu học sinh lặp lại từ vựng và sửa phát âm của học sinh."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Vui chơi",
-                "text": "<i>20 phút</i>"
-              },
-              "right_content": [
-                {
-                  "title": "Củng cố từ vựng"
-                },
-                {
-                  "text": "<strong>Từ vựng (wheel, round and round, light, blink, horn, beep)</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
-                    },
-                    {
-                      "text": "Giáo viên sửa phát âm của học sinh."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Từ vựng (window, up and down, wiper, swish)</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
-                    },
-                    {
-                      "text": "Giáo viên sửa phát âm của học sinh."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Hình trượt – Xe buýt trường em</strong>",
-                  "list": [
-                    {
-                      "text": "Giáo viên mở các bức tranh và nói học sinh đọc từ vựng. Giáo viên sửa phát âm của học sinh."
-                    }
-                  ]
-                },
-                {
-                  "title": "Trò chơi tương tác"
-                },
-                {
-                  "text": "<strong>Mê cung - Xe buýt trường con</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên bảng, chạm vào xe buýt để thả nó qua đường đi."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Kéo và thả</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên chọn từ và nối với đúng bộ phận của xe buýt."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Ghép hình ảnh</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên bảng, kéo và nối hình từ bên trái qua hình tương ứng bên phải."
-                    },
-                    {
-                      "text": "Giáo viên có thể làm mới trò chơi và mời học sinh khác lên chơi."
-                    }
-                  ]
-                },
-                {
-                  "text": "<strong>Kéo từ - Chiếc xe buýt trường em</strong>",
-                  "list": [
-                    {
-                      "text": "Mời học sinh lên bảng, đọc các câu và chọn từ đúng để điền vào chỗ trống."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "left_content": {
-                "title": "Kết thúc",
-                "text": "<i>2 phút</i>"
-              },
-              "right_content": [
-                {
-                  "list": [
-                    {
-                      "text": "Phát lại bài hát <strong>“The wheels on the bus”</strong>."
-                    },
-                    {
-                      "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                    },
-                    {
-                      "text": "Tạm biệt các học sinh."
-                    },
-                    {
-                      "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+        ]
       }
-    ]
-  }
+    },
+    {
+      "lang": "vi",
+      "unit": "Chương 1: Trường mầm non của bé",
+      "lesson_name": "Bài 5: Xe buýt của trường tôi 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "5-6 tuổi"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 phút"
+        }
+      ],
+      "learning": {
+        "title": "Mục tiêu bài học",
+        "subtitle": "Học sinh sẽ được:",
+        "list": [
+          {
+            "text": "Học từ vựng: cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp."
+          },
+          {
+            "text": "Phát triển kỹ năng nghe và nói"
+          },
+          {
+            "text": "Phát triển các kỹ năng phát triển khác:",
+            "list": [
+              {
+                "text": "<strong>Phát triển nhận thức:</strong> biết và hiểu được đặc tính của các bộ phận của xe buýt."
+              },
+              {
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc đứng lên ngồi xuống, xoay vòng 2 cánh tay, v.v."
+              },
+              {
+                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác."
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Dụng cụ - Học liệu",
+        "list": [
+          {
+            "text": "KidsLoop CMS: 5-6_U1_LP5_My school bus 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Tiến trình bài học",
+        "list": [
+          {
+            "left_content": {
+              "title": "Mở đầu",
+              "text": "<i>3 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Giáo viên chào đón các học sinh vào lớp học và giới thiệu nhân vật Bada và các bạn."
+                  },
+                  {
+                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hát",
+              "text": "“The wheels on the bus”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Bắt đầu bài học bằng một bài hát."
+                  },
+                  {
+                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về cách mọi người đi vòng quanh thành phố.”</i>."
+                  },
+                  {
+                    "text": "Mở bài hát: <strong>“The wheels on the bus”</strong>"
+                  },
+                  {
+                    "text": "Hướng dẫn và khuyến khích học sinh làm theo các động tác:",
+                    "list": [
+                      {
+                        "text": "<strong>Wheel:</strong> xoay vòng 2 cánh tay với nhau."
+                      },
+                      {
+                        "text": "<strong>Window:</strong> đứng lên và ngồi xuống."
+                      },
+                      {
+                        "text": "<strong>Horn:</strong> đưa 2 tay lên miệng như đang thổi."
+                      },
+                      {
+                        "text": "<strong>Light:</strong> đóng và mở lòng bàn tay."
+                      },
+                      {
+                        "text": "<strong>Wiper:</strong> đưa 2 cánh tay lên mà di chuyển từ trái sang phải và ngược lại"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Giáo viên mở lại bài hát lần hai, nói học sinh làm động tác theo bài hát và nói: <i>Cửa số - lên và xuống, cần gạt nước – sột soạt, sột soạt, sột soạt, bánh xe – quay vòng vòng; đèn – nhấp nháy, nhấp nháy, nhấp nháy; kèn – bíp, bíp bíp</i>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Đọc sách",
+              "text": "“The wheels on the bus”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <strong>(cửa sổ, lên và xuống, cần gạt nước, tiếng sột soạt, bánh xe, quay vòng tròn, đèn, nhấp nháy, kèn, tiếng bíp bíp).</strong>."
+                  },
+                  {
+                    "text": "Giáo viên mở sách, nói học sinh lắng nghe câu chuyện của quyển sách."
+                  },
+                  {
+                    "text": "Giáo viên mở sách lại lần nữa, dừng ở từng trang, nói học sinh lặp lại từng câu của câu chuyện."
+                  },
+                  {
+                    "text": "Giáo viên đặt câu hỏi.",
+                    "list": [
+                      {
+                        "text": "<i>Cái gì quay vòng tròn? &#x02192; Bánh xe của xe buýt quay vòng vòng.</i>"
+                      },
+                      {
+                        "text": "<i>Cái gì di chuyển lên và xuống? &#x02192; Cửa sổ của xe buýt di chuyển lên và xuống.</i>"
+                      },
+                      {
+                        "text": "<i>Cái gì tạo ra âm thanh bíp, bíp, bíp? &#x02192; Cái còi xe buýt kêu bíp, bíp, bíp.</i>"
+                      },
+                      {
+                        "text": "<i>Cái gì nhấp nháy? &#x02192; Cái đèn của xe buýt nhấp nháy nhấp nháy nhấp nháy.</i>"
+                      },
+                      {
+                        "text": "<i>Cái gì tạo ra âm thanh sột soạt? &#x02192; Cái cần gạt nước của xe buýt kêu sột soạt.</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Giáo viên mời học sinh nói <i>“Bánh xe của xe buýt quay vòng vòng”</i>. Chỉnh sửa phát âm của học sinh nếu có. Mời các bạn khác đọc câu khác như <i>“Cái còi của xe buýt kêu bíp, bíp, bíp”</i>."
+                  },
+                  {
+                    "text": "Chơi game để ôn tập từ vựng:",
+                    "list": [
+                      {
+                        "text": "Giáo viên lật các trang sách."
+                      },
+                      {
+                        "text": "Giáo viên chỉ vào từng bộ phận của xe buýt (bánh xe, còi xe, cần gạt nước, đèn, cửa sổ), nói học sinh đọc tên từng bộ phận và chúng hoạt động như thế nào (quay vòng vòng, lên và xuống, nhấp nháy, sột soạt, bíp)."
+                      },
+                      {
+                        "text": "Yêu cầu học sinh lặp lại từ vựng và sửa phát âm của học sinh."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Vui chơi",
+              "text": "<i>20 phút</i>"
+            },
+            "right_content": [
+              {
+                "title": "Củng cố từ vựng"
+              },
+              {
+                "text": "<strong>Từ vựng (wheel, round and round, light, blink, horn, beep)</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Từ vựng (window, up and down, wiper, swish)</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh, từ vựng và nói học sinh lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Hình trượt – Xe buýt trường em</strong>",
+                "list": [
+                  {
+                    "text": "Giáo viên mở các bức tranh và nói học sinh đọc từ vựng. Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "title": "Trò chơi tương tác"
+              },
+              {
+                "text": "<strong>Mê cung - Xe buýt trường con</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, chạm vào xe buýt để thả nó qua đường đi."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Kéo và thả</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên chọn từ và nối với đúng bộ phận của xe buýt."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Ghép hình ảnh</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, kéo và nối hình từ bên trái qua hình tương ứng bên phải."
+                  },
+                  {
+                    "text": "Giáo viên có thể làm mới trò chơi và mời học sinh khác lên chơi."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Kéo từ - Chiếc xe buýt trường em</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, đọc các câu và chọn từ đúng để điền vào chỗ trống."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Kết thúc",
+              "text": "<i>2 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Phát lại bài hát <strong>“The wheels on the bus”</strong>."
+                  },
+                  {
+                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                  },
+                  {
+                    "text": "Tạm biệt các học sinh."
+                  },
+                  {
+                    "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
