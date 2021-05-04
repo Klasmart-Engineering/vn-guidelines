@@ -91,48 +91,56 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-12">
-                                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <table class="table-wrap" width="100%" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                         <tr class="tr-thead">
-                                            <td colspan="2">{{ data.lessons.title }}</td>
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td colspan="2">{{ data.lessons.title }}</td>
+                                                </tr>
+                                            </table>
                                         </tr>
                                         <tr v-for="(item, index) in data.lessons.list" :key="index">
-                                            <td valign="top">
-                                                <div v-if="item.left_content">
-                                                    <div class="object-title" v-html="item.left_content.title"></div>
-                                                    <div class="object-time" v-html="item.left_content.text"></div>
-                                                </div>
-                                            </td>
-                                            <td valign="top">
-                                                <div v-if="item.right_content">
-                                                    <div v-for="(object1, key1) in item.right_content"
-                                                         :key="key1"
-                                                         :class="object1.title ? 'title-wrap-on-right' : 'content-wrap-on-right'">
-                                                        <div v-if="object1.title">
-                                                            <b><u>{{ object1.title}}</u></b>
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="border-bottom: solid 1px #0088cc">
+                                                <tr>
+                                                    <td valign="top" style="width: 20%; border-right: dashed 1px rgba(0, 136, 204, 0.5); background-color: rgba(0, 136, 204, 0.1);">
+                                                        <div v-if="item.left_content">
+                                                            <div class="object-title" v-html="item.left_content.title"></div>
+                                                            <div class="object-time" v-html="item.left_content.text"></div>
                                                         </div>
+                                                    </td>
+                                                    <td valign="top" style="background-color: #fafafa;">
+                                                        <div v-if="item.right_content">
+                                                            <div v-for="(object1, key1) in item.right_content"
+                                                                 :key="key1"
+                                                                 :class="object1.title ? 'title-wrap-on-right' : 'content-wrap-on-right'">
+                                                                <div v-if="object1.title">
+                                                                    <b><u>{{ object1.title}}</u></b>
+                                                                </div>
 
-                                                        <div v-if="object1.text || object1.list">
-                                                            <div v-html="object1.text"></div>
-                                                            <ul>
-                                                                <li v-for="(object2, key2) in object1.list" :key="key2">
-                                                                    <div v-html="object2.text"></div>
-                                                                    <ul v-if="object2.list">
-                                                                        <li v-for="(object3, key3) in object2.list" :key="key3">
-                                                                            <div v-html="object3.text"></div>
-                                                                            <ul v-if="object3.list">
-                                                                                <li v-for="(object4, key4) in object3.list" :key="key4">
-                                                                                    <div v-html="object4.text"></div>
+                                                                <div v-if="object1.text || object1.list">
+                                                                    <div v-html="object1.text"></div>
+                                                                    <ul>
+                                                                        <li v-for="(object2, key2) in object1.list" :key="key2">
+                                                                            <div v-html="object2.text"></div>
+                                                                            <ul v-if="object2.list">
+                                                                                <li v-for="(object3, key3) in object2.list" :key="key3">
+                                                                                    <div v-html="object3.text"></div>
+                                                                                    <ul v-if="object3.list">
+                                                                                        <li v-for="(object4, key4) in object3.list" :key="key4">
+                                                                                            <div v-html="object4.text"></div>
+                                                                                        </li>
+                                                                                    </ul>
                                                                                 </li>
                                                                             </ul>
                                                                         </li>
                                                                     </ul>
-                                                                </li>
-                                                            </ul>
+                                                                </div>
+                                                            </div>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                            </td>
+                                                    </td>
+                                                </tr>
+                                            </table>
                                         </tr>
                                         </tbody>
                                     </table>
