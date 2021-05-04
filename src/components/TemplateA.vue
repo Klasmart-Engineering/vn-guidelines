@@ -101,7 +101,7 @@
                                             </table>
                                         </tr>
                                         <tr v-for="(item, index) in data.lessons.list" :key="index">
-                                            <table width="100%" cellpadding="0" cellspacing="0" style="border-bottom: solid 1px #0088cc">
+                                            <table width="100%" cellpadding="0" cellspacing="0">
                                                 <tr>
                                                     <td valign="top" style="width: 20%; border-right: dashed 1px rgba(0, 136, 204, 0.5); background-color: rgba(0, 136, 204, 0.1);">
                                                         <div v-if="item.left_content">
@@ -139,6 +139,13 @@
                                                             </div>
                                                         </div>
                                                     </td>
+                                                </tr>
+                                            </table>
+                                        </tr>
+                                        <tr class="tr-tfoot">
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td colspan="2">&nbsp;</td>
                                                 </tr>
                                             </table>
                                         </tr>
