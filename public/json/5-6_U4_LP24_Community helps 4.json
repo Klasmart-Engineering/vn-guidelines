@@ -4,7 +4,7 @@
     {
       "lang": "en",
       "unit": "UNIT 4: PROFESSION",
-      "lesson_name": "LESSON 22: COMMUNITY HELPS 2",
+      "lesson_name": "LESSON 24: COMMUNITY HELPS 4",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -20,7 +20,7 @@
         "subtitle": "Students will be able to:",
         "list": [
           {
-            "text": "Learn vocabulary of professions: <b>job, mail carrier, gardener, police officer</b>."
+            "text": "Learn vocabulary of professions: builder, bus driver, doctor, firefighter."
           },
           {
             "text": "Develop speaking and listening skills."
@@ -29,13 +29,13 @@
             "text": "Develop other development skills:",
             "list": [
               {
-                "text": "<strong>Cognitive development:</strong> Inquiry into society – Students classify the characters"
+                "text": "<strong>Cognitive development:</strong> Inquiry into society – Students classify the jobs"
               },
               {
-                "text": "<strong>Gross motor skill:</strong> movement following the song, hold hands, wave hands, raise the hand to salute, raise two hands."
+                "text": "<strong>Gross motor skill:</strong> movement following the song, raise the left hand, turn around, clap the hands, wink."
               },
               {
-                "text": "<strong>Fine motor skills:</strong> play interactive games, make mail carrier paper tube puppet."
+                "text": "<strong>Fine motor skills:</strong> play interactive games."
               }
             ]
           }
@@ -45,10 +45,10 @@
         "title": "Materials",
         "list": [
           {
-            "text": "Kidsloop CMS: 5-6_U4_LP22_Community helps 2."
+            "text": "Kidsloop CMS: 5-6_U4_LP24_Community helps 4."
           },
           {
-            "text": "Handout, crayon, scissors, glue, towel paper tube."
+            "text": "Handout, crayon, colored paper (red, blue, yellow, orange), glue."
           }
         ]
       },
@@ -73,12 +73,12 @@
                         "text": "<i>Have you had breakfast? &#x02192; Yes, I have."
                       },
                       {
-                        "text": "<i>What do you eat for breakfast? &#x02192; I eat bread, noodle, etc."
+                        "text": "<i>Do you want to be a police officer / gardener / mail carrier? &#x02192; Yes, I do."
                       }
                     ]
                   },
                   {
-                    "text": "Teacher elicits the answer from students."
+                    "text": "Teacher encourages students to answer the questions."
                   }
                 ]
               }
@@ -93,7 +93,7 @@
               {
                 "list": [
                   {
-                    "text": "Start the lesson by reviewing the song"
+                    "text": "Start the lesson by listening to the song"
                   },
                   {
                     "text": "Play the song (Chant): <strong>“Agent M”</strong>"
@@ -102,16 +102,16 @@
                     "text": "Play the song and review the actions below.",
                     "list": [
                       {
-                        "text": "<b>Job:</b> hold hands."
+                        "text": "<b>Builder:</b> raise the left hands."
                       },
                       {
-                        "text": "<b>Mail carrier:</b> wave hands."
+                        "text": "<b>Firefighter:</b> turn around."
                       },
                       {
-                        "text": "<b>Police officer:</b> raise the hand to salute."
+                        "text": "<b>Doctor:</b> clap the hands."
                       },
                       {
-                        "text": "<b>Gardener:</b> raise two hands."
+                        "text": "<b>Bus driver:</b> wink."
                       }
                     ]
                   },
@@ -131,27 +131,30 @@
               {
                 "list": [
                   {
-                    "text": "Review the keywords of the lesson (<strong>job, mail carrier, police officer, gardener</strong>). "
+                    "text": "Review the keywords of the lesson (<strong>firefighter, doctor, bus driver</strong>). "
                   },
                   {
-                    "text": "Activate prior knowledge by asking students what the story “Agent M” is about.",
+                    "text": "Go through the book and just look at the images. Ask questions such as:",
                     "list": [
                       {
-                        "text": "<i>Who helped Abby carry the big box? </i>"
+                        "text": "<i>Who are the characters on this page? </i>"
                       },
                       {
-                        "text": "<i>Who did Bada and Agent M look for?</i>"
+                        "text": "<i>What is in Bada’s police car?</i>"
+                      },
+                      {
+                        "text": "<i>Where is Curly climbing?</i>"
                       }
                     ]
                   },
                   {
-                    "text": "Go through the book from page 1 to 6 and have your student point out the keywords in the story and repeat the keywords."
+                    "text": "Teacher plays the storybook, pauses at each page from 8 to 12, teacher reads and reviews the keywords (<b>firefighter, doctor, bus driver</b>)."
                   },
                   {
-                    "text": "Teacher plays the storybook, page 1 to 6 of  “<b>Agent M</b>” and pauses at the keywords, asks students to repeat the keywords."
+                    "text": "Ask students to repeat the keywords several times in chorus and individually and correct their pronunciation."
                   },
                   {
-                    "text": "Teacher corrects their pronunciation."
+                    "text": "Teacher calls out the keywords and asks students to describe it by their body language."
                   }
                 ]
               }
@@ -167,7 +170,7 @@
                 "title": "Reinforce vocabulary"
               },
               {
-                "text": "<strong>Keywords - Community Helps 1</strong>",
+                "text": "<strong>Keywords - Community Helps 2</strong>",
                 "list": [
                   {
                     "text": "Invite students to come to the board, click on the pictures to listen and repeat the keywords. "
@@ -178,10 +181,10 @@
                 ]
               },
               {
-                "text": "<strong>Image Slider - gardener, job, mail carrier, police officer</strong>",
+                "text": "<strong>Card Slider - builder, bus driver, doctor, firefighter</strong>",
                 "list": [
                   {
-                    "text": "Teacher plays the cards and asks students to repeat the keywords."
+                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords.  "
                   },
                   {
                     "text": "Teacher corrects their pronunciation."
@@ -192,18 +195,18 @@
                 "title": "Interactive games"
               },
               {
-                "text": "<strong>Matching – Jobs</strong>",
+                "text": "<strong>Choose the correct answers – Jobs</strong>",
                 "list": [
                   {
-                    "text": "Invite students to come to the board, look at the pictures and choose the correct words to match with the pictures."
+                    "text": "Invite students to come to the board, look at the pictures and listen to the words and choose the correct answers."
                   }
                 ]
               },
               {
-                "text": "<strong>Match items – Jobs</strong>",
+                "text": "<strong>Match items - Jobs 2</strong>",
                 "list": [
                   {
-                    "text": "Invite students to come to the board, draw a line to match each item to the word and then to the character. "
+                    "text": "Invite students to draw the lines to match the jobs to the words and then to the characters."
                   }
                 ]
               }
@@ -216,7 +219,7 @@
             },
             "right_content": [
               {
-                "text": "STEAM Activity: <strong>“Making a mail carrier paper tube puppet”</strong>"
+                "text": "STEAM Activity: <strong>“Stamp out a fire”</strong>"
               },
               {
                 "list": [
@@ -224,22 +227,19 @@
                     "text": "Work in individually."
                   },
                   {
-                    "text": "Teacher prepares a toilet paper tube, glue, scissors, crayon for each student."
+                    "text": "Teacher prepares colored papers (red, yellow, orange, blue), glue, handout for each student."
                   },
                   {
-                    "text": "Teacher instructs students to make a mail carrier paper tube."
-                  },
-                  {
-                    "text": "How to do:",
+                    "text": "<u>How to do:</u>",
                     "list": [
                       {
-                        "text": "Use crayon and color the pictures in the handout then cut the pictures out.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-1.png\">"
+                        "text": "Use the crayons and color the firefighter in the handout.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-1.png\">"
                       },
                       {
-                        "text": "Use a glue and glue the body into the paper tube.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-2-e1619757013117.png\"width=\"150\" height=\"200\">"
+                        "text": "Tear blue paper into small pieces and stick into the water pipe to make a stream of water.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-2.png\">"
                       },
                       {
-                        "text": "Fold the arms on the line and glue into the paper tube to make arms then glue a hat and a bag into the mail carrier.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-3-1.png\"width=\"800\" height=\"150\">"
+                        "text": "Tear yellow, red and orange papers into small pieces and stick into the handout to make fire.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-3.png\">"
                       }
                     ]
                   }
@@ -270,6 +270,20 @@
                 ]
               }
             ]
+          },
+          {
+            "left_content": {
+              "title": "Sources"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "https://www.shutterstock.com/image-vector/illustration-fireman-fire-hose-black-white-158011"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -277,7 +291,7 @@
     {
       "lang": "vi",
       "unit": "CHƯƠNG 4: NGHỀ NGHIỆP",
-      "lesson_name": "BÀI 22:  GIÚP ĐỠ CỘNG ĐỒNG 2.",
+      "lesson_name": "BÀI 24:  GIÚP ĐỠ CỘNG ĐỒNG 4",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -293,7 +307,7 @@
         "subtitle": "Học sinh sẽ được:",
         "list": [
           {
-            "text": "Học từ vựng về nghề nghiệp: nghề nghiệp, người vận chuyển thư, người làm vườn, cảnh sát."
+            "text": "Học từ vựng về nghề nghiệp: người xây dựng, tài xế xe buýt, bác sĩ, lính cứu hỏa."
           },
           {
             "text": "Phát triển kỹ năng nghe và nói."
@@ -302,13 +316,13 @@
             "text": "Phát triển các kỹ năng phát triển khác:",
             "list": [
               {
-                "text": "<strong>Phát triển nhận thức – </strong> Khám phá xã hội – Học sinh có thể phân loại nhân vật."
+                "text": "<strong>Phát triển nhận thức: </strong> Khám phá xã hội – Học sinh có thể phân loại nghề nghiệp."
               },
               {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát, nắm tay, vẫy tay, giơ tay chào, giơ 2 tay."
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát, giơ tay trái lên, quay vòng tròn, vỗ tay, chớp mắt."
               },
               {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác, làm người đưa thư từ ống giấy."
+                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác."
               }
             ]
           }
@@ -318,10 +332,10 @@
         "title": "Dụng cụ - Học liệu",
         "list": [
           {
-            "text": "KidsLoop CMS: 5-6_U4_LP22_Community helps 2"
+            "text": "KidsLoop CMS: 5-6_U4_LP24_Community helps 4."
           },
           {
-            "text": "Bản mẫu, bút màu sáp, kéo, hồ dán, lõi giấy."
+            "text": "Bản mẫu, bút màu sáp, giấy màu (đỏ, xanh dương, vàng, cam), hồ dán."
           }
         ]
       },
@@ -346,12 +360,12 @@
                         "text": "<i>Các con ăn sáng chưa &#x02192; Con ăn rồi."
                       },
                       {
-                        "text": "<i>Các con ăn gì bữa sáng? &#x02192; Con ăn bánh mì, bún, …"
+                        "text": "<i>Các con có muốn trở thành cảnh sát / người làm vườn / người đưa thư không? &#x02192; Có, con muốn."
                       }
                     ]
                   },
                   {
-                    "text": "Giáo viên gợi ý để học sinh trả lời câu hỏi."
+                    "text": "Giáo viên khuyến khích học sinh trả lời câu hỏi."
                   }
                 ]
               }
@@ -372,19 +386,19 @@
                     "text": "Phát bài hát: <strong>“Agent M”</strong>."
                   },
                   {
-                    "text": "Mở bài hát và ôn tập các động tác bên dưới.",
+                    "text": "Mở bài hát và ôn tập các động tác:",
                     "list": [
                       {
-                        "text": "<b>Job</b>: nắm tay"
+                        "text": "<b>Builder</b>: giơ tay trái lên"
                       },
                       {
-                        "text": "<b>Mail carrier</b>: vẫy tay"
+                        "text": "<b>Firefighter</b>: quay vòng tròn."
                       },
                       {
-                        "text": "<b>Police officer </b>: giơ tay chào"
+                        "text": "<b>Doctor</b>: vỗ tay"
                       },
                       {
-                        "text": "<b>Gardener</b>: giơ 2 tay"
+                        "text": "<b>Bus driver</b>: chớp mắt"
                       }
                     ]
                   },
@@ -404,24 +418,30 @@
               {
                 "list": [
                   {
-                    "text": "Ôn tập từ vựng của bài học (nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn)."
+                    "text": "Ôn tập từ vựng quan trọng của bài học (<b>lính cứu hỏa, bác sĩ, tài xế xe buýt</b>)."
                   },
                   {
-                    "text": "Khơi gợi kiến thức đã học bằng cách đặt câu hỏi về câu chuyện “Agent M”.",
+                    "text": "Lướt qua câu truyện và chỉ nhìn vào các bức tranh. Đặt câu hỏi như:",
                     "list": [
                       {
-                        "text": "<i>Ai giúp Abby bưng bê cái hộp lớn?</i>"
+                        "text": "<i>Những nhân vật này là ai trong trang này?</i>"
                       },
                       {
-                        "text": "<i>Bada và đội đặc vụ M tìm ai?</i>"
+                        "text": "<i>Cái gì ở trong xe cảnh sát của Bada?</i>"
+                      },
+                      {
+                        "text": "<i>Curly leo lên cái gì?</i>"
                       }
                     ]
                   },
                   {
-                    "text": "Giáo viên mở truyện từ trang 1 đến trang 6 của truyện “Agent M” và dừng lại ở các từ vựng, nói học sinh lặp lại từ vựng."
+                    "text": "Giáo viên mở sách, dừng ở từng trang từ trang 8 đến 12, giáo viên đọc và ôn tập từ vựng (<b>lính cứu hỏa, bác sĩ, tài xế xe buýt</b>)"
                   },
                   {
-                    "text": "Giáo viên sửa phát âm của học sinh."
+                    "text": "Nói học sinh lặp lại từ vựng đồng thanh và cá nhân vài lần và sửa phát âm của học sinh."
+                  },
+                  {
+                    "text": "Giáo viên đọc từ vựng và nói học sinh mô tả nó bằng ngôn ngữ hình thể."
                   }
                 ]
               }
@@ -437,10 +457,10 @@
                 "title": "Luyện tập từ vựng"
               },
               {
-                "text": "<strong>Từ vựng – Giúp đỡ cộng đồng 1</strong>",
+                "text": "<strong>Từ vựng – Giúp đỡ cộng đồng 2</strong>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng, bấm vào hình ảnh để lắng nghe và lặp lại từ vựng."
+                    "text": "Mời học sinh lên bảng, bấm vào hình ảnh để lắng nghe và lặp lai từ vựng."
                   },
                   {
                     "text": "Giáo viên sửa phát âm của học sinh."
@@ -448,10 +468,10 @@
                 ]
               },
               {
-                "text": "<strong>Hình trượt – Người làm vườn, nghề nghiệp, người đưa thư, cảnh sát </strong>",
+                "text": "<strong>Hình trượt – người xây dựng, tài xế xe buýt, bác sĩ, lính cứu hỏa</strong>",
                 "list": [
                   {
-                    "text": "Giáo viên mở các thẻ hình và nói học sinh lặp lại từ vựng."
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
                   },
                   {
                     "text": "Giáo viên sửa phát âm của học sinh."
@@ -462,18 +482,18 @@
                 "title": "Trò chơi tương tác"
               },
               {
-                "text": "<strong>Ghép – Nghề nghiệp</strong>",
+                "text": "<strong>Chọn đáp án đúng – Nghề nghiệp</strong>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và chọn từ đúng để ghép với bức tranh."
+                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và lắng nghe từ và chọn đáp án đúng."
                   }
                 ]
               },
               {
-                "text": "<strong>Nối hình</strong>",
+                "text": "<strong>Ghép – Nghề nghiệp 2</strong>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng, vẽ đường thẳng để nối hình với từ và sau đó nối với nhân vật."
+                    "text": "Mời học sinh lên bảng để vẽ các đường thẳng để nối nghề nghiệp với từ và nhân vật."
                   }
                 ]
               }
@@ -486,30 +506,27 @@
             },
             "right_content": [
               {
-                "text": "Hoạt động Khoa học – Nghệ thuật: <strong>Làm người vận chuyển thư từ ống giấy</strong>"
+                "text": "<strong>Hoạt động Khoa học - Nghệ thuật: “Dập lửa”</strong>"
               },
               {
                 "list": [
                   {
-                    "text": "Hoạt động theo cá nhân"
+                    "text": "Làm việc cá nhân."
                   },
                   {
-                    "text": "Giáo viên chuẩn bị 1 lõi giấy, hồ dán, kéo, bút sáp màu cho mỗi học sinh."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh làm người vận chuyển thư từ ống giấy."
+                    "text": "Giáo viên chuẩn bị giấy màu (đỏ, vàng, cam, xanh dương), hồ dán, bản mẫu"
                   },
                   {
                     "text": "Cách làm:",
                     "list": [
                       {
-                        "text": "Dùng bút màu sáp và tô các hình bức tranh trong bản mẫu và cắt các bức tranh đó ra.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-1.png\">"
+                        "text": "Dùng bút màu sáp và tô màu người lính cứu hỏa trong bản mẫu.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-1.png\">"
                       },
                       {
-                        "text": "Dùng hồ dán và dán cơ thể vào ống giấy.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-2-e1619757013117.png\"width=\"100\" height=\"150\">"
+                        "text": "Xé giấy màu xanh dương thành các mảnh nhỏ và dán vào ống nước để làm dòng nước.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-2.png\">"
                       },
                       {
-                        "text": "Gấp tay theo đường kẻ và dán vào ống giấy để làm tay sau đó dán mũ và túi vào người vận chuyển thư.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-3-1.png\">"
+                        "text": "Xé giấy màu vàng, đỏ và cam thành mảnh nhỏ và dán vào bản mẫu để làm lửa.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/fire-3.png\">"
                       }
                     ]
                   }
@@ -529,13 +546,27 @@
                     "text": "Phát lại bài hát “<b>Agent M</b>”."
                   },
                   {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
                   },
                   {
-                    "text": "Tạm biệt các học sinh."
+                    "text": "Tạm biệt học sinh."
                   },
                   {
-                    "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                    "text": "Yêu cầu học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Nguồn"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "https://www.shutterstock.com/image-vector/illustration-fireman-fire-hose-black-white-1580"
                   }
                 ]
               }
@@ -548,7 +579,7 @@
       "type": "others",
       "list": [
         {
-          "img": "https://kidsloop.vn/wp-content/uploads/2021/04/paper-puppet-4.gif"
+          "img": "https://kidsloop.vn/wp-content/uploads/2021/05/fire-4.jpg"
         }
       ]
     }

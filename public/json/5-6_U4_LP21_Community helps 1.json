@@ -220,10 +220,13 @@
                 ]
               },
               {
-                "text": "<strong>Image Slider - gardener, job, mail carrier, police officer </strong>",
+                "text": "<strong>Card Slider - gardener, job, mail carrier, police officer </strong>",
                 "list": [
                   {
-                    "text": "Teacher plays the cards and asks students to repeat the keywords. Teacher corrects students’ pronunciation."
+                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords. "
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation. "
                   }
                 ]
               },
@@ -510,10 +513,10 @@
                 "text": "<strong>Hình trượt – Người làm vườn, nghề nghiệp, người đưa thư, cảnh sát</strong>",
                 "list": [
                   {
-                    "text": "Giáo viên mở các thẻ hình và nói học sinh lặp lại từ vựng."
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
                   },
                   {
-                    "text": "Giáo viên sửa phát âm của học sinh."
+                    "text": "Giáo viên sửa phát âm của học sinh. "
                   }
                 ]
               },

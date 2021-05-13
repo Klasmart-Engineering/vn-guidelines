@@ -1,0 +1,517 @@
+{
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "lesson_name": "LESSON 4: MY CLASS WITH COLOR 2",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 years old"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 minutes"
+        }
+      ],
+      "learning": {
+        "title": "Learning objectives",
+        "subtitle": "Students will be able to:",
+        "list": [
+          {
+            "text": "Learn and identify some colors: red, blue, yellow, green, purple, orange, pink, brown."
+          },
+          {
+            "text": "Develop speaking and listening skills."
+          },
+          {
+            "text": "Develop the other skills:",
+            "list": [
+              {
+                "text": "<strong>Cognitive development:</strong> : identify colors: red, blue, yellow, green, purple, orange, pink, brown."
+              },
+              {
+                "text": "<strong>Gross motor skill:</strong> movement following the song, wiggle and jump with characters."
+              },
+              {
+                "text": "<strong>Aesthetic development:</strong> develop creative through art activities, play-dough."
+              },
+              {
+                "text": "<strong>Fine motor skills:</strong> interactive games."
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Materials",
+        "list": [
+          {
+            "text": "4-5_U1_LP4_My class with colors 2"
+          },
+          {
+            "text": "Play dough, play-mat."
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Lesson Flow",
+        "list": [
+          {
+            "left_content": {
+              "title": "Opening",
+              "text": "<i>3 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Greet students <i>“Hello”</i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
+                  },
+                  {
+                    "text": "Reply with the sentence <i>“Nice to meet you ___”</i> and ask students to repeat this sentence."
+                  },
+                  {
+                    "text": "Review names of Badanamu characters if necessary"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Sing",
+              "text": "“Let’s talk about colors”<br/><i>5 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Start the lesson by listening to the song."
+                  },
+                  {
+                    "text": "Play the song <b>“Let’s talk about color”</b>, pause at the colors <b>(red, green, blue, purple, orange, yellow, brown, pink)</b> and ask students to jump when they hear the color and wiggle with the characters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Read",
+              "text": "“My colours” storybook”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Review the keywords <strong>(red, green, blue, purple, orange, yellow, brown, pink).</strong>"
+                  },
+                  {
+                    "text": "Plays the book <b>“My color”</b>, point to the colors,  items and ask students some questions:",
+                    "list": [
+                      {
+                        "text": "<i>What color is it? &#x02192;It is red / blue / etc.</i>"
+                      },
+                      {
+                        "text": "<i>What is it? &#x02192; It is a rocket / hat / etc.</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Ask students to repeat the words."
+                  },
+                  {
+                    "text": "Ask students to say whole sentences.",
+                    "list": [
+                      {
+                        "text": "<i>It is red Mimi.</i>"
+                      },
+                      {
+                        "text": "<i>It is a blue wheel.</i>"
+                      },
+                      {
+                        "text": "<i>It is a yellow duck.</i>"
+                      },
+                      {
+                        "text": "<i>It is a purple flower.</i>"
+                      },
+                      {
+                        "text": "<i>They are pink shoes.</i>"
+                      },
+                      {
+                        "text": "<i>etc.</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Teacher points to some objects in classroom and asks students to say the colors."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Play",
+              "text": "<i>5 mins</i>"
+            },
+            "right_content": [
+              {
+                "title": "Reinforce vocabulary"
+              },
+              {
+                "text": "<strong>Keyword - Colors (8)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, click on the pictures to listen and repeat the vocabulary. "
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "title": "Interactive games"
+              },
+              {
+                "text": "<strong>Colors Flashcards</strong>",
+                "list": [
+                  {
+                    "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
+                  },
+                  {
+                    "text": "Record their voice and check the answers."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Qiz-D&D Color stickers</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, drag the circles into the correct color stickers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Do (steam activities)",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "text": "STEAM Activity: <strong>“Play-dough”</strong>"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Work in individually."
+                  }
+                ]
+              },
+              {
+                "text": "<u>How to do:</u>"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Teacher prepares play-dough and play-mats for students."
+                  },
+                  {
+                    "text": "Instruct students to use clay and make items from the keywords in the storybook (e.g. red strawberry, red rocket, blue wheel, yellow star, etc.). "
+                  },
+                  {
+                    "text": "Encourage students to think of other objects to make.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/Color.jpg\" width=\"150\" height=\"200\">"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Closing",
+              "text": "<i>2 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Play the song <strong>“Let’s talk about colors”</strong> again."
+                  },
+                  {
+                    "text": "Tell students to tidy up the classroom."
+                  },
+                  {
+                    "text": "Say goodbye to students."
+                  },
+                  {
+                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lang": "vi",
+      "unit": "Chương 1: Trường mầm non của bé",
+      "lesson_name": "BÀI 4: LỚP HỌC VỚI MÀU SẮC 2",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 tuổi"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 phút"
+        }
+      ],
+      "learning": {
+        "title": "Mục tiêu bài học",
+        "subtitle": "Học sinh sẽ được:",
+        "list": [
+          {
+            "text": "Học nhận biết các màu sắc: đỏ, xanh dương, vàng, xanh lá, tím, cam, hồng, nâu."
+          },
+          {
+            "text": "Phát triển kỹ năng nghe và nói"
+          },
+          {
+            "text": "Phát triển các kỹ năng khác:",
+            "list": [
+              {
+                "text": "<strong>Phát triển nhận thức:</strong> nhận biết các màu: đỏ, xanh dương, vàng, xanh lá, cam, tím, hồng, nâu"
+              },
+              {
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc, lắc lư và nhảy cùng các nhân vật."
+              },
+              {
+                "text": "<strong>Giáo dục phát triển thẫm mĩ:</strong> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, đất sét."
+              },
+              {
+                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Dụng cụ - Học liệu",
+        "list": [
+          {
+            "text": "KidsLoop CMS: 4-5_U1_LP4_My class with colors 2"
+          },
+          {
+            "text": "Đất sét, thảm."
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Tiến trình bài học",
+        "list": [
+          {
+            "left_content": {
+              "title": "Mở đầu",
+              "text": "<i>3 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
+                  },
+                  {
+                    "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và nói học sinh lặp lại câu đó."
+                  },
+                  {
+                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hát",
+              "text": "“Let’s talk about colors”<br/><i>5 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Bắt đầu bài học là ôn tập bài hát."
+                  },
+                  {
+                    "text": "Mở bài hát <b>“Let’s talk about colors”</b>, dừng ở các từ <b>(màu đỏ, màu xanh lá cây, màu xanh dương, màu cam, màu vàng, màu nâu, màu hồng)</b> và yêu cầu học sinh nhảy lên khi các con nghe thấy màu sắc và lắc lư cùng với các nhân vật."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Đọc sách",
+              "text": "“My color”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Ôn tập từ vựng <strong>(màu đỏ, màu xanh lá cây, màu xanh dương, màu tím, màu cam, màu vàng, màu nâu, màu hồng)</strong>."
+                  },
+                  {
+                    "text": "Mở sách <b>“My color”</b>, chỉ vào màu sắc, đồ vật và đặt câu hỏi cho học sinh:",
+                    "list": [
+                      {
+                        "text": "<i>Đây là màu gì? &#x02192; Đó là màu đỏ / màu xanh dương / …</i>"
+                      },
+                      {
+                        "text": "<i>Đây là cái gì? &#x02192; Đó là tên lửa / cái mũ / …</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Yêu cầu học sinh lặp lại từ."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh lặp lại câu.",
+                    "list": [
+                      {
+                        "text": "<i>Mimi màu đỏ</i>"
+                      },
+                      {
+                        "text": "<i>Bánh xe mau xanh dương.</i>"
+                      },
+                      {
+                        "text": "<i>Con vịt màu vàng. </i>"
+                      },
+                      {
+                        "text": "<i>Bông hoa màu tím.</i>"
+                      },
+                      {
+                        "text": "<i>Đôi giày màu hồng.</i>"
+                      },
+                      {
+                        "text": "<i>...</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Giáo viên chỉ vào các đồ vật ở trong lớp và yêu cầu học sinh nói màu sắc của nó."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Vui chơi",
+              "text": "<i>5 phút</i>"
+            },
+            "right_content": [
+              {
+                "title": "Luyện tập từ vựng"
+              },
+              {
+                "text": "<strong>Từ vựng – Màu sắc (8)</strong>"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, bấm vào bức tranh để lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "title": "Trò chơi tương tác"
+              },
+              {
+                "text": "<strong>Thẻ hình màu sắc</strong",
+                "list": [
+                  {
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
+                  },
+                  {
+                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Câu đố - D & D hình dán màu sắc</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, kéo các hình tròn vào đúng màu của hình dán."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hoạt động khoa học nghệ thuật",
+              "text": "<i>20 phút</i>"
+            },
+            "right_content": [
+              {
+                "text": "Hoạt động Khoa học – Nghệ thuật: <strong>“Đất nặn”</strong>"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Học sinh hoạt động cá nhân."
+                  },
+                  {
+                    "text": "<u>Cách làm.</u>",
+                    "list": [
+                      {
+                        "text": "Giáo viên chuẩn bị đất nặn và thảm cho học sinh."
+                      },
+                      {
+                        "text": "Hướng dẫn học sinh sử dụng đất sét và làm đồ vật từ các từ vựng trong sách (vd: dâu tây màu đỏ, tên lửa màu đỏ, bánh xe màu xanh dương, ngôi sao màu vàng)."
+                      },
+                      {
+                        "text": "Khuyến khích học sinh nghĩ về các đồ vật khác để làm.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/Color.jpg\" width=\"150\" height=\"200\"> "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Kết thúc",
+              "text": "<i>2 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Phát lại bài hát <strong>“Let’s talk about color”</strong>."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                  },
+                  {
+                    "text": "Tạm biệt học sinh."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

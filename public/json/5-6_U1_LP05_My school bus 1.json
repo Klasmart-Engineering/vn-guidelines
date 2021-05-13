@@ -204,10 +204,13 @@
                 ]
               },
               {
-                "text": "<strong>Image slider - My school bus</strong>",
+                "text": "<strong>Image slider - School Bus</strong>",
                 "list": [
                   {
-                    "text": "Teacher plays the pictures and asks students to say the keywords. Teacher corrects their pronunciation."
+                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords."
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
                   }
                 ]
               },
@@ -481,10 +484,13 @@
                 ]
               },
               {
-                "text": "<strong>Hình trượt – Xe buýt trường em</strong>",
+                "text": "<strong>Hình trượt – Xe buýt</strong>",
                 "list": [
                   {
-                    "text": "Giáo viên mở các bức tranh và nói học sinh đọc từ vựng. Giáo viên sửa phát âm của học sinh."
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
                   }
                 ]
               },

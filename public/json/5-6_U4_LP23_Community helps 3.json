@@ -20,7 +20,7 @@
         "subtitle": "Students will be able to:",
         "list": [
           {
-            "text": "Learn vocabulary of professions: <b>builder, bus driver, doctor, firefighter.</b>"
+            "text": "Learn vocabulary of professions: builder, bus driver, doctor, firefighter."
           },
           {
             "text": "Develop speaking and listening skills."
@@ -215,10 +215,13 @@
                 ]
               },
               {
-                "text": "<strong>Image Slider - builder, bus driver, doctor, firefighter</strong>",
+                "text": "<strong>Card Slider - builder, bus driver, doctor, firefighter</strong>",
                 "list": [
                   {
-                    "text": "Teacher plays the flashcards and asks students to read the words. Teacher corrects students’ pronunciation."
+                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords.  "
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation. "
                   }
                 ]
               },
@@ -381,7 +384,7 @@
                     "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về nghề nghiệp.”</i>"
                   },
                   {
-                    "text": "Phát bài hát:  <strong>“Agent M” Chant</strong>."
+                    "text": "Phát bài hát:  <strong>“Agent M”</strong>."
                   },
                   {
                     "text": "Mở phần đầu của bài hát từ “sẵn sàng” đến “người làm vườn”, nói học sinh lắng nghe bài hát."
@@ -422,7 +425,7 @@
                     "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>lính cứu hỏa, bác sĩ, tài xế xe buýt</b>)."
                   },
                   {
-                    "text": "Giáo viên mở sách “Agent M” và nói học sinh lắng nghe câu chuyện."
+                    "text": "Giáo viên mở sách <b>“Agent M”</b> và nói học sinh lắng nghe câu chuyện."
                   },
                   {
                     "text": "Giáo viên mở sách lại lần nữa, dừng ở từng trang từ trang 8 đến 12, giáo viên đọc và dạy từ vựng của bài học (<b>lính cứu hỏa, bác sĩ, tài xế xe buýt</b>)."
@@ -503,7 +506,7 @@
                 "text": "<strong>Hình trượt – người xây dựng, tài xế xe buýt, bác sĩ, lính cứu hỏa</strong>",
                 "list": [
                   {
-                    "text": "Giáo viên mở các thẻ hình và yêu cầu học sinh đọc từ vựng. "
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng. "
                   },
                   {
                     "text": "Giáo viên sửa phát âm của học sinh."
@@ -562,7 +565,7 @@
                     "text": "Yêu cầu học sinh dọn dẹp lớp học."
                   },
                   {
-                    "text": "Tạm biệt các học sinh."
+                    "text": "Tạm biệt học sinh."
                   },
                   {
                     "text": "Yêu cầu học sinh nói tạm biệt với các bạn trong lớp và giáo viên."

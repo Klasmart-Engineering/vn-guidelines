@@ -1,0 +1,552 @@
+{
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "lesson_name": "LESSON 1: WELCOME TO BADANAMU SCHOOL 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 years old"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 minutes"
+        }
+      ],
+      "learning": {
+        "title": "Learning objectives",
+        "subtitle": "Students will be able to:",
+        "list": [
+          {
+            "text": "Learn some name of Badanamu characters and remember them"
+          },
+          {
+            "text": "Learn the basic color of Badanamu characters"
+          },
+          {
+            "text": "Develop speaking and listening skills"
+          },
+          {
+            "text": "Develop the other skills:",
+            "list": [
+              {
+                "text": "<strong>Cognitive development:</strong> inquiry into Society – Identify and name Badanamu characters "
+              },
+              {
+                "text": "<strong>Gross motor skill:</strong> move along the song"
+              },
+              {
+                "text": "<strong>Fine motor skills:</strong> play interactive games"
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Materials",
+        "list": [
+          {
+            "text": "Kidsloop CMS: 4-5_U1_LP1_Welcome to Badanamu school 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Lesson Flow",
+        "list": [
+          {
+            "left_content": {
+              "title": "Opening",
+              "text": "<i>3 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Greet students <i>“Hello.”</i> Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                  },
+                  {
+                    "text": "Teacher introduces himself /herself (name, etc.)"
+                  },
+                  {
+                    "text": "Reply with the sentence <i>“Nice to meet you ___”</i> and ask students to repeat this sentence."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Sing",
+              "text": "“Badanamu Time”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Start the lesson by listening to the song."
+                  },
+                  {
+                    "text": "Teacher says: <i>“We will listen to a song and see who our new friends are”</i>."
+                  },
+                  {
+                    "text": "Play the song: <strong>“Badanamu Time”</strong>"
+                  },
+                  {
+                    "text": "Let students listen to the song and explore the Badanamu characters. Introduce Badanamu characters’ names to students: Bada, Pogo, Curly, Jess, Mimi and Abby. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/Welcome.png\">"
+                  },
+                  {
+                    "text": "Play the song “Badanamu Time” and encourage students to copy the characters’ movement."
+                  },
+                  {
+                    "text": "Teacher can pause the music to get students’ attention to the characters in the song by asking questions:",
+                    "list": [
+                      {
+                        "text": "<i>Can you see Bada?</i> &#x02192; Yes, I can."
+                      },
+                      {
+                        "text": "<i>What color is he? (&#x02192; He is white)</i>"
+                      },
+                      {
+                        "text": "<i>What color is Mimi? (&#x02192; Mimi is red)</i>"
+                      },
+                      {
+                        "text": "<i>Who is Jess? Is that a girl or a boy? (&#x02192; Jess is a girl)</i>"
+                      },
+                      {
+                        "text": "<i>Who is in blue? (&#x02192; It is Curly)</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Focus on the day's topic and have students repeat the names of the characters only."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Read",
+              "text": "“Bada’s Birthday Surprise”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Introduce the topic of the lesson."
+                  },
+                  {
+                    "text": "Play the book <b>“Bada’s Birthday Surprise”</b> and ask students to listen to the story."
+                  },
+                  {
+                    "text": "Teacher plays the story again, reads each page of the story and asks the comprehension questions.",
+                    "list": [
+                      {
+                        "text": "<i>Who is this?</i>"
+                      },
+                      {
+                        "text": "<i>Where are Jess and her friends?</i>"
+                      },
+                      {
+                        "text": "<i>Where is Bada?</i>"
+                      },
+                      {
+                        "text": "<i>What is Curly/Pogo/Mimi doing?</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Play a game to review the keywords",
+                    "list": [
+                      {
+                        "text": "Teacher flips through the book and stops at a random page."
+                      },
+                      {
+                        "text": "Point to an image. Have students copy the character."
+                      },
+                      {
+                        "text": "Encourage students to say the names of the characters."
+                      },
+                      {
+                        "text": "Ask students to repeat keywords."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Play",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "title": "Reinforce vocabulary"
+              },
+              {
+                "text": "<strong>Course Presentation - Bada Characters</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, click on the pictures to listen and repeat the name of characters."
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Badanamu Friends Flashcards</strong>",
+                "list": [
+                  {
+                    "text": "Teacher plays the flashcards, invites students to look at the pictures and say the name of the characters."
+                  },
+                  {
+                    "text": "Record their voice and check the answers."
+                  }
+                ]
+              },
+              {
+                "title": "Interactive games"
+              },
+              {
+                "text": "<strong>Memory game</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and turn over 2 cards to find the pairs of the pictures."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Who is Bada?</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and find the Bada."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Character match - Badanamu time</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and match each friend to their sleeping image."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Quiz - D&D - Jess, Pogo, Curly</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and arrange the letters in the correct order."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Closing",
+              "text": "<i>2 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Play the song <strong>“Badanamu Time”</strong> again"
+                  },
+                  {
+                    "text": "Tell students to tidy up the classroom"
+                  },
+                  {
+                    "text": "Say goodbye to students"
+                  },
+                  {
+                    "text": "Ask students to say goodbye to their peers and to the teacher"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lang": "vi",
+      "unit": "Chương 1: Trường mầm non của bé",
+      "lesson_name": "BÀI 1: CHÀO MỪNG BÉ ĐẾN TRƯỜNG BADANAMU 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 tuổi"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 phút"
+        }
+      ],
+      "learning": {
+        "title": "Mục tiêu bài học",
+        "subtitle": "Học sinh sẽ được:",
+        "list": [
+          {
+            "text": "Học tên của các nhân vật Badanamu và nhớ chúng."
+          },
+          {
+            "text": "Học các màu cơ bản của các nhân vật."
+          },
+          {
+            "text": "Phát triển kỹ năng nghe và nói"
+          },
+          {
+            "text": "Phát triển các kỹ năng khác:",
+            "list": [
+              {
+                "text": "<strong>Phát triển nhận thức: </strong>nhu cầu xã hội  – Xác định và đọc tên các nhân vật Badanamu"
+              },
+              {
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc, chơi các trò chơi"
+              },
+              {
+                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Dụng cụ - Học liệu",
+        "list": [
+          {
+            "text": "KidsLoop CMS: 4-5_U1_LP1: Welcome to Badanamu School 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Tiến trình bài học",
+        "list": [
+          {
+            "left_content": {
+              "title": "Mở đầu",
+              "text": "<i>3 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại giáo viên cũng như lặp lại lời chào."
+                  },
+                  {
+                    "text": "Giáo viên giới thiệu bản thân <i>“tên, ...”</i>"
+                  },
+                  {
+                    "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và nói học sinh lặp lại câu đó."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hát",
+              "text": "“Badanamu Time”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Bắt đầu bài học bằng một bài hát."
+                  },
+                  {
+                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát và xem ai là bạn mới của chúng ta nhé.”</i>"
+                  },
+                  {
+                    "text": "Phát bài hát: <strong>“Badanamu Time”</strong>."
+                  },
+                  {
+                    "text": "Cho các học sinh nghe bài hát và khám phá các nhân vật Badanamu."
+                  },
+                  {
+                    "text": "Giới thiệu các nhân vật Badanamu, tên của chúng cho học sinh: Bada, Pogo, Curly, Jess, Mimi and Abby. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/Welcome.png\">"
+                  },
+                  {
+                    "text": "Phát bài hát “Badanamu time” và khuyến khích các học sinh làm theo chuyển động của nhân vật."
+                  },
+                  {
+                    "text": "Giáo viên có thể tạm dừng bài hát để khiến các học sinh chú ý đến các nhân vật trong bài hát bằng cách đặt câu hỏi:",
+                    "list": [
+                      {
+                        "text": "<i>Các con có thể thấy Bada không? &#x02192; Có, con thấy.</i>"
+                      },
+                      {
+                        "text": "<i>Bạn ấy màu gì? (&#x02192; Cậu ấy màu trắng)</i>"
+                      },
+                      {
+                        "text": "<i>Mimi có màu gì? (&#x02192; Mimi màu đỏ)</i>"
+                      },
+                      {
+                        "text": "<i>Jess là ai? Bạn ấy là con gái hay con trai? (&#x02192; Jess là con gái)</i>"
+                      },
+                      {
+                        "text": "<i>Bạn nào có màu xanh dương? (&#x02192; Curly màu xanh dương)</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Tập trung vào chủ đề của bài học và để học sinh lặp lại tên của các nhân vật. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Đọc sách",
+              "text": "“Bada’s Birthday Surprise”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Giới thiệu chủ đề của bài học."
+                  },
+                  {
+                    "text": "Mở sách <b>“Bada’s Birthday Surprise” </b>và yêu cầu học sinh lắng nghe truyện."
+                  },
+                  {
+                    "text": "Giáo viên mở truyện lại lần nữa, đọc từng trang của truyện và đặt câu hỏi:",
+                    "list": [
+                      {
+                        "text": "<i>Đây là bạn nào?</i>"
+                      },
+                      {
+                        "text": "<i>Jess và bạn bè của bạn ấy ở đâu?</i>"
+                      },
+                      {
+                        "text": "<i>Bada đâu rồi?</i>"
+                      },
+                      {
+                        "text": "<i>Curly / Pogo / Mimi đang làm gì?</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Chơi một trò chơi để ôn tập từ vựng quan trọng.",
+                    "list": [
+                      {
+                        "text": "Giáo viên lật sách và dừng lại ở một trang ngẫu nhiên."
+                      },
+                      {
+                        "text": "Chỉ vào một hình ảnh. Cho học sinh bắt chước nhân vật."
+                      },
+                      {
+                        "text": "Khuyến khích học sinh nói tên của các nhân vật."
+                      },
+                      {
+                        "text": "Yêu cầu học sinh lặp lại từ vựng."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Vui chơi",
+              "text": "<i>20 phút</i>"
+            },
+            "right_content": [
+              {
+                "title": "Củng cố từ vựng"
+              },
+              {
+                "text": "<strong>Thẻ thoại – Nhân vật Bada.</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh để lắng nghe và lặp lại tên các nhân vật."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Thẻ hình – Các bạn Badanamu</strong>",
+                "list": [
+                  {
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
+                  },
+                  {
+                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
+                  }
+                ]
+              },
+              {
+                "title": "Trò chơi tương tác"
+              },
+              {
+                "text": "<strong>Trò chơi trí nhớ – Các bạn Badanamu</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh giống nhau."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Ai là Bada?</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và tìm Bada."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Ghép nhân vật </strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và ghép mỗi người bạn với hình đang ngủ của họ."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Câu đố - D&D – Jess, Pogo, Curly </strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và sắp xếp chữ cái theo đúng thứ tự."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Kết thúc",
+              "text": "<i>2 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Phát lại bài hát <b>“Badanamu Time”</b>."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                  },
+                  {
+                    "text": "Tạm biệt học sinh."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

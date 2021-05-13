@@ -1,0 +1,571 @@
+{
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "lesson_name": "LESSON 3: MY CLASS WITH COLOR 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 years old"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 minutes"
+        }
+      ],
+      "learning": {
+        "title": "Learning objectives",
+        "subtitle": "Students will be able to:",
+        "list": [
+          {
+            "text": "learn and identify some colors: red, blue, yellow, green, purple, orange, pink, brown"
+          },
+          {
+            "text": "Develop speaking and listening skills"
+          },
+          {
+            "text": "Develop the other skills:",
+            "list": [
+              {
+                "text": "<strong>Cognitive Development:</strong> identify colors: red, blue, yellow, green, purple, orange, pink, brown."
+              },
+              {
+                "text": "<strong>Gross motor skill:</strong> movement following the song, wiggle and jump with characters."
+              },
+              {
+                "text": "<strong>Fine motor skills:</strong> interactive games."
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Materials",
+        "list": [
+          {
+            "text": "Kidsloop CMS: 4-5_U1_LP3_My class with colors 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Lesson Flow",
+        "list": [
+          {
+            "left_content": {
+              "title": "Opening",
+              "text": "<i>3 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Greet students <i>“Hello” </i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
+                  },
+                  {
+                    "text": "Reply with the sentence <i>“Nice to meet you ___”</i> and ask students to repeat this sentence."
+                  },
+                  {
+                    "text": "Review names of Badanamu characters if necessary."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Sing",
+              "text": "“Let’s talk about colors”<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Start the lesson by listening to the song."
+                  },
+                  {
+                    "text": "Teacher says: <i>“We will sing a song about colors today”</i>"
+                  },
+                  {
+                    "text": "Play the song <strong>“Let’s talk about color”</strong>, pause at the colors <b>(red, green, blue, purple, orange, yellow, brown, pink)</b> and ask students to jump when they hear the colors and wiggle with the characters."
+                  },
+                  {
+                    "text": "Play a song again and ask student to make the actions along the song."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Read",
+              "text": "“My colors” storybook<br/><i>10 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Introduce the topic of the story and the keywords <strong>(red, green, blue, purple, orange, yellow, brown, pink).</strong>"
+                  },
+                  {
+                    "text": "Open each page of the story book, ask students to listen to the storybook."
+                  },
+                  {
+                    "text": "Teacher points to colors, images and asks students:",
+                    "list": [
+                      {
+                        "text": "<i>What color is it? &#x02192; It is (red / blue/ ...)</i>"
+                      },
+                      {
+                        "text": "<i>What is it? &#x02192; It is (a rocket / hat / ...)</i>"
+                      },
+                      {
+                        "text": "<i>What color is (Mini / apple/...)? &#x02192; (Mimi is red / ...)</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Teacher instructs students to say whole sentences.",
+                    "list": [
+                      {
+                        "text": "<i>It is red Mimi.</i>"
+                      },
+                      {
+                        "text": "<i>It is a blue wheel.</i>"
+                      },
+                      {
+                        "text": "<i>It is a yellow duck.</i>"
+                      },
+                      {
+                        "text": "<i>It is a purple flower.</i>"
+                      },
+                      {
+                        "text": "<i>It is an orange cat.</i>"
+                      },
+                      {
+                        "text": "<i>It is a green tree.</i>"
+                      },
+                      {
+                        "text": "<i>It is a brown desk.</i>"
+                      },
+                      {
+                        "text": "<i>They are pink shoes.</i>"
+                      },
+                      {
+                        "text": "<i>etc.</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Ask students to repeat the sentences several times."
+                  },
+                  {
+                    "text": "Play a game to review the keywords.",
+                    "list": [
+                      {
+                        "text": "Teacher flips through the book (page 1-8)"
+                      },
+                      {
+                        "text": "Teacher calls out the color of an image and invites students to point to the correct image (a red rocket, a blue wheel, etc.)"
+                      },
+                      {
+                        "text": "Have students say color of an image"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Play",
+              "text": "<i>20 mins</i>"
+            },
+            "right_content": [
+              {
+                "title": "Reinforce vocabulary"
+              },
+              {
+                "text": "<strong>Keyword - Colors (8)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, click on the pictures to listen and say repeat the vocabulary. "
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation"
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Image Slider - Color (8)</strong>",
+                "list": [
+                  {
+                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords.  "
+                  },
+                  {
+                    "text": "Teacher corrects their pronunciation."
+                  }
+                ]
+              },
+              {
+                "title": "Interactive games"
+              },
+              {
+                "text": "<strong>Memory game - colors (4-1)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and turn over 2 cards to find the pair of the pictures."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Memory game - colors (4-2)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and turn over 2 cards to find the pair of the pictures."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Learn – RED</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board and color the words “red”."
+                  },
+                  {
+                    "text": "Play the audio button to listen the sound."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Trace & color - colors (4)</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, trace the colors to the images and color the images."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Maze – Pink</strong>",
+                "list": [
+                  {
+                    "text": "Invite students to come to the board, folow the pink objects to help the Ecco get to Mipi."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Closing",
+              "text": "<i>2 mins</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Play the song again <strong>“Let’s talk about colors”</strong>"
+                  },
+                  {
+                    "text": "Tell students to tidy up the classroom."
+                  },
+                  {
+                    "text": "Say goodbye to students."
+                  },
+                  {
+                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lang": "vi",
+      "unit": "Chương 1: Trường mầm non của bé",
+      "lesson_name": "BÀI 3: LỚP HỌC VỚI MÀU SẮC 1",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "4-5 tuổi"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "45 phút"
+        }
+      ],
+      "learning": {
+        "title": "Mục tiêu bài học",
+        "subtitle": "Học sinh sẽ được:",
+        "list": [
+          {
+            "text": "Học nhận biết các màu sắc: đỏ, xanh dương, vàng, xanh lá, tím, cam, hồng, nâu."
+          },
+          {
+            "text": "Phát triển kỹ năng nghe và nói"
+          },
+          {
+            "text": "Phát triển các kỹ năng khác:",
+            "list": [
+              {
+                "text": "<strong>Phát triển nhận thức:</strong> nhận biết các màu: đỏ, xanh dương, vàng,xanh lá, cam, tím, hồng, nâu."
+              },
+              {
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc, lắc lư và nhảy cùng các nhân vật."
+              },
+              {
+                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
+              }
+            ]
+          }
+        ]
+      },
+      "materials": {
+        "title": "Dụng cụ - Học liệu",
+        "list": [
+          {
+            "text": "KidsLoop CMS: 4-5_U1_LP3_My class with colors 1"
+          }
+        ]
+      },
+      "lessons": {
+        "title": "Tiến trình bài học",
+        "list": [
+          {
+            "left_content": {
+              "title": "Mở đầu",
+              "text": "<i>3 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
+                  },
+                  {
+                    "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và nói học sinh lặp lại câu đó."
+                  },
+                  {
+                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Hát",
+              "text": "“Let’s talk about color”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Bắt đầu bài học bằng một bài hát."
+                  },
+                  {
+                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về màu sắc các con nhé”</i>."
+                  },
+                  {
+                    "text": "Mở bài hát: <b>“Let’s talk about colors”</b>, dừng ở các từ vựng <strong>(màu đỏ, màu xanh lá cây, màu xanh dương, màu cam, màu vàng, màu nâu, màu hồng)</strong> và yêu cầu học sinh nhảy lên khi các con nghe thấy màu sắc và lắc lư cùng với các nhân vật."
+                  },
+                  {
+                    "text": "Mở bài hát lại lần nữa và yêu cầu học sinh làm các động tác theo bài hát."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Đọc sách",
+              "text": "“My color”<br/><i>10 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Giới thiệu chủ đề và từ vựng của bài học  <strong>(đỏ, xanh lá, xanh dương, tím, cam, vàng, nâu, hồng)</strong>."
+                  },
+                  {
+                    "text": "Mở từng trang của quyển sách, nói học sinh lắng nghe ."
+                  },
+                  {
+                    "text": "Giáo viên chỉ vào màu sắc, hình ảnh và đặt câu hỏi:",
+                    "list": [
+                      {
+                        "text": "<i>Đây là màu gì? &#x02192; Nó là màu ( đỏ / xanh dương /...)</i>"
+                      },
+                      {
+                        "text": "<i>Đây là cái gì? &#x02192; Nó là ( tên lửa / cái mũ /...)</i>"
+                      },
+                      {
+                        "text": "<i>(Mimi / quả táo/ ...) có màu gì ? &#x02192; (Mini màu đỏ / ...)</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Giáo viên hướng dẫn học sinh đọc nguyên câu.",
+                    "list": [
+                      {
+                        "text": "<i>Đó là Mimi màu đỏ.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là bánh xe màu xanh dương..</i>"
+                      },
+                      {
+                        "text": "<i>Đó là con vịt màu vàng.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là bông hoa màu tím.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là con mèo màu cam.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là cái cây màu xanh lá cây.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là cái bàn màu nâu.</i>"
+                      },
+                      {
+                        "text": "<i>Đó là đôi giày màu hồng.</i>"
+                      },
+                      {
+                        "text": "...</i>"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Yêu cầu học sinh lặp lại câu vài lần."
+                  },
+                  {
+                    "text": "Chơi trò chơi để ôn tập từ vựng.",
+                    "list": [
+                      {
+                        "text": "Giáo viên lật sách (trang 1-8)."
+                      },
+                      {
+                        "text": "Giáo viên gọi tên màu sắc của hình ảnh và mời học sinh lên chỉ vào hình ảnh đúng (tên lửa màu đỏ, bánh xe màu xanh dương, ...)."
+                      },
+                      {
+                        "text": "Nói học sinh nói tên màu sắc của đồ vật."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Vui chơi",
+              "text": "<i>20 phút</i>"
+            },
+            "right_content": [
+              {
+                "title": "Củng cố từ vựng"
+              },
+              {
+                "text": "<strong>Từ vựng – Màu sắc (8)</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, bấm vào bức tranh để lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Hình trượt – Màu sắc (8)</strong>",
+                "list": [
+                  {
+                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Giáo viên sửa phát âm của học sinh."
+                  }
+                ]
+              },
+              {
+                "title": "Trò chơi tương tác"
+              },
+              {
+                "text": "<strong>Trò chơi trí nhớ - Màu sắc (4-1)</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Trò chơi trí nhớ - Màu sắc (4-2)</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh"
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Học từ - Màu đỏ</strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng và tô màu từ “màu đỏ”."
+                  },
+                  {
+                    "text": "Mở nút âm thanh để nghe âm thanh. "
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Đồ và tô màu – Màu sắc (4) </strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, đồ các màu đến hình ảnh và tô màu hình ảnh."
+                  }
+                ]
+              },
+              {
+                "text": "<strong>Mê cung – Màu hồng </strong>",
+                "list": [
+                  {
+                    "text": "Mời học sinh lên bảng, theo các đồ vật màu hồng để giúp Ecco tìm thấy Mipi."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "left_content": {
+              "title": "Kết thúc",
+              "text": "<i>2 phút</i>"
+            },
+            "right_content": [
+              {
+                "list": [
+                  {
+                    "text": "Phát lại bài hát <strong>“Let’s talk about color”</strong>."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                  },
+                  {
+                    "text": "Tạm biệt học sinh."
+                  },
+                  {
+                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
