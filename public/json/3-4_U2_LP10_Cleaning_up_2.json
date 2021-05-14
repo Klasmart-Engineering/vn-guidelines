@@ -4,7 +4,7 @@
     {
       "lang": "en",
       "unit": "UUNIT 2: MY FAMILY",
-      "lesson_name": "LESSON 8: SAY GOODNIGHT 2",
+      "lesson_name": "LESSON 10: CLEANING UP 2",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -20,22 +20,22 @@
         "subtitle": "Students will be able to:",
         "list": [
           {
-            "text": "Learn some vocabulary: Teddy Bear, wiggle, nose, toes, light, turn around, I love you."
+            "text": "Learn some vocabulary: broom, sweep, sponge, wipe, mop, clean, mess."
           },
           {
             "text": "Develop speaking and listening skills."
           },
           {
-            "text": "Develop the other development skills:",
+            "text": "Develop other development skills:",
             "list": [
               {
-                "text": "<strong>Emotional Development:</strong> students expresses positive feelings."
+                "text": "<strong>Social - emotional Development:</strong> Student understands cause-and-effect relationships."
               },
               {
-                "text": "<strong>Gross motor skill:</strong> movement following the song: wink, turn around, touch the nose, touch the ground, touch the toes, sit-down, stand up."
+                "text": "<strong>Gross motor skill:</strong> movement following the song, such as sit down, hug yourself, jump up and down, fold the arms, hop on the right foot, put the hands on the hips."
               },
               {
-                "text": "<strong>Aesthetic Development:</strong> draw a night landscape."
+                "text": "<strong>Aesthetic Development:</strong> make a broom."
               },
               {
                 "text": "<strong>Fine motor skills:</strong> play interactive games."
@@ -48,10 +48,10 @@
         "title": "Materials",
         "list": [
           {
-            "text": "Kidsloop CMS: 3-4_U2_LP8_Say goodnight 2."
+            "text": "Kidsloop CMS: 3-4_U2_LP10_Cleaning up 2"
           },
           {
-            "text": "Handout, crayons, glue, star stickers."
+            "text": "Color paper (A5), scissors, glue, drinking straw."
           }
         ]
       },
@@ -71,9 +71,6 @@
                   },
                   {
                     "text": "Ask students <i>“What is your name?” </i> and encourage students to answer the question."
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary."
                   }
                 ]
               }
@@ -82,7 +79,7 @@
           {
             "left_content": {
               "title": "Sing",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>5 mins</i>"
+              "text": "Dance “Every mess I make”<br/><i>5 mins</i>"
             },
             "right_content": [
               {
@@ -91,28 +88,25 @@
                     "text": "Start the lesson by listening to the song"
                   },
                   {
-                    "text": "Play the song of the story “Teddy Bear, teddy Bear, say goodnight”, pause at the words (<b>teddy bear, turn around, wiggle your nose, touch the ground, touch your toes, turn off light, say good light, say good night</b>) and review the actions:",
+                    "text": "Play the song: “Every mess I make”, pause at the keywords (broom, sweep, sponge, wipe, mop, clean, mess) and review the actions below:",
                     "list": [
                       {
-                        "text": "<b>Teddy Bear, Teddy Bear:</b> wink."
+                        "text": "<b>Broom:</b> sit down."
                       },
                       {
-                        "text": "<b>Turn around:</b> turn around."
+                        "text": "<b>Mop:</b> hug yourself."
                       },
                       {
-                        "text": "<b>Wiggle your nose:</b> touch the nose."
+                        "text": "<b>Clean:</b> jump up and down."
                       },
                       {
-                        "text": "<b>Touch the ground:</b> touch the ground."
+                        "text": "<b>Wipe:</b> fold your arms."
                       },
                       {
-                        "text": "<b>Touch your toes:</b> touch the toes."
+                        "text": "<b>Mess:</b> hop on your right foot."
                       },
                       {
-                        "text": "<b>Turn off the light:</b> sit down."
-                      },
-                      {
-                        "text": "<b>Say good night:</b> stand up."
+                        "text": "<b>Sweep:</b> put your hands on your hips."
                       }
                     ]
                   },
@@ -126,41 +120,56 @@
           {
             "left_content": {
               "title": "Read",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight” storybook<br/><i>10 mins</i>"
+              "text": "“Clean up time!” Board book<br/><i>10 mins</i>"
             },
             "right_content": [
               {
                 "list": [
                   {
-                    "text": "Review the keywords of the lesson (<b>Teddy Bear, wiggle, nose, toes, light, turn around, I love you</b>)."
+                    "text": "Review the keywords of the lesson (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>)."
                   },
                   {
-                    "text": "Teacher plays the storybook “Teddy Bear, teddy Bear, say goodnight” and asks students to read the title of the story."
+                    "text": "Play the story and ask students to read the title “Clean up time”."
                   },
                   {
-                    "text": "Point to the pictures and asks students:",
+                    "text": "Teacher plays each page of the storybook “Clean up time” and asks students to listen the story, pause at the keywords (broom, sweep, sponge, wipe, mop, clean, mess) and asks students to repeat the keywords."
+                  },
+                  {
+                    "text": "Play the storybook again, ask students to listen to the story and clap their hands when they hear the keywords."
+                  },
+                  {
+                    "text": "Ask students some questions to check their understanding about the story.",
                     "list": [
                       {
-                        "text": "Example:",
+                        "text": "For example:",
                         "list": [
                           {
-                            "text": "<i>Who does Bada play with? &#x02192; Bada plays with Teddy bear."
+                            "text": "<i>What are the Penguins making for Mommy and Daddy? &#x02192; A card."
                           },
                           {
-                            "text": "<i>What do Bada and Teddy bear do? &#x02192; Bada and Teddy bear turn around / touch the ground / wiggle the nose / etc."
+                            "text": "<i>What does Jess use to make a card sparkle and shine? &#x02192; Glitter."
+                          },
+                          {
+                            "text": "<i>What does Curly use to add colorful shapes? &#x02192; Glue."
+                          },
+                          {
+                            "text": "<i>After making the card, what party do the penguins have? &#x02192; Dance party."
+                          },
+                          {
+                            "text": "<i>What does Jess do to help cleaning up? &#x02192; Sweep the room."
+                          },
+                          {
+                            "text": "<i>What does Curly do to help cleaning up? &#x02192; Wipe the glue."
+                          },
+                          {
+                            "text": "<i>What does Pogo do to help cleaning up? &#x02192; Mop up the floor."
+                          },
+                          {
+                            "text": "<i>Who found the card? &#x02192; Pogo."
                           }
                         ]
                       }
                     ]
-                  },
-                  {
-                    "text": "Play the storybook again, ask students to listen to the story, pause at the keywords and review it."
-                  },
-                  {
-                    "text": "Ask students to repeat the keywords: teddy bear, wiggle, nose, toes, light, turn around, I love you and correct their pronunciation."
-                  },
-                  {
-                    "text": "Instruct students to say the phrases (<b>touch the ground, wiggle your nose, touch you toes, I love you, turn off the light, say goodnight</b>)"
                   }
                 ]
               }
@@ -176,7 +185,7 @@
                 "title": "Reinforce vocabulary"
               },
               {
-                "text": "<strong>Keywords - Say goodnight</strong>",
+                "text": "<strong>Keywords - Cleaning up</strong>",
                 "list": [
                   {
                     "text": "Invite students to come to the board, touch to the images and listen to the keywords."
@@ -190,18 +199,18 @@
                 "title": "Interactive games"
               },
               {
-                "text": "<strong>Memory game - Say goodnight</strong>",
+                "text": "<strong>Drag & Drop the words - Mop, Broom, Sponge</strong>",
                 "list": [
                   {
-                    "text": "Inivte students to come to the board and turn over 2 cards to find the pairs of the pictures."
+                    "text": "Invite students to come to the board, drag and drop the words in the correct order."
                   }
                 ]
               },
               {
-                "text": "<strong>Drag & Drop – Teddy</strong>",
+                "text": "<strong>Color letters - Cleaning up</strong>",
                 "list": [
                   {
-                    "text": "Invite students to come to the board, drag the parts of the teddy bear to put the teddy together."
+                    "text": "Invite students to come to the board, color the first letter of the words and then read the words."
                   }
                 ]
               }
@@ -209,37 +218,35 @@
           },
           {
             "left_content": {
-              "title": "Do",
+              "title": "Do (Steam activities)",
               "text": "<i>20 mins</i>"
             },
             "right_content": [
               {
-                "text": "<strong>STEAM Activity: “A night landscape”</strong>"
-              },
-              {
+                "text": "STEAM activity: <b>“Making a broom”</b>",
                 "list": [
                   {
                     "text": "Work in individually."
                   },
                   {
-                    "text": "Teacher prepares the handout, crayon, stickers (star) and glue for students."
+                    "text": "Teacher prepares the color paper (A5), scissors, glue, drinking straw for each student."
                   },
                   {
-                    "text": "Teacher instructs students how to make a Goodnight Moon and makes a model."
+                    "text": "Teacher instructs students how to make a broom and makes a model."
+                  }
+                ]
+              },
+              {
+                "text": "<u>How to play</u>",
+                "list": [
+                  {
+                    "text": "Fold the colored paper (A5) in half.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-1.png\">"
                   },
                   {
-                    "text": "How to do:",
-                    "list": [
-                      {
-                        "text": "Draw and color a circle into the window to make a Moon.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-1.png\">"
-                      },
-                      {
-                        "text": "Stick stickers (star) around the Moon to make the stars.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-2.png\">"
-                      },
-                      {
-                        "text": "Color the window with red and black.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-3.png\">"
-                      }
-                    ]
+                    "text": "Cut small strips all the way along leaving a gap at the top. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-2.png\">"
+                  },
+                  {
+                    "text": "Add glue at one end of the paper then start wrapping paper around the drinking straw. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-3.png\"><img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-4.png\">"
                   }
                 ]
               }
@@ -254,7 +261,7 @@
               {
                 "list": [
                   {
-                    "text": "Play the song again <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>"
+                    "text": "Play the song again <strong>“Every mess I make”</strong>"
                   },
                   {
                     "text": "Tell students to tidy up the classroom"
@@ -268,20 +275,6 @@
                 ]
               }
             ]
-          },
-          {
-            "left_content": {
-              "title": "Sources"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "https://www.shutterstock.com/image-vector/modern-new-clear-double-pvc-sash-1420401131"
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
@@ -289,7 +282,7 @@
     {
       "lang": "vi",
       "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA TÔI",
-      "lesson_name": "BÀI 8: NÓI CHÚC NGỦ NGON 2 ",
+      "lesson_name": "LESSON 10: DỌN DẸP 2 ",
       "description": [
         {
           "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
@@ -305,7 +298,7 @@
         "subtitle": "Học sinh sẽ được:",
         "list": [
           {
-            "text": "Học từ vựng: gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn."
+            "text": "Học từ vựng: cây chổi, quét, miếng xốp, lau chùi, giẻ lau, làm sạch, sự lộn xộn."
           },
           {
             "text": "Phát triển kỹ năng nghe và nói."
@@ -314,13 +307,13 @@
             "text": "Phát triển các kỹ năng phát triển khác:",
             "list": [
               {
-                "text": "<strong>Phát triển tình cảm:</strong> học sinh thể hiện cảm xúc tích cực."
+                "text": "<strong>Phát triển tình cảm và kĩ năng xã hội:</strong> Học sinh hiểu về mối quan hệ nguyên nhân – kết quả."
               },
               {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc: nháy mắt, quay vòng tròn, chạm vào mũi, chạm xuống đất, chạm vào bàn chân, ngồi xuống, đứng lên."
+                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc như ngồi xuống, tự ôm mình, nhảy lên và xuống, khoang tay, nhảy chân phải, đặt tay lên hông."
               },
               {
-                "text": "<strong>Giáo dục phát triển thẫm mĩ:</strong> vẽ phong cảnh ban đêm."
+                "text": "<strong>Giáo dục phát triển thẫm mĩ:</strong> làm cây chổi."
               },
               {
                 "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
@@ -333,10 +326,10 @@
         "title": "Dụng cụ - Học liệu",
         "list": [
           {
-            "text": "KidsLoop CMS: 3-4_U2_LP8_Say goodnight 2."
+            "text": "KidsLoop CMS: 3-4_U2_LP10_Cleaning up 2."
           },
           {
-            "text": "Bản mẫu, bút sáp màu, hồ dán, hình dán (ngôi sao)."
+            "text": "Giấy màu A5, kéo, hồ dán, ống hút."
           }
         ]
       },
@@ -367,7 +360,7 @@
           {
             "left_content": {
               "title": "Hát",
-              "text": "“Teddy Bear, Teddy Bear, Say goodbye”<br/><i>5 phút</i>"
+              "text": "“Every mess I make”<br/><i>5 phút</i>"
             },
             "right_content": [
               {
@@ -376,28 +369,25 @@
                     "text": "Bắt đầu bài học bằng một bài hát."
                   },
                   {
-                    "text": "Mở bài hát “teddy bear, teddy bear, say goodbye”, dừng ở các từ (gấu bông, quay vòng tròn, lắc lư mũi, chạm xuống đất, chạm vào ngón chân, tắt đèn, chúc ngủ ngon) và ôn tập các động tác:",
+                    "text": "Phát bài hát: “<b>Every mess I make</b>”, dừng ở từ vựng (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn</b>) và ôn tập các động tác bên dưới:",
                     "list": [
                       {
-                        "text": "<b>Teddy Bear, Teddy Bear:</b> nháy mắt."
+                        "text": "<b>Broom:</b> ngồi xuống."
                       },
                       {
-                        "text": "<b>Turn around:</b> quay vòng tròn."
+                        "text": "<b>Mop:</b> tự ôm mình."
                       },
                       {
-                        "text": "<b>Wiggle your nose:</b> chạm vào mũi."
+                        "text": "<b>Clean:</b> nhảy lên và xuống."
                       },
                       {
-                        "text": "<b>Touch the ground:</b> chạm đất."
+                        "text": "<b>Wipe:</b> khoanh tay."
                       },
                       {
-                        "text": "<b>Touch your toes:</b> chạm vào đầu ngón chân."
+                        "text": "<b>Mess:</b> nhảy chân phải."
                       },
                       {
-                        "text": "<b>Turn off the light:</b> ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Say good night:</b> đứng lên."
+                        "text": "<b>Sweep:</b> đặt tay lên hông."
                       }
                     ]
                   },
@@ -411,41 +401,56 @@
           {
             "left_content": {
               "title": "Đọc sách",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>10 phút</i>"
+              "text": "“Clean up time!” Board book<br/><i>10 phút</i>"
             },
             "right_content": [
               {
                 "list": [
                   {
-                    "text": "Ôn tập từ vựng quan trọng của bài học (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>)."
+                    "text": "Ôn tập từ vựng của bài học  (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn<b>)."
                   },
                   {
-                    "text": "Giáo viên mở truyện “Teddy bear, teddy bear, say goodnight”, và  yêu cầu học sinh đọc tựa đề của truyện."
+                    "text": "Mở truyện và yêu cầu học sinh lặp lại tựa đề của truyện “Clean up time”."
                   },
                   {
-                    "text": "Chỉ vào các bức tranh và hỏi học sinh:",
+                    "text": "Giáo viên mở sách từng trang sách “Clean up time”, nói học sinh lắng nghe câu chuyện, dừng ở từ vựng (cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn) và yêu cầu học sinh lặp lại từ vựng."
+                  },
+                  {
+                    "text": "Mở truyện lại lần nữa, yêu cầu học sinh lắng nghe truyện và vỗ tay khi các con nghe thấy từ vựng. "
+                  },
+                  {
+                    "text": "Đặt câu hỏi để kiểm tra sự hiểu về câu truyện.",
                     "list": [
                       {
                         "text": "Ví dụ:",
                         "list": [
                           {
-                            "text": "<i>Bada chơi với ai? &#x02192; Bada chơi với gấu bông."
+                            "text": "<i>Các chú chim cánh cụt làm gì cho ba và mẹ?  &#x02192; 1 cái thiệp."
                           },
                           {
-                            "text": "<i>Bada và gấu bông làm gì? &#x02192; Bada và gấu bông quay vòng tròn / chạm xuống đất / lắc lư mũi / …. "
+                            "text": "<i>Jess dùng gì để làm cái thiệp lấp lánh và tỏa sáng?   &#x02192; Kim tuyến."
+                          },
+                          {
+                            "text": "<i>Curly dùng cái gì để dán hình có nhiều màu sắc vào?  &#x02192; Hồ dán."
+                          },
+                          {
+                            "text": "<i>Sau khi làm cái thiệp, các chú chim cánh cụt có bữa tiệc gì?   &#x02192; Tiệc nhảy."
+                          },
+                          {
+                            "text": "<i>Jess làm gì để giúp dọn dẹp? &#x02192; Quét nhà."
+                          },
+                          {
+                            "text": "<i>Curly làm gì để giúp dọn dẹp? &#x02192; Lau chùi hồ dán."
+                          },
+                          {
+                            "text": "<i>Pogo làm gì để giúp dọn dẹp? &#x02192; Lau sàn nhà."
+                          },
+                          {
+                            "text": "<i>Ai tìm thấy tấm thiệp &#x02192; Pogo."
                           }
                         ]
                       }
                     ]
-                  },
-                  {
-                    "text": "Giáo viên mở sách lần nữa, yêu cầu học sinh lắng nghe truyện, dừng ở các từ vựng và ôn tập từ vựng."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh lặp lại từ vựng (gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn) và sửa phát âm của học sinh."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh nói các cụm từ (chạm xuống đất, lắc lư mũi, chạm vào ngón chân, tôi yêu bạn, tắt đèn, chúc ngủ ngon)"
                   }
                 ]
               }
@@ -461,7 +466,7 @@
                 "title": "Củng cố từ vựng"
               },
               {
-                "text": "<strong>Từ vựng – Chúc ngủ ngon </strong>",
+                "text": "<strong>Từ vựng – dọn dẹp </strong>",
                 "list": [
                   {
                     "text": "Mời học sinh lên bảng, chạm vào hình ảnh và lắng nghe từ vựng."
@@ -475,18 +480,18 @@
                 "title": "Trò chơi tương tác"
               },
               {
-                "text": "<strong>Trò chơi trí nhớ - Chúc ngủ ngon </strong>",
+                "text": "<strong>Trò chơi trí nhớ - Dọn dẹp 1</strong>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cạp hình ảnh."
+                    "text": "Mời học sinh lên bảng, keo và thả từ theo đúng thứ tự."
                   }
                 ]
               },
               {
-                "text": "<strong>Kéo và thả - Teddy </strong>",
+                "text": "<strong>Tô màu chữ cái – Dọn dẹp </strong>",
                 "list": [
                   {
-                    "text": "Mời học sinh lên bảng, kéo các bộ phận của gấu bông để đặt lại với nhau. "
+                    "text": "Mời học sinh lên bảng, tô màu chữ cái đầu tiên của từ và sau đó đọc từ."
                   }
                 ]
               }
@@ -499,32 +504,30 @@
             },
             "right_content": [
               {
-                "text": "<strong>Hoạt động Khoa học – Nghệ thuật: “Vẽ phong cảnh ban đêm”</strong>"
-              },
-              {
+                "text": "<b>Hoạt động Khoa học – Nghệ thuật: “Làm cây chổi”</b>",
                 "list": [
                   {
-                    "text": "Hoạt động cá nhân"
+                    "text": "Hoạt động làm theo cá nhân."
                   },
                   {
-                    "text": "Giáo viên chuẩn bị bản mẫu, bút màu sáp, hình dán (ngôi sao), hồ dán cho học sinh."
+                    "text": "Giáo viên chuẩn bị giấy màu (A5), kéo, hồ dán, ống hút cho từng học sinh."
                   },
                   {
-                    "text": "Giáo viên hướng dẫn học sinh cách làm mặt trăng ngủ ngon và làm mẫu."
+                    "text": "Giáo viên hướng dẫn học sinh cách làm cây chổi và làm mẫu."
+                  }
+                ]
+              },
+              {
+                "text": "<u>How to play</u>",
+                "list": [
+                  {
+                    "text": "Gấp đôi tờ giấy màu (A5).<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-1.png\">"
                   },
                   {
-                    "text": "Cách làm:",
-                    "list": [
-                      {
-                        "text": "Vẽ và tô màu một vòng tròn trên cửa sổ để làm mặt trăng.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-1.png\">"
-                      },
-                      {
-                        "text": "Dán hình dán (ngôi sao) xung quanh mặt trăng để làm ngôi sao.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-2.png\">"
-                      },
-                      {
-                        "text": "Tô màu cửa sổ với màu đỏ và đen.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/window-3.png\">"
-                      }
-                    ]
+                    "text": "Cắt các dải nhỏ dọc theo chiều dọc để lại một khoảng trống ở trên cùng. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-2.png\">"
+                  },
+                  {
+                    "text": "Bôi hồ dán vào một đầu của tờ giấy sau đó bắt đầu quấn giấy quanh ống hút.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-3.png\"><img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/broom-4.png\">"
                   }
                 ]
               }
@@ -539,7 +542,7 @@
               {
                 "list": [
                   {
-                    "text": "Phát lại bài hát <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>."
+                    "text": "Phát lại bài hát <strong>“Every mess I make”</strong>."
                   },
                   {
                     "text": "Yêu cầu các học sinh dọn dẹp lớp học."
@@ -553,31 +556,9 @@
                 ]
               }
             ]
-          },
-          {
-            "left_content": {
-              "title": "Nguồn"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "https://www.shutterstock.com/image-vector/modern-new-clear-double-pvc-sash-1420401131"
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
-    },
-    {
-      "type": "others",
-      "list": [
-        {
-          "img": "https://kidsloop.vn/wp-content/uploads/2021/05/window-4.png"
-        }
-      ]
     }
   ]
 }
