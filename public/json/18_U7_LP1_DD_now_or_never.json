@@ -1,0 +1,64 @@
+{
+  "banner": "https://barrichcitypoems.files.wordpress.com/2016/07/non-web-banner.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "UNIT 7: Get the Job",
+      "lesson_name": "LESSON 1: 10 Most Important Things",
+      "description": [
+        {
+          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text": "18+ years old"
+        },
+        {
+          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+          "text": "1 minutes 30 seconds"
+        }
+      ],
+      "learning": {
+        "title": "Here are 10 crucial things you need to do to get the job, according to the experts",
+        "subtitle": "",
+        "list": [
+          {
+            "text": "Do your research."
+          },
+          {
+            "text": "Don’t be afraid to sell yourself."
+          },
+          {
+            "text": "Have someone refer you."
+          },
+          {
+            "text": "Make sure your resume matches the job description."
+          },
+          {
+            "text": "Update your social media profiles."
+          },
+          {
+            "text": "Be prepared with thoughtful questions"
+          },
+          {
+            "text": "Own your strengths but also your weaknesses."
+          },
+          {
+            "text": "Avoid only focusing on yourself."
+          },
+          {
+            "text": "Have an elevator pitch ready."
+          },
+          {
+            "text": "Follow up — and remind them why they should hire you."
+          }
+        ]
+      },
+      "materials": {
+        "title": "Materials",
+        "list": [
+          {
+            "text": "https://www.cheatsheet.com/money-career/most-important-things-need-get-job-according-experts.html/"
+          }
+        ]
+      }
+    }
+  ]
+}
