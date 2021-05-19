@@ -26,7 +26,7 @@
             jsonLoad() {
                 this.$store.commit('windowURLGet')
                 const getURL = this.$store.state.windowURL
-                this.axios.get('/json/'+getURL+'.json').then((response) => {
+                this.axios.get('/json/'+getURL+'.json?v='+ new Date().getTime()).then((response) => {
                     this.jsonData = response.data
                 }).catch(error => console.log(error))
             }

@@ -59,7 +59,7 @@ export default {
       this.$store.commit('windowURLGet')
       const getURL = this.$store.state.windowURL
       const fileName = (getURL) ? `${getURL}.json` : 'sample.json'
-      this.axios.get(`/json/${fileName}`).then((response) => {
+      this.axios.get(`/json/${fileName}?v=`+ new Date().getTime()).then((response) => {
         this.jsonData = response.data;
       }).catch(error => console.log(error))
     },
@@ -73,7 +73,7 @@ export default {
       console.log("value:", value);
     },
     resetJson() {
-      this.axios.get("/json/sample.json").then((response) => {
+      this.axios.get("/json/sample.json?v="+ new Date().getTime()).then((response) => {
         this.jsonData = response.data;
       }).catch(error => console.log(error))
     },

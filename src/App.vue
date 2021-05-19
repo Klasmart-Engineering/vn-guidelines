@@ -19,6 +19,6 @@ export default {
         content: "KidsLoop VN Hummingbird lesson guidelines for teachers",
       },
     ],
-  },
+  }
 };
 </script>

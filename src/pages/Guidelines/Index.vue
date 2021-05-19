@@ -60,7 +60,7 @@ export default {
   },
   methods: {
     unitLoads() {
-      this.axios.get('/unit/list.json').then((response) => {
+      this.axios.get('/unit/list.json?v='+ new Date().getTime()).then((response) => {
         this.units = response.data.list
       })
       return this.units
