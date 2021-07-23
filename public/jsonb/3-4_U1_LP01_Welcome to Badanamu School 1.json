@@ -1,0 +1,233 @@
+{
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "objectives": {
+        "title": "Unit Objectives:",
+        "list": [
+          {
+            "name": "Speaking",
+            "types": [
+              {
+                "name": "Vocabulary",
+                "contents": [
+                  {
+                    "text": "sad, happy, shy, sleepy, angry, sick."
+                  },
+                  {
+                    "text": "teacher; student; classroom; letter; pen; open; close"
+                  }
+                ]
+              },
+              {
+                "name": "Sentence Patterns",
+                "contents": [
+                  {
+                    "text": "Hello, my name is _____"
+                  },
+                  {
+                    "text": "How are you? I'm _________."
+                  }
+                ]
+              },
+              {
+                "name": "Communication Skills",
+                "contents": [
+                  {
+                    "text": "Can communicate about how they feel in their first experience of school ever Can learn about question intonation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Listening",
+            "types": [
+              {
+                "name": "Listening",
+                "contents": [
+                  {
+                    "text": "Can listen and identify the vocabulary set of emotion-words"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "learning": {
+        "title": "Part 1: Welcome to school (Part 1)",
+        "subtitle": "Lesson 1: Vocabulary",
+        "duration": "Duration: 30 mins",
+        "aim": "Aim of the lesson:",
+        "desc": "By the end of this lesson, students will have been introduced and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."
+      },
+      "lessons": {
+        "types": [
+          {
+            "text": "Lesson stage",
+            "width": "20%"
+          },
+          {
+            "text": "Stage Aims",
+            "width": "30%"
+          },
+          {
+            "text": "Procedures",
+            "width": "50%"
+          }
+        ],
+        "list": [
+          {
+            "lesson": "Warmer/Review <br> <i>5 mins</i>",
+            "stage": "To get kids in fun, active mood and thinking English",
+            "procedures": {
+              "list": [
+                {
+                  "text": "Greet the children, brightly, with a big smile, \"Hello, how are you?\""
+                },
+                {
+                  "text": "Ask children to stand up, gesturing the action with your hands and saying clearly and slowly \"Everyone, stand up!\"."
+                }
+              ]
+            }
+          },
+          {
+            "lesson": "CRM (Classroom Management) & Lead-In <br> 5 mins",
+            "stage": "Introduce classroom management system Set context for the lesson and generate interest in the topic and see what kids already know about it",
+            "procedures": {
+              "text": "<b>Introduce CRM & Lead Into the Lesson</b> 1. Review Classroom Rules via H5P Activity #1 2. Remind the children of the theme: \"Today we will continue talking about our school.\" 3. Ask the children questions to refresh their memory from the previous lesson. for example \"What words did we learn last time?\" Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
+            }
+          },
+          {
+            "lesson": "How to Refer Back to the CRM & Award Rewards",
+            "stage": "",
+            "procedures": {
+              "text": "Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "lang": "vi",
+      "unit": "Unit 1: My Kindergarten - Tiếng Việt",
+      "objectives": {
+        "title": "Unit Objectives:",
+        "list": [
+          {
+            "name": "Speaking",
+            "types": [
+              {
+                "name": "Vocabulary",
+                "contents": [
+                  {
+                    "text": "sad, happy, shy, sleepy, angry, sick."
+                  },
+                  {
+                    "text": "teacher; student; classroom; letter; pen; open; close"
+                  }
+                ]
+              },
+              {
+                "name": "Sentence Patterns",
+                "contents": [
+                  {
+                    "text": "Hello, my name is _____"
+                  },
+                  {
+                    "text": "How are you? I'm _________."
+                  }
+                ]
+              },
+              {
+                "name": "Communication Skills",
+                "contents": [
+                  {
+                    "text": "Can communicate about how they feel in their first experience of school ever Can learn about question intonation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Listening",
+            "types": [
+              {
+                "name": "Listening",
+                "contents": [
+                  {
+                    "text": "Can listen and identify the vocabulary set of emotion-words"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "learning": {
+        "title": "Part 1: Welcome to school (Part 1)",
+        "subtitle": "Lesson 1: Vocabulary",
+        "duration": "Duration: 30 mins",
+        "aim": "Aim of the lesson:",
+        "desc": "By the end of this lesson, students will have been introduced and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."
+      },
+      "lessons": {
+        "types": [
+          {
+            "text": "Lesson stage",
+            "width": "20%"
+          },
+          {
+            "text": "Stage Aims",
+            "width": "30%"
+          },
+          {
+            "text": "Procedures",
+            "width": "50%"
+          }
+        ],
+        "list": [
+          {
+            "lesson": "Warmer/Review <br> <i>5 mins</i>",
+            "stage": "To get kids in fun, active mood and thinking English",
+            "procedures": {
+              "list": [
+                {
+                  "text": "Greet the children, brightly, with a big smile, \"Hello, how are you?\""
+                },
+                {
+                  "text": "Ask children to stand up, gesturing the action with your hands and saying clearly and slowly \"Everyone, stand up!\"."
+                }
+              ]
+            }
+          },
+          {
+            "lesson": "CRM (Classroom Management) & Lead-In <br> 5 mins",
+            "stage": "Introduce classroom management system Set context for the lesson and generate interest in the topic and see what kids already know about it",
+            "procedures": {
+              "text": "<b>Introduce CRM & Lead Into the Lesson</b> 1. Review Classroom Rules via H5P Activity #1 2. Remind the children of the theme: \"Today we will continue talking about our school.\" 3. Ask the children questions to refresh their memory from the previous lesson. for example \"What words did we learn last time?\" Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
+            }
+          },
+          {
+            "lesson": "How to Refer Back to the CRM & Award Rewards",
+            "stage": "",
+            "procedures": {
+              "text": "Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "others",
+      "list": [
+        {
+          "img": "https://kidsloop.vn/wp-content/uploads/2021/04/u1-pl2-color.png"
+        }
+      ]
+    }
+  ]
+}
