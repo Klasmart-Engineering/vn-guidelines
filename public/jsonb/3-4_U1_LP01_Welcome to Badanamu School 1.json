@@ -1,535 +1,122 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
+  "banner":"https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content":[
     {
-      "lang": "en",
-      "unit": "Unit 1: My Kindergarten",
-      "description": [
+      "lang":"en",
+      "unit":"Unit 1: My Kindergarten",
+      "description":[
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 years old"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+          "icon":"https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+          "text":"5-6 years old"
         }
       ],
-      "objectives": {
-        "title": "Unit Objectives:",
-        "list": [
+      "objectives":{
+        "title":"Unit Objectives:",
+        "list":[
           {
-            "name": "Speaking",
-            "types": [
+            "name":"Speaking",
+            "types":[
               {
-                "name": "Vocabulary",
-                "contents": [
-                  {
-                    "text": "sad, happy, shy, sleepy, angry, sick."
-                  },
-                  {
-                    "text": "teacher; student; classroom; letter; pen; open; close"
-                  }
+                "name":"Vocabulary",
+                "contents":[
+                  {"text":"sad, happy, shy, sleepy, angry, sick, scared, excited, worried."},
+                  {"text":"teacher; student; classroom; letter; pen; open; close; class; board; desk; draw; book, page; computer; keyboard; mouse; basketball; football."}
                 ]
               },
               {
-                "name": "Sentence Patterns",
-                "contents": [
-                  {
-                    "text": "Hello, my name is _____"
-                  },
-                  {
-                    "text": "How are you? I'm _________."
-                  }
+                "name":"Sentence Patterns",
+                "contents":[
+                  {"text":"Hello, my name is _____."},
+                  {"text":"How are you? I'm _________."}
                 ]
               },
               {
-                "name": "Communication Skills",
-                "contents": [
+                "name":"Communication Skills",
+                "contents":[
                   {
-                    "text": "Can communicate about how they feel in their first experience of school ever Can learn about question intonation"
-                  }
+                    "text":"Can communicate about how they feel in their first experience of school ever."
+                  },
+                  {"text":"Can learn about question intonation."},
+                  {"text":"Can communicate about likes and dislikes as well as what they and others enjoy."},
+                  {"text":"Can learn about expressing dislikes in a polite tone."}
                 ]
               }
             ]
           },
-          {
-            "name": "Listening",
-            "types": [
-              {
-                "name": "Listening",
-                "contents": [
-                  {
-                    "text": "Can listen and identify the vocabulary set of emotion-words"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Pre-Literacy",
-            "types": [
-              {
-                "name": "Pre-Reading",
-                "contents": [
-                  {
-                    "text": "Can demonstrate onset rime awareness for short letter /A/ sound = /a/pple"
-                  },
-                  {
-                    "text": "Can understand when shown where we start reading on a page"
-                  }
-                ]
-              },
-              {
-                "name": "Pre-Writing",
-                "contents": [
-                  {
-                    "text": "Can write own name"
-                  },
-                  {
-                    "text": "Can trace lines that are used to form the letter A"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Whole-Child",
-            "types": [
-              {
-                "name": "Social and emotional learning",
-                "contents": [
-                  {
-                    "text": "Can learn classroom routines and rules."
-                  },
-                  {
-                    "text": "Can communicate about likes and dislikes."
-                  },
-                  {
-                    "text": "Can learn about expressing dislikes in a polite tone."
-                  }
-                ]
-              },
-              {
-                "name": "Cognitive Development",
-                "contents": [
-                  {
-                    "text": "Child engages in socio-dramatic play."
-                  },
-                  {
-                    "text": "Child uses picture information to make a guess."
-                  },
-                  {
-                    "text": "Child matches like objects."
-                  },
-                  {
-                    "text": "Child can compare and contrast."
-                  }
-                ]
-              },
-              {
-                "name": "Physical Coordination",
-                "contents": [
-                  {
-                    "text": "Child practices gross motor balance: jumping with coordination, hopping from one foot to another."
-                  },
-                  {
-                    "text": "Child practises fine motor skills through handling of tools: can circle objects using whiteboard drawing pen; can trace stroke order."
-                  }
-                ]
-              }
-            ]
-          }
+          {"name":"Listening","types":[{"name":"Listening","contents":[{"text":"Can listen and identify the vocabulary set of emotion-words."},{"text":"Can listen and identify the vocabulary set of school-words."}]}]},
+          {"name":"Pre-Literacy","types":[{"name":"Pre-Reading","contents":[{"text":"Can demonstrate onset rime awareness for all Short Vowel letters."},{"text":"Can understand when shown where we start reading on a page."},{"text":"Attempts to read words and sentences on page."},{"text":"Can demonstrate onset rime awareness for all Long Vowel letters."},{"text":"Can be shown directionality of print (top to bottom, left to right)."}]},{"name":"Pre-Writing","contents":[{"text":"Can write own name."},{"text":"Can read aloud learned and familiar words with the aid of illustrations."},{"text":"Can attempt to write familiar words without with the aid of illustrations."}]}]},
+          {"name":"Whole-Child","types":[{"name":"Social and emotional learning","contents":[{"text":"Can learn classroom routines and rules."},{"text":"Can recognise emotion in self and others."},{"text":"Can communicate about likes and dislikes."},{"text":"Can learn about expressing dislikes in a polite tone."}]},{"name":"Cognitive Development","contents":[{"text":"Child matches like objects. "},{"text":"Child can compare and contrast."},{"text":"Child can classify likes and dislikes."}]},{"name":"Physical Coordination","contents":[{"text":"Child practices gross motor balance: increased control over movement, observed through moving to music. "},{"text":"Child practises fine motor skills through handling of tools: can circle objects using whiteboard drawing pen; can trace stroke order."}]}]}
         ]
       },
-      "learning": {
-        "title": "Part 1: Welcome to school (Part 1)",
-        "subtitle": "Lesson 1: Vocabulary",
-        "duration": "Duration: 30 mins",
-        "aim": "Aim of the lesson:",
-        "desc": "By the end of this lesson, students will have been introduced and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."
-      },
-      "lessons": {
-        "types": [
+      "learning":{"title":"Welcome to school (Part 1)","subtitle":"Lesson 1: Vocabulary","duration":"Duration: 30 mins","aim":"Aim of the lesson:","desc":"By the end of this lesson, students will have been reviewed and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."},
+      "lessons":{
+        "types":[{"text":"Lesson Stages","width":"10%"},{"text":"Stage Aims","width":"20%"},{"text":"Procedures","width":"80%"}],
+        "list":[
           {
-            "text": "Lesson stage",
-            "width": "20%"
-          },
-          {
-            "text": "Stage Aims",
-            "width": "30%"
-          },
-          {
-            "text": "Procedures",
-            "width": "50%"
-          }
-        ],
-        "list": [
-          {
-            "lesson": "Warmer/Review <br> <i>5 mins</i>",
-            "stage": "To get kids in fun, active mood and thinking English",
-            "procedures": {
-              "list": [
-                {
-                  "text": "Greet the children, brightly, with a big smile, \"Hello, how are you?\""
-                },
-                {
-                  "text": "Ask children to stand up, gesturing the action with your hands and saying clearly and slowly \"Everyone, stand up!\"."
-                },
-                {
-                  "text": "Sing the Hello, Hello, How Are You? song with the children, with the actions. They may not understand the words but they will try to repeat / mimic you and try to copy the hand gestures."
-                },
-                {
-                  "text": "Begin with \"I'm fine, I'm good, I'm really great\" for Round 1, \"I'm tired, I'm sad, I'm not so good\" for Round 2, repeat \"I'm fine, I'm good, I'm really great\" for Round 3, and then \"I'm sleepy, I'm shy, I'm really sad\". Repeat one more time. "
-                },
-                {
-                  "text": "Clap and praise the children and encourage them to clap too. Tell them: \"That was great!\" with a big thumbs up with each hand."
-                },
-                {
-                  "text": "Tell children to sit down, gesturing the action with your hands and saying clearly and slowly, \"Everyone, sit down!\""
-                }
+            "lesson":"Warmer/Review <br> <i>5 mins</i>",
+            "stage":"To get kids in fun, active mood and thinking English",
+            "procedures":{
+              "list":[
+                {"text":"Greet the children, brightly, with a big smile, \"Hello, how are you?\""},
+                {"text":"Ask children to stand up, gesturing the action with your hands and saying clearly and slowly \"Everyone, stand up!\"."},
+                {"text":"Say Hello, How Are You?"},
+                {"text":"Begin with \"I'm fine, I'm good, I'm really great\" for Round 1, \"I'm tired, I'm sad, I'm not so good\" for Round 2, repeat \"I'm fine, I'm good, I'm really great\" for Round 3, and then \"I'm sleepy, I'm shy, I'm really sad\". Repeat one more time. "},
+                {"text":"Clap and praise the children and encourage them to clap too. Tell them: \"That was great!\" with a big thumbs up with each hand."},
+                {"text":"Tell children to sit down, gesturing the action with your hands and saying clearly and slowly, \"Everyone, sit down!\""}
               ]
             }
           },
           {
-            "lesson": "CRM (Classroom Management) & Lead-In <br> 5 mins",
-            "stage": "Introduce classroom management system Set context for the lesson and generate interest in the topic and see what kids already know about it",
-            "procedures": {
-              "text": "<b>Introduce CRM & Lead Into the Lesson</b> 1. Review Classroom Rules via H5P Activity #1 2. Remind the children of the theme: \"Today we will continue talking about our school.\" 3. Ask the children questions to refresh their memory from the previous lesson. for example \"What words did we learn last time?\" Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
-            }
-          },
-          {
-            "lesson": "Introduce & Review Key Vocabulary, Sentence Patterns & Communication Skills <br> <i>10 mins</i>",
-            "stage": "Show how the Key Vocabulary is used within the set context of \"My Kindergarten\"",
-            "procedures": {
-              "text": "<b>Introduce the Key Vocabulary</b>",
-              "list": [
-                {
-                  "text": "Using Flashcards, introduce the key vocabulary using H5P Activity # 2"
-                },
-                {
-                  "text": "Test students' prior knowledge. Allow them time to attempt to say the words before you say the words."
-                },
-                {
-                  "text": "Ask students to repeat the word after you. If a child doesn't want to repeat the word, that is ok. Give them time to gain confidence."
-                },
-                {
-                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""
-                },
-                {
-                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars."
-                }
+            "lesson":"CRM (Classroom Management) & Lead-In <br> <i>5 mins</i>",
+            "stage":"Introduce classroom management system Set context for the lesson and generate interest in the topic and see what kids already know about it",
+            "procedures":{
+              "text":"<b>Introduce CRM & Lead Into the Lesson</b>",
+              "list":[
+                {"text":"Review Classroom Rules via H5P Activity #1."},
+                {"text":"Remind the children of the theme: <i>\"Today we will continue talking about our school\"</i>."},
+                {"text":"Ask the children questions to refresh their memory from the previous lesson. For example \"What words did we learn last time?\" Questions may be presented and answered in Vietnamese if the questions are a bit complicated."}
               ]
             }
           },
           {
-            "lesson": "How to Refer Back to the CRM & Award Rewards",
-            "stage": "",
-            "procedures": {
-              "text": "Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
+            "lesson":"Introduce & Review Key Vocabulary, Sentence Patterns & Communication Skills <br> <i>10 mins</i>",
+            "stage":"Show how the Key Vocabulary is used within the set context of \"My Kindergarten\"",
+            "procedures":{
+              "text":"<b>Introduce the Key Vocabulary</b>",
+              "list":[
+                {"text":"Using Flashcards, introduce the key vocabulary using H5P Activity # 2"},
+                {"text":"Test students' prior knowledge. Allow them time to attempt to say the words before you say the words."},
+                {"text":"Ask students to repeat the word after you. If a child doesn't want to repeat the word, that is ok. Give them time to gain confidence."},
+                {"text":"Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""},
+                {"text":"Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars."}
+              ]
             }
           },
           {
-            "lesson": "Explain Meaning & Check Understanding <br> <i>10 mins</i>",
-            "stage": "Use different activities to give children repeated exposure to meaning of the vocabulary and sentence patterns. Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
-            "procedures": {
-              "text": "<b>Explain Meaning</b>",
-              "list": [
-                {
-                  "text": "Explain H5P Activity #3 (in Vietnamese if necessary)"
-                },
-                {
-                  "text": "Demo Activity #3"
-                },
-                {
-                  "text": "Ask ICQs (in Vietnamese if necessary) 4."
-                },
-                {
-                  "text": "Now begin H5P Activity#3 by calling on different children to come up and take turns. Remember not to force children to try, allow them to gain confidence over time."
-                },
-                {
-                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""
-                },
-                {
-                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars. <b>Check Understanding</b>"
-                },
-                {
-                  "text": "Repeat steps 1 - 6 for H5P Activity #4"
-                }
+            "lesson":"How to Refer Back to the CRM & Award Rewards",
+            "stage":"",
+            "procedures":{
+              "text":"Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."}
+          },
+          {
+            "lesson":"Explain Meaning & Check Understanding <br> <i>10 mins</i>",
+            "stage":"Use different activities to give children repeated exposure to meaning of the vocabulary and sentence patterns. Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
+            "procedures":{
+              "text":"<b>Explain Meaning</b>",
+              "list":[
+                {"text":"Explain H5P Activity #3 (in Vietnamese if necessary)"},
+                {"text":"Demo Activity #3"},
+                {"text":"Ask ICQs (in Vietnamese if necessary) 4."},
+                {"text":"Now begin H5P Activity#3 by calling on different children to come up and take turns. Remember not to force children to try, allow them to gain confidence over time."},
+                {"text":"Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""},
+                {"text":"Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars. <b>Check Understanding</b>"},
+                {"text":"Repeat steps 1 - 6 for H5P Activity #4"}
               ],
-              "end": "END OF LESSON 1 - VOCABULARY"
+              "end":"END OF LESSON 1 - VOCABULARY"
             }
           }
         ]
       }
-    },
-    {
-      "lang": "vi",
-      "unit": "Unit 1: My Kindergarten - Tiếng Việt",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 years old"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "objectives": {
-        "title": "Unit Objectives:",
-        "list": [
-          {
-            "name": "Speaking",
-            "types": [
-              {
-                "name": "Vocabulary",
-                "contents": [
-                  {
-                    "text": "sad, happy, shy, sleepy, angry, sick."
-                  },
-                  {
-                    "text": "teacher; student; classroom; letter; pen; open; close"
-                  }
-                ]
-              },
-              {
-                "name": "Sentence Patterns",
-                "contents": [
-                  {
-                    "text": "Hello, my name is _____"
-                  },
-                  {
-                    "text": "How are you? I'm _________."
-                  }
-                ]
-              },
-              {
-                "name": "Communication Skills",
-                "contents": [
-                  {
-                    "text": "Can communicate about how they feel in their first experience of school ever Can learn about question intonation"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Listening",
-            "types": [
-              {
-                "name": "Listening",
-                "contents": [
-                  {
-                    "text": "Can listen and identify the vocabulary set of emotion-words"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Pre-Literacy",
-            "types": [
-              {
-                "name": "Pre-Reading",
-                "contents": [
-                  {
-                    "text": "Can demonstrate onset rime awareness for short letter /A/ sound = /a/pple"
-                  },
-                  {
-                    "text": "Can understand when shown where we start reading on a page"
-                  }
-                ]
-              },
-              {
-                "name": "Pre-Writing",
-                "contents": [
-                  {
-                    "text": "Can write own name"
-                  },
-                  {
-                    "text": "Can trace lines that are used to form the letter A"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Whole-Child",
-            "types": [
-              {
-                "name": "Social and emotional learning",
-                "contents": [
-                  {
-                    "text": "Can learn classroom routines and rules."
-                  },
-                  {
-                    "text": "Can communicate about likes and dislikes."
-                  },
-                  {
-                    "text": "Can learn about expressing dislikes in a polite tone."
-                  }
-                ]
-              },
-              {
-                "name": "Cognitive Development",
-                "contents": [
-                  {
-                    "text": "Child engages in socio-dramatic play."
-                  },
-                  {
-                    "text": "Child uses picture information to make a guess."
-                  },
-                  {
-                    "text": "Child matches like objects."
-                  },
-                  {
-                    "text": "Child can compare and contrast."
-                  }
-                ]
-              },
-              {
-                "name": "Physical Coordination",
-                "contents": [
-                  {
-                    "text": "Child practices gross motor balance: jumping with coordination, hopping from one foot to another."
-                  },
-                  {
-                    "text": "Child practises fine motor skills through handling of tools: can circle objects using whiteboard drawing pen; can trace stroke order."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "learning": {
-        "title": "Part 1: Welcome to school (Part 1)",
-        "subtitle": "Lesson 1: Vocabulary",
-        "duration": "Duration: 30 mins",
-        "aim": "Aim of the lesson:",
-        "desc": "By the end of this lesson, students will have been introduced and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."
-      },
-      "lessons": {
-        "types": [
-          {
-            "text": "Lesson stage",
-            "width": "20%"
-          },
-          {
-            "text": "Stage Aims",
-            "width": "30%"
-          },
-          {
-            "text": "Procedures",
-            "width": "50%"
-          }
-        ],
-        "list": [
-          {
-            "lesson": "Warmer/Review <br> <i>5 mins</i>",
-            "stage": "To get kids in fun, active mood and thinking English",
-            "procedures": {
-              "list": [
-                {
-                  "text": "Greet the children, brightly, with a big smile, \"Hello, how are you?\""
-                },
-                {
-                  "text": "Ask children to stand up, gesturing the action with your hands and saying clearly and slowly \"Everyone, stand up!\"."
-                },
-                {
-                  "text": "Sing the Hello, Hello, How Are You? song with the children, with the actions. They may not understand the words but they will try to repeat / mimic you and try to copy the hand gestures."
-                },
-                {
-                  "text": "Begin with \"I'm fine, I'm good, I'm really great\" for Round 1, \"I'm tired, I'm sad, I'm not so good\" for Round 2, repeat \"I'm fine, I'm good, I'm really great\" for Round 3, and then \"I'm sleepy, I'm shy, I'm really sad\". Repeat one more time. "
-                },
-                {
-                  "text": "Clap and praise the children and encourage them to clap too. Tell them: \"That was great!\" with a big thumbs up with each hand."
-                },
-                {
-                  "text": "Tell children to sit down, gesturing the action with your hands and saying clearly and slowly, \"Everyone, sit down!\""
-                }
-              ]
-            }
-          },
-          {
-            "lesson": "CRM (Classroom Management) & Lead-In <br> 5 mins",
-            "stage": "Introduce classroom management system Set context for the lesson and generate interest in the topic and see what kids already know about it",
-            "procedures": {
-              "text": "<b>Introduce CRM & Lead Into the Lesson</b> 1. Review Classroom Rules via H5P Activity #1 2. Remind the children of the theme: \"Today we will continue talking about our school.\" 3. Ask the children questions to refresh their memory from the previous lesson. for example \"What words did we learn last time?\" Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
-            }
-          },
-          {
-            "lesson": "Introduce & Review Key Vocabulary, Sentence Patterns & Communication Skills <br> <i>10 mins</i>",
-            "stage": "Show how the Key Vocabulary is used within the set context of \"My Kindergarten\"",
-            "procedures": {
-              "text": "<b>Introduce the Key Vocabulary</b>",
-              "list": [
-                {
-                  "text": "Using Flashcards, introduce the key vocabulary using H5P Activity # 2"
-                },
-                {
-                  "text": "Test students' prior knowledge. Allow them time to attempt to say the words before you say the words."
-                },
-                {
-                  "text": "Ask students to repeat the word after you. If a child doesn't want to repeat the word, that is ok. Give them time to gain confidence."
-                },
-                {
-                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""
-                },
-                {
-                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars."
-                }
-              ]
-            }
-          },
-          {
-            "lesson": "How to Refer Back to the CRM & Award Rewards",
-            "stage": "",
-            "procedures": {
-              "text": "Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
-            }
-          },
-          {
-            "lesson": "Explain Meaning & Check Understanding <br> <i>10 mins</i>",
-            "stage": "Use different activities to give children repeated exposure to meaning of the vocabulary and sentence patterns. Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
-            "procedures": {
-              "text": "<b>Explain Meaning</b>",
-              "list": [
-                {
-                  "text": "Explain H5P Activity #3 (in Vietnamese if necessary)"
-                },
-                {
-                  "text": "Demo Activity #3"
-                },
-                {
-                  "text": "Ask ICQs (in Vietnamese if necessary) 4."
-                },
-                {
-                  "text": "Now begin H5P Activity#3 by calling on different children to come up and take turns. Remember not to force children to try, allow them to gain confidence over time."
-                },
-                {
-                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""
-                },
-                {
-                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars. <b>Check Understanding</b>"
-                },
-                {
-                  "text": "Repeat steps 1 - 6 for H5P Activity #4"
-                }
-              ],
-              "end": "END OF LESSON 1 - VOCABULARY"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "others",
-      "list": [
-        {
-          "img": "https://kidsloop.vn/wp-content/uploads/2021/04/u1-pl2-color.png"
-        }
-      ]
     }
   ]
 }

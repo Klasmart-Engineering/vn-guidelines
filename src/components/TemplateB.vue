@@ -156,7 +156,7 @@
                       <td v-if="item.procedures.list || item.procedures.text">
                         <p v-if="item.procedures.text" v-html="item.procedures.text"></p>
                         <ul v-if="item.procedures.list">
-                          <li v-for="(item1, index1) in item.procedures.list" :key="index1">{{ item1.text }}</li>
+                          <li v-for="(item1, index1) in item.procedures.list" :key="index1" v-html="item1.text"></li>
                         </ul>
                         <p v-if="item.procedures.end" v-html="item.procedures.end"></p>
                       </td>
