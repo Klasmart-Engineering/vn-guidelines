@@ -12,34 +12,58 @@
         margin-top: 0;
       }
 
+      .lesson-unit {
+        margin-top: 0;
+      }
+
       ul {
+        margin-top: 10px;
+
         li {
-          width: 25%;
+          width: 20%;
+
+          a {
+            width: 50px;
+            height: 50px;
+
+            img {
+              width: 20px;
+            }
+          }
+
+          span {
+            font-size: 16px;
+            line-height: 20px;
+            min-height: 0;
+          }
         }
       }
     }
 
     .module-lesson-table {
+      .table-wrap {
+        box-shadow: 0 0 5px rgba(#000, 0.1);
+        border-radius: 20px;
+        overflow: hidden;
+      }
+
       table {
         tbody, thead {
           tr {
-            td {
-              padding-top: 5px;
-              padding-bottom: 5px;
-
-              ul {
-                margin: 0;
-
-                li {
-                  line-height: 150%;
-                }
+            &.tr-thead {
+              td {
+                padding-top: 15px;
+                padding-bottom: 15px;
               }
             }
-          }
-        }
 
-        thead {
-          tr {
+            &.tr-tfoot {
+              td {
+                padding-top: 2.5px;
+                padding-bottom: 2.5px;
+              }
+            }
+
             &.tr-thead.triple {
               td {
                 border-radius: 0;
@@ -55,6 +79,19 @@
 
                 &:nth-of-type(3) {
                   border-radius: 0 18px 0 0;
+                }
+              }
+            }
+
+            td {
+              padding-top: 10px;
+              padding-bottom: 10px;
+
+              ul {
+                margin: 0;
+
+                li {
+                  line-height: 150%;
                 }
               }
             }
@@ -80,7 +117,6 @@
         }
       }
 
-
       + .module-title {
         margin-top: 30px;
       }
@@ -88,31 +124,27 @@
   }
 
   .objectives-table {
+    box-shadow: 0 0 5px rgba(#000, 0.1);
+    border-radius: 20px;
+    overflow: hidden;
+
     > tbody {
       > tr {
         &.tr-thead {
           + tr {
             table {
               > tr {
-                border-bottom: dashed 2px rgba($primary-color, 0.5);
+                border-bottom: solid 1px rgba($primary-color, 0.3);
+
+                tr {
+                  border-bottom: none;
+                }
 
                 &:last-of-type {
                   border-bottom: none;
                 }
               }
             }
-          }
-        }
-      }
-    }
-
-    .objectives-right {
-      > tbody {
-        > tr {
-          border-bottom: solid 2px rgba($primary-color, 0.5);
-
-          &:last-of-type {
-            border-bottom: none;
           }
         }
       }

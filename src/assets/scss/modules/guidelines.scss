@@ -467,7 +467,11 @@
         border-radius: 20px;
 
         tbody > tr {
-          border-bottom: solid 1px rgba($primary-color, 0.5);
+          border-bottom: solid 1px rgba($primary-color, 0.3);
+
+          tr {
+            border-bottom: none;
+          }
 
           &:last-of-type {
             border-bottom: none;
