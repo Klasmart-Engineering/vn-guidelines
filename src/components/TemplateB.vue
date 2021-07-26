@@ -31,6 +31,18 @@
                   <div class="lesson-unit" v-if="data.unit">{{ data.unit }}</div>
                 </div>
               </div>
+              <div class="row" v-if="data.description">
+                <div class="col-12">
+                  <ul>
+                    <li v-for="(item, index) in data.description" :key="index">
+                      <a href="javascript:void(0);">
+                        <img v-if="item.icon" :src="item.icon" alt="">
+                      </a>
+                      <span>{{ item.text }}</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </section>
 
@@ -139,7 +151,7 @@
                     <tr v-for="(item, index) in data.lessons.list" :key="index">
                       <td
                           :colspan="!item.stage ? '2': '1'"
-                          :style="!item.stage ? 'background-color: #fafafa;' : 'background-color: rgba(0, 136, 204, 0.1);'"
+                          style="background-color: rgba(0, 136, 204, 0.1);"
                           v-if="item.lesson"
                           v-html="item.lesson"></td>
                       <td style="background-color: #fafafa;" v-if="item.stage" v-html="item.stage"></td>
@@ -148,6 +160,7 @@
                         <ul v-if="item.procedures.list">
                           <li v-for="(item1, index1) in item.procedures.list" :key="index1">{{ item1.text }}</li>
                         </ul>
+                        <p v-if="item.procedures.end" v-html="item.procedures.end"></p>
                       </td>
                     </tr>
                     </tbody>
