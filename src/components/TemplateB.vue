@@ -46,7 +46,7 @@
             </div>
           </section>
 
-          <section class="module-lesson-table">
+          <section class="module-lesson-table" v-if="data.objectives">
             <div class="container">
               <div class="row">
                 <div class="col-12">
@@ -110,7 +110,7 @@
         </div>
 
         <div class="page" v-if="data.type !== 'others'">
-          <section class="module-title">
+          <section class="module-title" v-if="data.learning">
             <div class="container">
               <div class="row">
                 <div class="col-12 text-center">
