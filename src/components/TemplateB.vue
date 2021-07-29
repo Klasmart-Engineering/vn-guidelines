@@ -107,9 +107,7 @@
               </div>
             </div>
           </section>
-        </div>
 
-        <div class="page" v-if="data.type !== 'others'">
           <section class="module-title" v-if="data.learning">
             <div class="container">
               <div class="row">
