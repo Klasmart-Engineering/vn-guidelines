@@ -50,7 +50,7 @@
       },
       "learning":{"title":"Welcome to school (Part 1)","subtitle":"Lesson 1: Vocabulary","duration":"Duration: 30 mins","aim":"Aim of the lesson:","desc":"By the end of this lesson, students will have been reviewed and practised using vocabulary relating to emotions in the context of the topic of \"My Kindergarten\"."},
       "lessons":{
-        "types":[{"text":"Lesson Stages","width":"10%"},{"text":"Stage Aims","width":"20%"},{"text":"Procedures","width":"80%"}],
+        "types":[{"text":"Lesson Stages","width":"10%"},{"text":"Stage Aims","width":"20%"},{"text":"Procedures","width":"70%"}],
         "list":[
           {
             "lesson":"Warmer/Review <br> <i>5 mins</i>",

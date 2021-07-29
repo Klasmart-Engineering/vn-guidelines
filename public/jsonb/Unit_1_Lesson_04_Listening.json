@@ -1,0 +1,140 @@
+{
+  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+  "content": [
+    {
+      "lang": "en",
+      "unit": "Unit 1: My Kindergarten",
+      "learning": {
+        "title": "Welcome to school (Part 2)",
+        "subtitle": "Lesson 4: Listening",
+        "duration": "Duration: 30 mins",
+        "aim": "Aim of the lesson:",
+        "desc": "By the end of this lesson, students will have [been introduced to (3 to 4yr group)] / [reviewed (4-6 age group)] listening skills that build on the vocabulary and sentence patterns relating to emotions in the context of the topic of “My Kindergarten”."
+      },
+      "lessons": {
+        "types": [
+          {
+            "text": "Lesson Stages",
+            "width": "10%"
+          },
+          {
+            "text": "Stage Aims",
+            "width": "20%"
+          },
+          {
+            "text": "Procedures",
+            "width": "70%"
+          }
+        ],
+        "list": [
+          {
+            "lesson": "Warmer/Review <br> <i>5 mins</i>",
+            "stage": "To get kids in fun, active mood and thinking English",
+            "procedures": {
+              "list": [
+                {
+                  "text": "Greet the children, brightly, with a big smile, <i>\"Hello, how are you?\"</i>."
+                },
+                {
+                  "text": "Ask children to stand up, gesturing the action with your hands and saying clearly and slowly <i>\"Everyone, stand up!\"</i>."
+                },
+                {
+                  "text": "Say <i>\"Hello, How Are You?\""
+                },
+                {
+                  "text": "Begin with <i>\"I'm fine, I'm good, I'm really great\"</i> for Round 1, <i>\"I'm tired, I'm sad, I'm not so good\"</i> for Round 2, repeat <i>\"I'm fine, I'm good, I'm really great\" </i> for Round 3, and then <i>\"I'm sleepy, I'm shy, I'm really sad\"</i>. Repeat one more time. "
+                },
+                {
+                  "text": "Clap and praise the children and encourage them to clap too. Tell them: <i>\"That was great!\"</i> with a big thumbs up with each hand."
+                },
+                {
+                  "text": "Tell children to sit down, gesturing the action with your hands and saying clearly and slowly, <i>\"Everyone, sit down!\"</i>"
+                }
+              ]
+            }
+          },
+          {
+            "lesson": "CRM (Classroom Management) & Lead-In <br> <i>5 mins</i>",
+            "stage": "Introduce classroom management system. Set context for the lesson and generate interest in the topic with 'gist' listening task.",
+            "procedures": {
+              "text": "<b>Introduce CRM & Lead Into the Lesson</b>",
+              "list": [
+                {
+                  "text": "Introduce Classroom Rules via H5P Activity #1 "
+                },
+                {
+                  "text": "Begin by presenting the background to the listening activities via H5P Activity #2."
+                },
+                {
+                  "text": "Ask the children: <i>“What do you see?”</i>"
+                },
+                {
+                  "text": "Remind them of the theme: <i>“Today we are going to find out what the little boy did, after school, when he went home.”</i> Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
+                }
+              ]
+            }
+          },
+          {
+            "lesson": "Introduce Listening Skills with “Gist” Task <br> <i>10 mins</i>",
+            "stage": "Introduce the ‘gist’ listening task within the set context of “My Kindergarten”",
+            "procedures": {
+              "text": "<b>Introduce the Listening for Gist Task  </b>",
+              "list": [
+                {
+                  "text": "Introduce the listening 'gist' task using H5P Activity # 2. Ask students before they listen, <i>“What did the little boy do, when he went home, after school?”</i>"
+                },
+                {
+                  "text": "After they listen, ask different students to give their answer. If a child doesn't want to answer, that is ok. Give them time to gain confidence. "
+                },
+                {
+                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, <i>“Everyone, sit down!”</i> "
+                },
+                {
+                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars. "
+                }
+              ]
+            }
+          },
+          {
+            "lesson": "How to Refer Back to the CRM & Award Rewards",
+            "stage": "",
+            "procedures": {
+              "text": "Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try. <br> Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try. Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try. <br> For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying. Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
+            }
+          },
+          {
+            "lesson": "Introduce and Review the Listening for Specific Information Task <br> <i>10 mins</i>",
+            "stage": "When doing listening tasks, bear in mind that the second language learner works hardest during this time - they have to listen, understand, translate internally, and then produce. Make sure to let them listen multiple times and praise and encourage them after each time. Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
+            "procedures": {
+              "text": "<b>Introduce the Listening for Specific Information Task</b>",
+              "list": [
+                {
+                  "text": "Explain H5P Activity #3 (in Vietnamese if necessary) "
+                },
+                {
+                  "text": "Demo Activity #3. Remember to go slowly, speak clearly, and do one step at a time and then check if they are following along with you. (See Step #3). "
+                },
+                {
+                  "text": "Ask ICQs (in Vietnamese if necessary) "
+                },
+                {
+                  "text": "Now begin H5P Activity#3 by doing the 'demo' listening for specific information' task together with the whole class. Then do the full activity - let the children listen 3 times, without asking them to give you their answers. "
+                },
+                {
+                  "text": "Check answers and understanding by calling on different children to come up and take turns. Remember not to force children to try, allow them to gain confidence over time. "
+                },
+                {
+                  "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, “Everyone, sit down!” "
+                },
+                {
+                  "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars. "
+                }
+              ],
+              "end": "<b>END OF LESSON 4 - LISTENING</b>"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
