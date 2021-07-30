@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
+@import "fonts";
 @import "b4-custom";
 @import "~bootstrap";
 @import "~bootstrap-vue";
@@ -11,7 +12,7 @@
 @import "modules/guidelines-b";
 
 body {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-lino-serif;
 
   @include media-breakpoint-down(sm) {
     width: 100%;
