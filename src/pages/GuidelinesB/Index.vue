@@ -17,7 +17,7 @@
                   <li v-for="(object, key) in lessons" :key="key">
                     <div class="d-flex align-items-center" v-if="object.indexOf('U'+(index+1)) >= 0 || object.indexOf('Unit_'+(index+1)) >= 0">
                       <router-link :to="'/view-b?' + object">
-                        {{ object.replaceAll('_', ' ') }}
+                        {{ object.replace(/_/g,' ') }}
                       </router-link>
                       <div class="actions-wrap">
                         <router-link :to="'/editor-b?' + object" class="">
