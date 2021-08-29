@@ -130,7 +130,9 @@
               </div>
             </div>
           </section>
+        </div>
 
+        <div class="page" v-if="data.type !== 'others'">
           <section class="module-lesson-table" v-if="data.lessons">
             <div class="container">
               <div class="row">
