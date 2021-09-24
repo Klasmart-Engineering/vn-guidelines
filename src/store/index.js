@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import VueAxios from "vue-axios";
-import axios from "axios";
+import VueAxios from 'vue-axios'
+import axios from 'axios'
 
 Vue.use(Vuex)
 Vue.use(VueAxios, axios)
@@ -12,8 +12,8 @@ export const store = new Vuex.Store({
         windowURL: '',
     },
     mutations: {
-        windowURLGet (state) {
+        windowURLGet(state) {
             state.windowURL = window.location.search.split('?')[1]
-        }
-    }
+        },
+    },
 })

@@ -1,588 +1,588 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 4: PROFESSION",
-      "lesson_name": "LESSON 21: COMMUNITY HELPS 1",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "UNIT 4: PROFESSION",
+            "lesson_name": "LESSON 21: COMMUNITY HELPS 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn vocabulary of professions: <b>job, mail carrier, gardener, police officer.</b>"
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop other skills: ",
+                        "list": [
+                            {
+                                "text": "<strong>Cognitive Development: </strong> Inquiry into Society – students classify the characters."
+                            },
+                            {
+                                "text": "<strong>Gross motor skills: </strong> movement following the song, hold hands, wave hands, raise the hand to salute, raise two hands."
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U4_LP21_Community helps 1"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Teacher welcomes the class and asks students questions:",
+                                        "list": [
+                                            {
+                                                "text": "<i>Hello! How are you? &#x02192; I am fine."
+                                            },
+                                            {
+                                                "text": "<i>Have you had breakfast? &#x02192; Yes, I have."
+                                            },
+                                            {
+                                                "text": "<i>What do you eat for breakfast? &#x02192; I eat bread, noodle, etc."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Teacher elicits the answer from students."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Agent M” Chant<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to a song"
+                                    },
+                                    {
+                                        "text": "Teacher says: <i>“We will sing a song about professions”</i>"
+                                    },
+                                    {
+                                        "text": "Play the song (chant): “<strong>Agent M”</strong>"
+                                    },
+                                    {
+                                        "text": "Play the first part of the song from “ready” to “gardener”, ask students to listen to the song."
+                                    },
+                                    {
+                                        "text": "At the second part of the song where the lyric is repeated, pause at the keywords and have students stand up and practice the actions as below:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Job: </b>hold hands."
+                                            },
+                                            {
+                                                "text": "<b>Mail carrier:</b> wave hands."
+                                            },
+                                            {
+                                                "text": "<b>Police officer: </b>raise the hand to salute."
+                                            },
+                                            {
+                                                "text": "<b>Gardener:</b> raise two hands."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Teacher plays a song again, have the students make the actions along the video."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Agent M” Storybook<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>job, mail carrier, police officer, gardener</b>)."
+                                    },
+                                    {
+                                        "text": "Teacher plays of the storybook, page 1 to 6 of  “Agent M” storybook and asks students to listen to the story."
+                                    },
+                                    {
+                                        "text": "Teacher plays the storybook again, pauses at each page from 2 to 6, teacher reads and teaches the keywords of the day (<b>job, mail carrier, police officer, gardener</b>)."
+                                    },
+                                    {
+                                        "text": "For example: ",
+                                        "list": [
+                                            {
+                                                "text": "At page 2: Point to the pictures and ask:",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>What jobs do they have?  &#x02192; They have important jobs.</i>"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "At page 3: Point to the pictures and ask:",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>What does Mimi do? &#x02192; Mimi is a gardener.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>What does Bada do? &#x02192; Bada is a police officer.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>What does Abby do? &#x02192; Abby is a mail carrier.</i>"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Have students repeat the keyword: <b>job, gardener, police officer, mail carrier.</b>"
+                                            },
+                                            {
+                                                "text": "Ask students to repeat the keywords several times in chorus and individually and correct their pronunciation."
+                                            },
+                                            {
+                                                "text": "Do the same in page 4, 5 and 6."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book and stops at a random page containing the day’s keywords (<b>job, gardener, police officer, mail carrier</b>)."
+                                            },
+                                            {
+                                                "text": "Point to the characters (Mimi, Bada, Abby) and ask students to say their jobs."
+                                            },
+                                            {
+                                                "text": "Teacher asks students to repeat keywords several times."
+                                            },
+                                            {
+                                                "text": "Teacher corrects their pronunciation."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<strong>Keywords - Community Helps 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Card Slider - gardener, job, mail carrier, police officer </strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation. "
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Memory game - Community Helps 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and turn over the cards to find the pairs of pictures."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Job - Community Helps 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, look at the pictures and the questions and choose to correct answers."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag and drop - Community Helpers 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to the board and match the pictures into the correct words."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Arrange the letters - Community Helps 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to the board, look at the pictures and arrange the letters in the correct order."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again  <strong>“Agent M”</strong>"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 4: NGHỀ NGHIỆP  ",
+            "lesson_name": "BÀI 21:  GIÚP ĐỠ CỘNG ĐỒNG 1.",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng về nghề nghiệp: nghề nghiệp, người vận chuyển thư, người làm vườn, cảnh sát."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác: ",
+                        "list": [
+                            {
+                                "text": "<strong>Giáo dục phát triển nhận thức: </strong> Khám phá xã hội – học sinh có thể phân loại nhân vật."
+                            },
+                            {
+                                "text": "<strong>Kĩ năng vận đông thô:  </strong> vận động theo bài hát, nắm tay, vẫy tay, giơ tay chào, giơ 2 tay."
+                            },
+                            {
+                                "text": "<strong>Kĩ năng vận động tinh:</strong> chơi trò chơi tương tác"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "KidsLoop CMS: 5-6_U4_LP21_Community helps 1."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên chào đón các học sinh vào lớp học và đặt câu hỏi cho học sinh.",
+                                        "list": [
+                                            {
+                                                "text": "<i>Chào các con! Các con khỏe không? &#x02192; Con khỏe."
+                                            },
+                                            {
+                                                "text": "<i>Các con ăn sáng chưa &#x02192; Con ăn rồi."
+                                            },
+                                            {
+                                                "text": "<i>Bữa sáng, các con ăn gì? &#x02192; Con ăn bánh mì, bún, …"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên gợi ý để học sinh trả lời câu hỏi."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Agent M” Chant<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về nghề nghiệp.”</i>"
+                                    },
+                                    {
+                                        "text": "Phát bài hát:  <strong>“Agent M” Chant</strong>."
+                                    },
+                                    {
+                                        "text": "Mở phần đầu của bài hát từ “sẵn sàng” đến “người làm vườn”, nói học sinh lắng nghe bài hát."
+                                    },
+                                    {
+                                        "text": "Ở phần 2 của bài hát nơi lời bài hát lặp lại, dừng ở từ vựng và cho học sinh đứng lên và luyện tập các động tác bên dưới:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Job: </b> nắm tay"
+                                            },
+                                            {
+                                                "text": "<b>Mail carrier:  </b> vẫy tay"
+                                            },
+                                            {
+                                                "text": "<b>Police officer:  </b> giơ tay chào"
+                                            },
+                                            {
+                                                "text": "<b>Gardener:</b> giơ 2 tay"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở bài hát lần nữa. Để học sinh làm hành động theo bài hát. "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“Agent M” Storybook<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn</b>)."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách từ trang 1 đến trang 6 “<b>Agent M</b>” và nói học sinh lắng nghe câu chuyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách lại lần nữa, dừng ở từng trang từ 2 đến 6, giáo viên đọc và dạy từ vựng của bài học là từ <b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn.</b>"
+                                    },
+                                    {
+                                        "text": "Ví dụ:",
+                                        "list": [
+                                            {
+                                                "text": "Ở trang 2: Chỉ vào bức tranh và hỏi.",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Họ làm nghề gì? -> Họ có nghề nghiệp quan trọng.</i>."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Ở trang 3: Chỉ vào bức tranh và hỏi.",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Mimi làm nghề gì? &#x02192; Mimi là người làm vườn.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>Bada làm nghề gì? &#x02192; Bada là một cảnh sát.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>Abby làm nghề gì? &#x02192; Abby là người vận chuyển thư.</i>"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Cho học sinh lặp lại từ vựng: <b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn.</b>"
+                                            },
+                                            {
+                                                "text": "Nói học sinh lặp lại từ vựng đồng thanh và cá nhân vài lần và sửa phát âm của học sinh."
+                                            },
+                                            {
+                                                "text": "Làm tương tự ở trang 4, 5 và 6."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập từ vựng.",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn</b>)."
+                                            },
+                                            {
+                                                "text": "Giáo viên chỉ vào các nhân vật (Mimi, Bada, Abby) và nói học sinh nói nghề nghiệp của họ."
+                                            },
+                                            {
+                                                "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Từ vựng – Giúp đỡ cộng đồng 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào hình ảnh để lắng nghe và lặp lai từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Hình trượt – Người làm vườn, nghề nghiệp, người đưa thư, cảnh sát</strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh. "
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Trò chơi trí nhớ - Giúp đỡ cộng đồng 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và lật các tấm thẻ để tìm cặp hình ảnh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Nghề nghiệp - Giúp đỡ cộng đồng 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và câu hỏi và chọn đáp án đúng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và thả - Giúp đỡ cộng đồng 1 </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và ghép các bức tranh vào đúng từ vựng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Sắp xếp chữ cái - Giúp đỡ cộng đồng 1 </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và sắp xếp chữ cái theo đúng thứ tự."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <b>“Agent M”</b>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn vocabulary of professions: <b>job, mail carrier, gardener, police officer.</b>"
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop other skills: ",
-            "list": [
-              {
-                "text": "<strong>Cognitive Development: </strong> Inquiry into Society – students classify the characters."
-              },
-              {
-                "text": "<strong>Gross motor skills: </strong> movement following the song, hold hands, wave hands, raise the hand to salute, raise two hands."
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> play interactive games."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U4_LP21_Community helps 1"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Teacher welcomes the class and asks students questions:",
-                    "list": [
-                      {
-                        "text": "<i>Hello! How are you? &#x02192; I am fine."
-                      },
-                      {
-                        "text": "<i>Have you had breakfast? &#x02192; Yes, I have."
-                      },
-                      {
-                        "text": "<i>What do you eat for breakfast? &#x02192; I eat bread, noodle, etc."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Teacher elicits the answer from students."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Agent M” Chant<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to a song"
-                  },
-                  {
-                    "text": "Teacher says: <i>“We will sing a song about professions”</i>"
-                  },
-                  {
-                    "text": "Play the song (chant): “<strong>Agent M”</strong>"
-                  },
-                  {
-                    "text": "Play the first part of the song from “ready” to “gardener”, ask students to listen to the song."
-                  },
-                  {
-                    "text": "At the second part of the song where the lyric is repeated, pause at the keywords and have students stand up and practice the actions as below:",
-                    "list": [
-                      {
-                        "text": "<b>Job: </b>hold hands."
-                      },
-                      {
-                        "text": "<b>Mail carrier:</b> wave hands."
-                      },
-                      {
-                        "text": "<b>Police officer: </b>raise the hand to salute."
-                      },
-                      {
-                        "text": "<b>Gardener:</b> raise two hands."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Teacher plays a song again, have the students make the actions along the video."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Agent M” Storybook<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>job, mail carrier, police officer, gardener</b>)."
-                  },
-                  {
-                    "text": "Teacher plays of the storybook, page 1 to 6 of  “Agent M” storybook and asks students to listen to the story."
-                  },
-                  {
-                    "text": "Teacher plays the storybook again, pauses at each page from 2 to 6, teacher reads and teaches the keywords of the day (<b>job, mail carrier, police officer, gardener</b>)."
-                  },
-                  {
-                    "text": "For example: ",
-                    "list": [
-                      {
-                        "text": "At page 2: Point to the pictures and ask:",
-                        "list": [
-                          {
-                            "text": "<i>What jobs do they have?  &#x02192; They have important jobs.</i>"
-                          }
-                        ]
-                      },
-                      {
-                        "text": "At page 3: Point to the pictures and ask:",
-                        "list": [
-                          {
-                            "text": "<i>What does Mimi do? &#x02192; Mimi is a gardener.</i>"
-                          },
-                          {
-                            "text": "<i>What does Bada do? &#x02192; Bada is a police officer.</i>"
-                          },
-                          {
-                            "text": "<i>What does Abby do? &#x02192; Abby is a mail carrier.</i>"
-                          }
-                        ]
-                      },
-                      {
-                        "text": "Have students repeat the keyword: <b>job, gardener, police officer, mail carrier.</b>"
-                      },
-                      {
-                        "text": "Ask students to repeat the keywords several times in chorus and individually and correct their pronunciation."
-                      },
-                      {
-                        "text": "Do the same in page 4, 5 and 6."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play a game to review the keywords",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at a random page containing the day’s keywords (<b>job, gardener, police officer, mail carrier</b>)."
-                      },
-                      {
-                        "text": "Point to the characters (Mimi, Bada, Abby) and ask students to say their jobs."
-                      },
-                      {
-                        "text": "Teacher asks students to repeat keywords several times."
-                      },
-                      {
-                        "text": "Teacher corrects their pronunciation."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<strong>Keywords - Community Helps 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Card Slider - gardener, job, mail carrier, police officer </strong>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords. "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation. "
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Memory game - Community Helps 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and turn over the cards to find the pairs of pictures."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Job - Community Helps 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, look at the pictures and the questions and choose to correct answers."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag and drop - Community Helpers 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to the board and match the pictures into the correct words."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Arrange the letters - Community Helps 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to the board, look at the pictures and arrange the letters in the correct order."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song again  <strong>“Agent M”</strong>"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 4: NGHỀ NGHIỆP  ",
-      "lesson_name": "BÀI 21:  GIÚP ĐỠ CỘNG ĐỒNG 1.",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng về nghề nghiệp: nghề nghiệp, người vận chuyển thư, người làm vườn, cảnh sát."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kĩ năng khác: ",
-            "list": [
-              {
-                "text": "<strong>Giáo dục phát triển nhận thức: </strong> Khám phá xã hội – học sinh có thể phân loại nhân vật."
-              },
-              {
-                "text": "<strong>Kĩ năng vận đông thô:  </strong> vận động theo bài hát, nắm tay, vẫy tay, giơ tay chào, giơ 2 tay."
-              },
-              {
-                "text": "<strong>Kĩ năng vận động tinh:</strong> chơi trò chơi tương tác"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "KidsLoop CMS: 5-6_U4_LP21_Community helps 1."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giáo viên chào đón các học sinh vào lớp học và đặt câu hỏi cho học sinh.",
-                    "list": [
-                      {
-                        "text": "<i>Chào các con! Các con khỏe không? &#x02192; Con khỏe."
-                      },
-                      {
-                        "text": "<i>Các con ăn sáng chưa &#x02192; Con ăn rồi."
-                      },
-                      {
-                        "text": "<i>Bữa sáng, các con ăn gì? &#x02192; Con ăn bánh mì, bún, …"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên gợi ý để học sinh trả lời câu hỏi."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Agent M” Chant<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về nghề nghiệp.”</i>"
-                  },
-                  {
-                    "text": "Phát bài hát:  <strong>“Agent M” Chant</strong>."
-                  },
-                  {
-                    "text": "Mở phần đầu của bài hát từ “sẵn sàng” đến “người làm vườn”, nói học sinh lắng nghe bài hát."
-                  },
-                  {
-                    "text": "Ở phần 2 của bài hát nơi lời bài hát lặp lại, dừng ở từ vựng và cho học sinh đứng lên và luyện tập các động tác bên dưới:",
-                    "list": [
-                      {
-                        "text": "<b>Job: </b> nắm tay"
-                      },
-                      {
-                        "text": "<b>Mail carrier:  </b> vẫy tay"
-                      },
-                      {
-                        "text": "<b>Police officer:  </b> giơ tay chào"
-                      },
-                      {
-                        "text": "<b>Gardener:</b> giơ 2 tay"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở bài hát lần nữa. Để học sinh làm hành động theo bài hát. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“Agent M” Storybook<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn</b>)."
-                  },
-                  {
-                    "text": "Giáo viên mở sách từ trang 1 đến trang 6 “<b>Agent M</b>” và nói học sinh lắng nghe câu chuyện."
-                  },
-                  {
-                    "text": "Giáo viên mở sách lại lần nữa, dừng ở từng trang từ 2 đến 6, giáo viên đọc và dạy từ vựng của bài học là từ <b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn.</b>"
-                  },
-                  {
-                    "text": "Ví dụ:",
-                    "list": [
-                      {
-                        "text": "Ở trang 2: Chỉ vào bức tranh và hỏi.",
-                        "list": [
-                          {
-                            "text": "<i>Họ làm nghề gì? -> Họ có nghề nghiệp quan trọng.</i>."
-                          }
-                        ]
-                      },
-                      {
-                        "text": "Ở trang 3: Chỉ vào bức tranh và hỏi.",
-                        "list": [
-                          {
-                            "text": "<i>Mimi làm nghề gì? &#x02192; Mimi là người làm vườn.</i>"
-                          },
-                          {
-                            "text": "<i>Bada làm nghề gì? &#x02192; Bada là một cảnh sát.</i>"
-                          },
-                          {
-                            "text": "<i>Abby làm nghề gì? &#x02192; Abby là người vận chuyển thư.</i>"
-                          }
-                        ]
-                      },
-                      {
-                        "text": "Cho học sinh lặp lại từ vựng: <b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn.</b>"
-                      },
-                      {
-                        "text": "Nói học sinh lặp lại từ vựng đồng thanh và cá nhân vài lần và sửa phát âm của học sinh."
-                      },
-                      {
-                        "text": "Làm tương tự ở trang 4, 5 và 6."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập từ vựng.",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>nghề nghiệp, người vận chuyển thư, cảnh sát, người làm vườn</b>)."
-                      },
-                      {
-                        "text": "Giáo viên chỉ vào các nhân vật (Mimi, Bada, Abby) và nói học sinh nói nghề nghiệp của họ."
-                      },
-                      {
-                        "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Từ vựng – Giúp đỡ cộng đồng 1</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào hình ảnh để lắng nghe và lặp lai từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Hình trượt – Người làm vườn, nghề nghiệp, người đưa thư, cảnh sát</strong>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh. "
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Trò chơi trí nhớ - Giúp đỡ cộng đồng 1</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và lật các tấm thẻ để tìm cặp hình ảnh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Nghề nghiệp - Giúp đỡ cộng đồng 1</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và câu hỏi và chọn đáp án đúng."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và thả - Giúp đỡ cộng đồng 1 </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và ghép các bức tranh vào đúng từ vựng."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Sắp xếp chữ cái - Giúp đỡ cộng đồng 1 </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và sắp xếp chữ cái theo đúng thứ tự."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <b>“Agent M”</b>."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

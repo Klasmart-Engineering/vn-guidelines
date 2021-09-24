@@ -1,49 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
-@import "fonts";
-@import "b4-custom";
-@import "~bootstrap";
-@import "~bootstrap-vue";
-@import "variables";
-@import "common";
-@import "modules/guidelines";
-@import "modules/home";
-@import "modules/guidelines-create";
-@import "modules/guidelines-b";
+@import 'fonts';
+@import 'b4-custom';
+@import '~bootstrap';
+@import '~bootstrap-vue';
+@import 'variables';
+@import 'common';
+@import 'modules/guidelines';
+@import 'modules/home';
+@import 'modules/guidelines-create';
+@import 'modules/guidelines-b';
 
 body {
-  font-family: $font-family-sans-serif;
+    font-family: $font-family-sans-serif;
 
-  @include media-breakpoint-down(sm) {
-    width: 100%;
-    overflow: hidden;
+    @include media-breakpoint-down(sm) {
+        width: 100%;
+        overflow: hidden;
 
-    &:before, &:after {
-      content: '';
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+        &:before,
+        &:after {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        &:before {
+            background-color: #fff;
+            z-index: 1000;
+            background-image: url('../img/kl-logo.svg');
+            background-position: calc(50% + 10px) calc(50% - 40px);
+            background-repeat: no-repeat;
+            background-size: auto 50px;
+        }
+
+        &:after {
+            content: 'Not support on mobile...';
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            z-index: 1001;
+            color: $primary-color;
+        }
     }
-
-    &:before {
-      background-color: #fff;
-      z-index: 1000;
-      background-image: url("../img/kl-logo.svg");
-      background-position: calc(50% + 10px) calc(50% - 40px);
-      background-repeat: no-repeat;
-      background-size: auto 50px;
-    }
-
-    &:after {
-      content: 'Not support on mobile...';
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: bold;
-      z-index: 1001;
-      color: $primary-color;
-    }
-  }
 }

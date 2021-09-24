@@ -1,493 +1,493 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 2: MY FAMILY",
-      "lesson_name": "LESSON 8: MY FAMILY 2",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 years old"
+            "lang": "en",
+            "unit": "UNIT 2: MY FAMILY",
+            "lesson_name": "LESSON 8: MY FAMILY 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn vocabulary about family: daddy, mommy, brother, sister, family."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills"
+                    },
+                    {
+                        "text": "Develop the other skills:",
+                        "list": [
+                            {
+                                "text": "<strong>Socio - emotional development:</strong> students recognize self as part of a family."
+                            },
+                            {
+                                "text": "<strong>Gross motor skill:</strong> movement following the song: show left hand, show right hand, touch the left hand on the right chest, touch the right hand on the left chest, make the heart shape by hands."
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> interactive games"
+                            },
+                            {
+                                "text": "<b>Aesthetic development:</b> develop creative through art activities, draw the family"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 4-5_U2_LP8_My family 2"
+                    },
+                    {
+                        "text": "A4 white paper, pencils, crayons."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students <i>“Hello”</i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with the sentence <i>“Nice to meet you ___”</i> and ask students to repeat this sentence."
+                                    },
+                                    {
+                                        "text": "Review names of Badanamu characters if necessary."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "Chant “The Penguins family”<br/><i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by reviewing the song."
+                                    },
+                                    {
+                                        "text": "Play the song <b>“The Penguins family”</b>, pause at the keywords (mommy, daddy, brother, sister, family) and review the actions below.",
+                                        "list": [
+                                            {
+                                                "text": "<b>Mommy:</b> show the left hand."
+                                            },
+                                            {
+                                                "text": "<b>Daddy:</b> show the right hand."
+                                            },
+                                            {
+                                                "text": "<b>Brother:</b> touch the left hand on the right chest."
+                                            },
+                                            {
+                                                "text": "<b>Sister:</b> touch the right hand on the left chest."
+                                            },
+                                            {
+                                                "text": "<b>Family:</b> say out loud the word “family” while the 2 hands are in the heart shape. "
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song again. Have the students make the actions along the video."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "Board book “The Penguin family”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Review the keywords <b>(daddy, mommy, brother, sister, family)</b>."
+                                    },
+                                    {
+                                        "text": "Play the story book <B>“The Penguin family”</b>, just look at the pictures and ask students <i>“who is sister / middle brother / big brother / mommy / daddy?”</i>. Invite students to point to the characters on the screen."
+                                    },
+                                    {
+                                        "text": "Teacher plays story book again, asks students to listen to the story, pauses at the keywords <b>(daddy, mommy, brother, sister, family)</b> and asks students to repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher instructs students to name their family members."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords - My Family </b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Flashcards - Family</strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
+                                    },
+                                    {
+                                        "text": "Record their voice and check the answers."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag and color – Family</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, place the stickers into the correct words and color the first letter of the words."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do (steam activities)",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "STEAM activity: <b>“Draw the family”</b>",
+                                "list": [
+                                    {
+                                        "text": "Work in individually"
+                                    },
+                                    {
+                                        "text": "Teacher prepares the A4 white paper, crayons, pencil for each student."
+                                    },
+                                    {
+                                        "text": "Teacher instructs students how draw a picture."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>How to do:</u>",
+                                "list": [
+                                    {
+                                        "text": "Ask students to draw a picture about their family."
+                                    },
+                                    {
+                                        "text": "Use the crayons to color the picture."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again <strong>“The Penguins family”</strong>"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA BÉ",
+            "lesson_name": "BÀI 8: GIA ĐÌNH CỦA BÉ 2",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng về gia đình: ba, mẹ, anh trai, em gái, gia đình."
+                    },
+                    {
+                        "text": "Phát triển kỹ năng nghe và nói"
+                    },
+                    {
+                        "text": "Phát triển các kỹ năng khác:",
+                        "list": [
+                            {
+                                "text": "<strong>Phát triển tình cảm và kĩ năng xã hội:</strong> học sinh tự nhận bản thân là một phần của gia đình."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc: giơ tay trái, giơ tay phải, lấy tay trái chạm vào ngực bên phải, lấy tay phải chạm vào ngực bên trái, tạo hình trái tim bằng tay. "
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
+                            },
+                            {
+                                "text": "<b>Giáo dục phát triển thẫm mĩ:</b> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, vẽ tranh gia đình."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 4-5_U2_LP8_My family 2"
+                    },
+                    {
+                        "text": "Giấy trắng A4, bút chì, bút màu sáp."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và nói học sinh lặp lại câu đó."
+                                    },
+                                    {
+                                        "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "Chant “The penguins family”<br/><i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Phát bài hát <B>“The penguins family”</b>, dừng ở từ vựng (mẹ, ba, anh trai, em gái, gia đình) và ôn tập các động tác bên dưới.",
+                                        "list": [
+                                            {
+                                                "text": "<b>Mommy:</b> giơ tay trái ra."
+                                            },
+                                            {
+                                                "text": "<b>Daddy:</b> giơ tay phải ra."
+                                            },
+                                            {
+                                                "text": "<b>Brother:</b> đưa tay trái chạm vào ngực bên phải."
+                                            },
+                                            {
+                                                "text": "<b>Sister:</b> đưa tay phải chạm vào ngực bên trái."
+                                            },
+                                            {
+                                                "text": "<b>Family:</b> đọc lớn từ “family” trong khi 2 tay tạo hình trái tim."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở lại bài hát lại lần nữa. Để học sinh làm hành động theo bài hát."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "Board book “The Penguin family”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Ôn tập từ vựng <b>(ba, mẹ, anh trai, em gái, gia đình)</b>."
+                                    },
+                                    {
+                                        "text": "Mở truyện <b>“The Penguin family”</b>, chỉ nhìn vào các bức tranh và hỏi học sinh <i>“Ai là em gái / anh kế / anh cả / mẹ / ba?”</i>. Mời học sinh chỉ vào các nhân vật trên màn hình."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở truyện lại lần nữa, yêu cầu học sinh lắng nghe truyện, dừng ở các từ vựng <b>(ba, mẹ, anh trai, em gái, gia đình)</b> và yêu cầu học sinh lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh đọc tên các thành viên trong gia đình mình."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Từ vựng – Gia đình của tôi</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh để lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Thẻ hình – Gia đình</strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
+                                    },
+                                    {
+                                        "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và tô màu </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, đặt hình dán vào đúng từ vựng và tô màu chữ cái đầu tiên của từ.  "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động khoa học nghệ thuật",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "Hoạt động Khoa học – Nghệ thuật: <b>“Vẽ tranh gia đình”</b>.",
+                                "list": [
+                                    {
+                                        "text": "Hoạt động cá nhân."
+                                    },
+                                    {
+                                        "text": "Giáo viên chuẩn bị giấy A4 trắng, bút chì, bút màu sáp."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh cách vẽ tranh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>Cách làm:</u>",
+                                "list": [
+                                    {
+                                        "text": "Nói học sinh vẽ tranh về gia đình của mình."
+                                    },
+                                    {
+                                        "text": "Sử dụng bút màu sáp để tô bức tranh."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Phát lại bài hát <strong>“The Penguins family”</strong>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn vocabulary about family: daddy, mommy, brother, sister, family."
-          },
-          {
-            "text": "Develop speaking and listening skills"
-          },
-          {
-            "text": "Develop the other skills:",
-            "list": [
-              {
-                "text": "<strong>Socio - emotional development:</strong> students recognize self as part of a family."
-              },
-              {
-                "text": "<strong>Gross motor skill:</strong> movement following the song: show left hand, show right hand, touch the left hand on the right chest, touch the right hand on the left chest, make the heart shape by hands."
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> interactive games"
-              },
-              {
-                "text": "<b>Aesthetic development:</b> develop creative through art activities, draw the family"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U2_LP8_My family 2"
-          },
-          {
-            "text": "A4 white paper, pencils, crayons."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Greet students <i>“Hello”</i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with the sentence <i>“Nice to meet you ___”</i> and ask students to repeat this sentence."
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "Chant “The Penguins family”<br/><i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by reviewing the song."
-                  },
-                  {
-                    "text": "Play the song <b>“The Penguins family”</b>, pause at the keywords (mommy, daddy, brother, sister, family) and review the actions below.",
-                    "list": [
-                      {
-                        "text": "<b>Mommy:</b> show the left hand."
-                      },
-                      {
-                        "text": "<b>Daddy:</b> show the right hand."
-                      },
-                      {
-                        "text": "<b>Brother:</b> touch the left hand on the right chest."
-                      },
-                      {
-                        "text": "<b>Sister:</b> touch the right hand on the left chest."
-                      },
-                      {
-                        "text": "<b>Family:</b> say out loud the word “family” while the 2 hands are in the heart shape. "
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song again. Have the students make the actions along the video."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "Board book “The Penguin family”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Review the keywords <b>(daddy, mommy, brother, sister, family)</b>."
-                  },
-                  {
-                    "text": "Play the story book <B>“The Penguin family”</b>, just look at the pictures and ask students <i>“who is sister / middle brother / big brother / mommy / daddy?”</i>. Invite students to point to the characters on the screen."
-                  },
-                  {
-                    "text": "Teacher plays story book again, asks students to listen to the story, pauses at the keywords <b>(daddy, mommy, brother, sister, family)</b> and asks students to repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher instructs students to name their family members."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords - My Family </b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Flashcards - Family</strong>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
-                  },
-                  {
-                    "text": "Record their voice and check the answers."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag and color – Family</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, place the stickers into the correct words and color the first letter of the words."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Do (steam activities)",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "text": "STEAM activity: <b>“Draw the family”</b>",
-                "list": [
-                  {
-                    "text": "Work in individually"
-                  },
-                  {
-                    "text": "Teacher prepares the A4 white paper, crayons, pencil for each student."
-                  },
-                  {
-                    "text": "Teacher instructs students how draw a picture."
-                  }
-                ]
-              },
-              {
-                "text": "<u>How to do:</u>",
-                "list": [
-                  {
-                    "text": "Ask students to draw a picture about their family."
-                  },
-                  {
-                    "text": "Use the crayons to color the picture."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song again <strong>“The Penguins family”</strong>"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA BÉ",
-      "lesson_name": "BÀI 8: GIA ĐÌNH CỦA BÉ 2",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng về gia đình: ba, mẹ, anh trai, em gái, gia đình."
-          },
-          {
-            "text": "Phát triển kỹ năng nghe và nói"
-          },
-          {
-            "text": "Phát triển các kỹ năng khác:",
-            "list": [
-              {
-                "text": "<strong>Phát triển tình cảm và kĩ năng xã hội:</strong> học sinh tự nhận bản thân là một phần của gia đình."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc: giơ tay trái, giơ tay phải, lấy tay trái chạm vào ngực bên phải, lấy tay phải chạm vào ngực bên trái, tạo hình trái tim bằng tay. "
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
-              },
-              {
-                "text": "<b>Giáo dục phát triển thẫm mĩ:</b> thể hiện sự sáng tạo khi tham gia các hoạt động nghệ thuật, vẽ tranh gia đình."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U2_LP8_My family 2"
-          },
-          {
-            "text": "Giấy trắng A4, bút chì, bút màu sáp."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và nói học sinh lặp lại câu đó."
-                  },
-                  {
-                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "Chant “The penguins family”<br/><i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Phát bài hát <B>“The penguins family”</b>, dừng ở từ vựng (mẹ, ba, anh trai, em gái, gia đình) và ôn tập các động tác bên dưới.",
-                    "list": [
-                      {
-                        "text": "<b>Mommy:</b> giơ tay trái ra."
-                      },
-                      {
-                        "text": "<b>Daddy:</b> giơ tay phải ra."
-                      },
-                      {
-                        "text": "<b>Brother:</b> đưa tay trái chạm vào ngực bên phải."
-                      },
-                      {
-                        "text": "<b>Sister:</b> đưa tay phải chạm vào ngực bên trái."
-                      },
-                      {
-                        "text": "<b>Family:</b> đọc lớn từ “family” trong khi 2 tay tạo hình trái tim."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở lại bài hát lại lần nữa. Để học sinh làm hành động theo bài hát."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "Board book “The Penguin family”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Ôn tập từ vựng <b>(ba, mẹ, anh trai, em gái, gia đình)</b>."
-                  },
-                  {
-                    "text": "Mở truyện <b>“The Penguin family”</b>, chỉ nhìn vào các bức tranh và hỏi học sinh <i>“Ai là em gái / anh kế / anh cả / mẹ / ba?”</i>. Mời học sinh chỉ vào các nhân vật trên màn hình."
-                  },
-                  {
-                    "text": "Giáo viên mở truyện lại lần nữa, yêu cầu học sinh lắng nghe truyện, dừng ở các từ vựng <b>(ba, mẹ, anh trai, em gái, gia đình)</b> và yêu cầu học sinh lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh đọc tên các thành viên trong gia đình mình."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Từ vựng – Gia đình của tôi</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh để lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Thẻ hình – Gia đình</strong>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
-                  },
-                  {
-                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và tô màu </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, đặt hình dán vào đúng từ vựng và tô màu chữ cái đầu tiên của từ.  "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hoạt động khoa học nghệ thuật",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "text": "Hoạt động Khoa học – Nghệ thuật: <b>“Vẽ tranh gia đình”</b>.",
-                "list": [
-                  {
-                    "text": "Hoạt động cá nhân."
-                  },
-                  {
-                    "text": "Giáo viên chuẩn bị giấy A4 trắng, bút chì, bút màu sáp."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh cách vẽ tranh."
-                  }
-                ]
-              },
-              {
-                "text": "<u>Cách làm:</u>",
-                "list": [
-                  {
-                    "text": "Nói học sinh vẽ tranh về gia đình của mình."
-                  },
-                  {
-                    "text": "Sử dụng bút màu sáp để tô bức tranh."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Phát lại bài hát <strong>“The Penguins family”</strong>."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }
