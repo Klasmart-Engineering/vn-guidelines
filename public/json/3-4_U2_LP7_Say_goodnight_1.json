@@ -1,571 +1,571 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UUNIT 2: MY FAMILY",
-      "lesson_name": "LESSON 7: SAY GOODNIGHT 1",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 years old"
+            "lang": "en",
+            "unit": "UUNIT 2: MY FAMILY",
+            "lesson_name": "LESSON 7: SAY GOODNIGHT 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "3-4 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn some vocabulary: Teddy Bear, wiggle, nose, toes, light, turn around, I love you."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop the other development skills:",
+                        "list": [
+                            {
+                                "text": "<strong>Emotional Development:</strong> students expresses positive feelings."
+                            },
+                            {
+                                "text": "<strong>Gross motor skill:</strong> movement following the song: wink, turn around, touch the nose, touch the ground, touch the toes, sit-down, stand up."
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 3-4_U2_LP7_Say goodnight 1."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students. “<i>Hello.</i>” Wave at students and encourage them to wave back to you as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Ask students <i>“What is your name?” </i> and encourage students to answer the question."
+                                    },
+                                    {
+                                        "text": "Review names of Badanamu characters if necessary."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Teacher(s) says: <i>“We will sing a song about Bada and teddy Bear go to sleep.”</i>"
+                                    },
+                                    {
+                                        "text": "Play the first part of the song of Teddy Bear, Teddy Bear, say goodnight from “Teddy bear” to “say goodnight”."
+                                    },
+                                    {
+                                        "text": "At the second part of the song where the lyric is repeated, pause at the keyword and have students stand up and practice the actions as below:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Teddy Bear, Teddy Bear:</b> wink."
+                                            },
+                                            {
+                                                "text": "<b>Turn around:</b> turn around."
+                                            },
+                                            {
+                                                "text": "<b>Wiggle your nose:</b> touch the nose."
+                                            },
+                                            {
+                                                "text": "<b>Touch the ground:</b> touch the ground."
+                                            },
+                                            {
+                                                "text": "<b>Touch your toes:</b> touch the toes."
+                                            },
+                                            {
+                                                "text": "<b>Turn off the light:</b> sit down."
+                                            },
+                                            {
+                                                "text": "<b>Say good night:</b> stand up."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song again. Have the students to make the actions along the video."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Teddy Bear, Teddy Bear, say goodnight” storybook<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>Teddy Bear, wiggle, nose, toes, light, turn around, I love you</b>)."
+                                    },
+                                    {
+                                        "text": "Play the storybook and ask students to repeat the title of the story “Teddy Bear, Teddy Bear, say goodnight”."
+                                    },
+                                    {
+                                        "text": "Teacher plays each page of the storybook “Teddy Bear, Teddy Bear, say goodnight” and asks students to listen the story."
+                                    },
+                                    {
+                                        "text": "Play the storybook again, from each page, teacher reads and teaches the keyword of the day (<b>Teddy Bear, wiggle, nose, toes, light, turn around, I love you</b>)."
+                                    },
+                                    {
+                                        "text": "For example:",
+                                        "list": [
+                                            {
+                                                "text": "At page 1: point to the picture and ask:",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Who’s this? &#x02192; This is Bada."
+                                                    },
+                                                    {
+                                                        "text": "<i>Who does Bada play with? &#x02192; Bada plays with Teddy bear."
+                                                    },
+                                                    {
+                                                        "text": "<i>What do Bada and Teddy bear do? &#x02192; Bada and Teddy bear turn around."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Have students repeat the sentence: “Teddy Bear, Teddy Bear, turn around”."
+                                            },
+                                            {
+                                                "text": "Invite student to repeat the sentence several times in chorus and individual. Correct their pronunciation if any."
+                                            },
+                                            {
+                                                "text": "Do the same in the next page."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Ask students to repeat keywords: teddy Bear, wiggle, nose, toes, light, turn around, I love you and correct their pronunciation."
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords. ",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book and stops at random pages that contain the day’s keywords."
+                                            },
+                                            {
+                                                "text": "Point to an image, ask students to say keywords."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<strong>Keywords - Say goodnight</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, touch to the images and listen to the keywords."
+                                    },
+                                    {
+                                        "text": "Ask students to repeat the keywords and correct their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Image slider - Say goodnight</strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, asks students to look at the pictures, listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Trace the lines - Toes, nose</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and draw the lines to match the image with the words."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Trace the lines – Teddy</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and draw the lines to match the dot to the other dot."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Teddy Bear, Teddy Bear, Say Goodnight - Match 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and drag the keywords from the left to match them with corresponding images on the right."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag & Drop - Teddy Bear, Teddy Bear, Say Goodnight</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and match the keywords into the correct order of the picture."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn some vocabulary: Teddy Bear, wiggle, nose, toes, light, turn around, I love you."
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop the other development skills:",
-            "list": [
-              {
-                "text": "<strong>Emotional Development:</strong> students expresses positive feelings."
-              },
-              {
-                "text": "<strong>Gross motor skill:</strong> movement following the song: wink, turn around, touch the nose, touch the ground, touch the toes, sit-down, stand up."
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 3-4_U2_LP7_Say goodnight 1."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
+            "lang": "vi",
+            "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA TÔI",
+            "lesson_name": "BÀI 7: NÓI CHÚC NGỦ NGON 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "3-4 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
                 "list": [
-                  {
-                    "text": "Greet students. “<i>Hello.</i>” Wave at students and encourage them to wave back to you as they repeat the greeting."
-                  },
-                  {
-                    "text": "Ask students <i>“What is your name?” </i> and encourage students to answer the question."
-                  },
-                  {
-                    "text": "Review names of Badanamu characters if necessary."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher(s) says: <i>“We will sing a song about Bada and teddy Bear go to sleep.”</i>"
-                  },
-                  {
-                    "text": "Play the first part of the song of Teddy Bear, Teddy Bear, say goodnight from “Teddy bear” to “say goodnight”."
-                  },
-                  {
-                    "text": "At the second part of the song where the lyric is repeated, pause at the keyword and have students stand up and practice the actions as below:",
-                    "list": [
-                      {
-                        "text": "<b>Teddy Bear, Teddy Bear:</b> wink."
-                      },
-                      {
-                        "text": "<b>Turn around:</b> turn around."
-                      },
-                      {
-                        "text": "<b>Wiggle your nose:</b> touch the nose."
-                      },
-                      {
-                        "text": "<b>Touch the ground:</b> touch the ground."
-                      },
-                      {
-                        "text": "<b>Touch your toes:</b> touch the toes."
-                      },
-                      {
-                        "text": "<b>Turn off the light:</b> sit down."
-                      },
-                      {
-                        "text": "<b>Say good night:</b> stand up."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song again. Have the students to make the actions along the video."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight” storybook<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>Teddy Bear, wiggle, nose, toes, light, turn around, I love you</b>)."
-                  },
-                  {
-                    "text": "Play the storybook and ask students to repeat the title of the story “Teddy Bear, Teddy Bear, say goodnight”."
-                  },
-                  {
-                    "text": "Teacher plays each page of the storybook “Teddy Bear, Teddy Bear, say goodnight” and asks students to listen the story."
-                  },
-                  {
-                    "text": "Play the storybook again, from each page, teacher reads and teaches the keyword of the day (<b>Teddy Bear, wiggle, nose, toes, light, turn around, I love you</b>)."
-                  },
-                  {
-                    "text": "For example:",
-                    "list": [
-                      {
-                        "text": "At page 1: point to the picture and ask:",
+                    {
+                        "text": "Học từ vựng: gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn."
+                    },
+                    {
+                        "text": "Phát triển kỹ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kỹ năng phát triển khác:",
                         "list": [
-                          {
-                            "text": "<i>Who’s this? &#x02192; This is Bada."
-                          },
-                          {
-                            "text": "<i>Who does Bada play with? &#x02192; Bada plays with Teddy bear."
-                          },
-                          {
-                            "text": "<i>What do Bada and Teddy bear do? &#x02192; Bada and Teddy bear turn around."
-                          }
+                            {
+                                "text": "<strong>Phát triển tình cảm:</strong> học sinh thể hiện cảm xúc tích cực."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc: nháy mắt, quay vòng tròn, chạm vào mũi, chạm xuống đất, chạm vào bàn chân, ngồi xuống, đứng lên."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
+                            }
                         ]
-                      },
-                      {
-                        "text": "Have students repeat the sentence: “Teddy Bear, Teddy Bear, turn around”."
-                      },
-                      {
-                        "text": "Invite student to repeat the sentence several times in chorus and individual. Correct their pronunciation if any."
-                      },
-                      {
-                        "text": "Do the same in the next page."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Ask students to repeat keywords: teddy Bear, wiggle, nose, toes, light, turn around, I love you and correct their pronunciation."
-                  },
-                  {
-                    "text": "Play a game to review the keywords. ",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at random pages that contain the day’s keywords."
-                      },
-                      {
-                        "text": "Point to an image, ask students to say keywords."
-                      }
-                    ]
-                  }
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
             },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<strong>Keywords - Say goodnight</strong>",
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
                 "list": [
-                  {
-                    "text": "Invite students to come to the board, touch to the images and listen to the keywords."
-                  },
-                  {
-                    "text": "Ask students to repeat the keywords and correct their pronunciation."
-                  }
+                    {
+                        "text": "KidsLoop CMS: 3-4_U2_LP7_Say goodnight 1."
+                    }
                 ]
-              },
-              {
-                "text": "<strong>Image slider - Say goodnight</strong>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcards, asks students to look at the pictures, listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Trace the lines - Toes, nose</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and draw the lines to match the image with the words."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Trace the lines – Teddy</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and draw the lines to match the dot to the other dot."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Teddy Bear, Teddy Bear, Say Goodnight - Match 1</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and drag the keywords from the left to match them with corresponding images on the right."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag & Drop - Teddy Bear, Teddy Bear, Say Goodnight</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and match the keywords into the correct order of the picture."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
             },
-            "right_content": [
-              {
+            "lessons": {
+                "title": "Tiến trình bài học",
                 "list": [
-                  {
-                    "text": "Play the song again <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh “<i>Xin chào</i>”. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Hỏi học sinh “<i>Con tên gì?</i>” và khuyến khích học sinh trả lời câu hỏi."
+                                    },
+                                    {
+                                        "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Teddy Bear, Teddy Bear, Say goodbye”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: “<i>Hôm nay chúng ta sẽ nghe một bài hát về Bada và gấu bông đi ngủ</i>”."
+                                    },
+                                    {
+                                        "text": "Phát phần 1 của bài hát “Teddy Bear, Teddy Bear, say goodnight” từ đầu “Teddy bear” đến “say goodnight”."
+                                    },
+                                    {
+                                        "text": "Trong phần 2 của bài hát khi lời bài hát được lặp lại, dừng bài hát ở những từ khóa và yêu cầu học sinh đứng lên và cùng tập các động tác cử động theo bài hát như bên dưới:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Teddy Bear, Teddy Bear:</b> nháy mắt."
+                                            },
+                                            {
+                                                "text": "<b>Turn around:</b> quay vòng tròn."
+                                            },
+                                            {
+                                                "text": "<b>Wiggle your nose:</b> chạm vào mũi."
+                                            },
+                                            {
+                                                "text": "<b>Touch the ground:</b> chạm đất."
+                                            },
+                                            {
+                                                "text": "<b>Touch your toes:</b> chạm vào đầu ngón chân."
+                                            },
+                                            {
+                                                "text": "<b>Turn off the light:</b> ngồi xuống."
+                                            },
+                                            {
+                                                "text": "<b>Say good night:</b> đứng lên."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở lại bài hát. Cho học sinh cùng thực hiện động tác theo bài hát."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>)."
+                                    },
+                                    {
+                                        "text": "Mở truyện và yêu cầu học sinh lặp lại tên của truyện “Teddy Bear, teddy Bear, say goodnight”."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách từng trang sách “Teddy Bear, teddy Bear, say goodnight”, và  yêu cầu học sinh lắng nghe câu chuyện.."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách lần nữa, ở mỗi trang sách, giáo viên đọc và dạy các từ khóa của ngày."
+                                    },
+                                    {
+                                        "text": "Ví dụ:",
+                                        "list": [
+                                            {
+                                                "text": "Ở trang 1: chỉ và hình và hỏi học sinh",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Đây là ai? &#x02192; Đây là Bada."
+                                                    },
+                                                    {
+                                                        "text": "<i>Bada chơi với ai? &#x02192; Bada chơi với gấu bông."
+                                                    },
+                                                    {
+                                                        "text": "<i>Bada và gấu bông làm gì? &#x02192; Bada và gấu bông quay vòng tròn."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Yêu cầu học sinh lặp lại câu: “<i>Teddy Bear, Teddy Bear, turn around</i>”."
+                                            },
+                                            {
+                                                "text": "Mời học sinh lặp đi lặp lại câu đó nhiều lần cả lớp và theo cá nhân. Chỉnh phát âm sai của học sinh nếu có."
+                                            },
+                                            {
+                                                "text": "Mở tiếp trang sách tiếp theo và tiếp tục dạy nội dung trong các trang sách."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Nói học sinh lặp lại từ vựng (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>) và sửa phát âm của học sinh."
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập từ vựng:",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>)."
+                                            },
+                                            {
+                                                "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Từ vựng – Chúc ngủ ngon </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, chạm vào hình ảnh và lắng nghe từ vựng."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh lặp lại từ vựng và sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Hình trượt – Chúc ngủ ngon </strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào các bức tranh, lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Đồ dường thẳng – ngón chân, mũi </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và vẽ các đường thẳng để nối hình ảnh với từ. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Đồ đường thẳng – gấu bông</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và vẽ các đường thẳng để nối từ điểm này tới điểm kia."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Gấu bông, gấu bông ngủ ngon – Ghép 1</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và kéo từ vựng từ bên trái để ghép với hình ảnh tương ứng ở bên phải. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và thả - gấu bông, gấu bông ngủ ngon</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và ghép từ vựng với đúng vị trí của bức tranh."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Phát lại bài hát <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA TÔI",
-      "lesson_name": "BÀI 7: NÓI CHÚC NGỦ NGON 1",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
+            }
         }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng: gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn."
-          },
-          {
-            "text": "Phát triển kỹ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kỹ năng phát triển khác:",
-            "list": [
-              {
-                "text": "<strong>Phát triển tình cảm:</strong> học sinh thể hiện cảm xúc tích cực."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo nhạc: nháy mắt, quay vòng tròn, chạm vào mũi, chạm xuống đất, chạm vào bàn chân, ngồi xuống, đứng lên."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "KidsLoop CMS: 3-4_U2_LP7_Say goodnight 1."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh “<i>Xin chào</i>”. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Hỏi học sinh “<i>Con tên gì?</i>” và khuyến khích học sinh trả lời câu hỏi."
-                  },
-                  {
-                    "text": "Ôn lại tên các nhân vật Badanamu nếu cần thiết."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Teddy Bear, Teddy Bear, Say goodbye”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: “<i>Hôm nay chúng ta sẽ nghe một bài hát về Bada và gấu bông đi ngủ</i>”."
-                  },
-                  {
-                    "text": "Phát phần 1 của bài hát “Teddy Bear, Teddy Bear, say goodnight” từ đầu “Teddy bear” đến “say goodnight”."
-                  },
-                  {
-                    "text": "Trong phần 2 của bài hát khi lời bài hát được lặp lại, dừng bài hát ở những từ khóa và yêu cầu học sinh đứng lên và cùng tập các động tác cử động theo bài hát như bên dưới:",
-                    "list": [
-                      {
-                        "text": "<b>Teddy Bear, Teddy Bear:</b> nháy mắt."
-                      },
-                      {
-                        "text": "<b>Turn around:</b> quay vòng tròn."
-                      },
-                      {
-                        "text": "<b>Wiggle your nose:</b> chạm vào mũi."
-                      },
-                      {
-                        "text": "<b>Touch the ground:</b> chạm đất."
-                      },
-                      {
-                        "text": "<b>Touch your toes:</b> chạm vào đầu ngón chân."
-                      },
-                      {
-                        "text": "<b>Turn off the light:</b> ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Say good night:</b> đứng lên."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở lại bài hát. Cho học sinh cùng thực hiện động tác theo bài hát."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“Teddy Bear, Teddy Bear, say goodnight”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>)."
-                  },
-                  {
-                    "text": "Mở truyện và yêu cầu học sinh lặp lại tên của truyện “Teddy Bear, teddy Bear, say goodnight”."
-                  },
-                  {
-                    "text": "Giáo viên mở sách từng trang sách “Teddy Bear, teddy Bear, say goodnight”, và  yêu cầu học sinh lắng nghe câu chuyện.."
-                  },
-                  {
-                    "text": "Giáo viên mở sách lần nữa, ở mỗi trang sách, giáo viên đọc và dạy các từ khóa của ngày."
-                  },
-                  {
-                    "text": "Ví dụ:",
-                    "list": [
-                      {
-                        "text": "Ở trang 1: chỉ và hình và hỏi học sinh",
-                        "list": [
-                          {
-                            "text": "<i>Đây là ai? &#x02192; Đây là Bada."
-                          },
-                          {
-                            "text": "<i>Bada chơi với ai? &#x02192; Bada chơi với gấu bông."
-                          },
-                          {
-                            "text": "<i>Bada và gấu bông làm gì? &#x02192; Bada và gấu bông quay vòng tròn."
-                          }
-                        ]
-                      },
-                      {
-                        "text": "Yêu cầu học sinh lặp lại câu: “<i>Teddy Bear, Teddy Bear, turn around</i>”."
-                      },
-                      {
-                        "text": "Mời học sinh lặp đi lặp lại câu đó nhiều lần cả lớp và theo cá nhân. Chỉnh phát âm sai của học sinh nếu có."
-                      },
-                      {
-                        "text": "Mở tiếp trang sách tiếp theo và tiếp tục dạy nội dung trong các trang sách."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Nói học sinh lặp lại từ vựng (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>) và sửa phát âm của học sinh."
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập từ vựng:",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>gấu bông, lắc lư, mũi, ngón chân, ánh sáng, quay vòng tròn, tôi yêu bạn</b>)."
-                      },
-                      {
-                        "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Từ vựng – Chúc ngủ ngon </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, chạm vào hình ảnh và lắng nghe từ vựng."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh lặp lại từ vựng và sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Hình trượt – Chúc ngủ ngon </strong>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào các bức tranh, lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Đồ dường thẳng – ngón chân, mũi </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và vẽ các đường thẳng để nối hình ảnh với từ. "
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Đồ đường thẳng – gấu bông</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và vẽ các đường thẳng để nối từ điểm này tới điểm kia."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Gấu bông, gấu bông ngủ ngon – Ghép 1</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và kéo từ vựng từ bên trái để ghép với hình ảnh tương ứng ở bên phải. "
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và thả - gấu bông, gấu bông ngủ ngon</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và ghép từ vựng với đúng vị trí của bức tranh."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Phát lại bài hát <strong>“Teddy Bear, Teddy Bear, say goodnight”</strong>."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh nói tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

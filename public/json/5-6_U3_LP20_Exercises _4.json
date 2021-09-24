@@ -1,536 +1,536 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 20: EXERCISES 4",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn vocabulary of movement: turn to left, turn to right, take a step back, hands up high, push-up, jumping jack, run."
-          },
-          {
-            "text": "Develop speaking and listening skills"
-          },
-          {
-            "text": "Develop the other skills: ",
-            "list": [
-              {
-                "text": "<strong>Cognitive Development:</strong> students understand that exercises is part of being healthy."
-              },
-              {
-                "text": "<strong>Gross motor skill:</strong> move along the song, do exercise with 5 postural exercises."
-              },
-              {
-                "text": "<strong>Fine motor skills:</strong> play interactive games."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U3_LP20: Exercise 4"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
+            "lang": "en",
+            "unit": "UNIT 3: MY SELF",
+            "lesson_name": "LESSON 20: EXERCISES 4",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
                 "list": [
-                  {
-                    "text": "Greet students <i>“Good morning/afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with <i>“How are you today?”</i>. Encourage students to reply back with <i>“I am ___ (good)”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Dance: Work on our fitness”<br/><i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Play the song (dance) : <b>“Work on our fitness”</b>."
-                  },
-                  {
-                    "text": "Ask students to listen and dance along."
-                  },
-                  {
-                    "text": "Teacher plays a song again, teacher pauses the song at the keywords and asks students to say the keywords <b>(turn to left, turn to right, take a step back, hands up high).</b>"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Slam dunk time! Board book”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Review keywords of the lesson <b>(push up, run, jumping jack)</b>."
-                  },
-                  {
-                    "text": "Before reading, play the story book at page 6, 7, 8 and have your students point out the keywords in the story and repeat the keywords. "
-                  },
-                  {
-                    "text": "Teacher plays the story book again, asks students to listen and clap their hands when they hear the keywords. "
-                  },
-                  {
-                    "text": "Ask questions and encourage students to answer in complete sentences. "
-                  },
-                  {
-                    "text": "For example: ",
-                    "list": [
-                      {
-                        "text": "<i>What can Pogo do? &#x02192; Pogo can do push-up.</i>"
-                      },
-                      {
-                        "text": "<i>Can Curly do push-up? &#x02192; Yes, he can.</i>"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<strong>Image slider - Exercise 2</strong>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcards, asks students to listen and repeat the keywords. "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Keywords - Exercises 3</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the keywords to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Pairing - Hands up high, Push-up, Run, Jumping jack </strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and drag the keywords from the left to match them with corresponding images on the right."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Choose the correct answers - Exercises 4</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, look at the pictures and choose the correct answers."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Do",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "text": "Physical Activity:  <strong>“5 postural exercises”</strong>"
-              },
-              {
-                "list": [
-                  {
-                    "text": "Teacher asks students to stand up and use their chair to do exercise."
-                  },
-                  {
-                    "text": "Teacher instructs students to do exercises."
-                  },
-                  {
-                    "text": "<u>How to do</u>:",
-                    "list": [
-                      {
-                        "text": "<b>Stretch and relax: </b>Sit up tall in the chair with your feet on the floor. Raise both arms overhead, clasp hands and gently look up at your hands. Hold for 5 seconds. Slowly lower arms back to side, relax shoulders down and elongate neck holding for 5 seconds. Repeat 3 times. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_1.png\"width=\"150\">"
-                      },
-                      {
-                        "text": "<b>Overhead stretch: </b> Sit up tall in the chair with your feet on the floor. Raise your left arm overhead. Reach up with your right hand and grab your left wrist. Gently pull your left arm and bend your trunk slightly to your right. Hold for 10 seconds. Lower your hands and repeat with the right arm.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_2.png\"width=\"150\">"
-                      },
-                      {
-                        "text": "<b>Dragonfly:</b> Sit up straight in the chair with your feet on the floor. Lift your arms up to shoulder height palms facing to the rear. Pinch your shoulder blades together pushing your arms backwards with elbows straight. Hold for 3 seconds. Return your arms to starting position at shoulders. Push back again holding for 3 seconds. Repeat 10 times.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_3.png\"width=\"150\">"
-                      },
-                      {
-                        "text": "<b>Reach and grab: </b> Sit up tall in the chair with your feet flat on the floor. Reach left hand up and behind the back (palm facing your back). Reach the right arm down and around to the back (palm facing out). Try to clasp your fingers together and hold for 5 seconds. Relax arms and switch lifting right arm up and back and left arm down and back. Repeat 2 times. If you cannot clasp the fingers together just reach the hands together.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_4.png\"width=\"150\">"
-                      },
-                      {
-                        "text": "<b>Twists: </b> Sit in the chair with your feet flat on the floor. Look over your right shoulder, reach your right hand behind the chair and your left hand to the right side of the chair. Hold this position for 10 seconds. Repeat to the left side and hold for 10 seconds.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_5.png\"width=\"150\">"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song again <strong>“Work on our fitness”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sources"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "https://www.yourtherapysource.com/files/Tip_Sheet_Freebie_Posture."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 20: TẬP THỂ DỤC 4",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng về sự vận động: quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao, hít đất, bật nhảy, chạy."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói"
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<strong>Phát triển nhận thức:</strong> học sinh hiểu rằng tập thể dục là một phần để trở nên khỏe mạnh."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát, tập thể dục với bài tập 5 tư thế."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "KidsLoop CMS: 5-6_U3_LP20_Exercise 4"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Chào buổi sáng/chiều”</i>. Vẫy tay với học sinh và khuyến khích các con vẫy tay lại với giáo viên đồng thời lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với câu <i>“Bạn có khỏe không?”</i>. Khuyến khích học sinh trả lời lại <i>“Con …(khỏe)”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Dance: Work on our fitness”<br/><i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Phát bài hát:  <b>“Work on our fitness”.</b>"
-                  },
-                  {
-                    "text": "Nói học sinh lắng nghe và nhảy theo bài hát."
-                  },
-                  {
-                    "text": "Giáo viên mở bài hát lại lần nữa, giáo viên dừng nhạc ở từ vựng và nói học sinh đọc từ vựng <b>(quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao)</b>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“Slam dunk time! Board book”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Ôn tập từ vựng của bài học <b>(hít đất, chạy, bật nhảy)</b>."
-                  },
-                  {
-                    "text": "Trước khi đọc, mở câu chuyện ở trang 6, 7, 8 và để học sinh chỉ vào từ vựng trong câu chuyện và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên mở câu chuyện lại lần nữa, nói học sinh lắng nghe và vỗ tay khi các con nghe thấy từ vựng."
-                  },
-                  {
-                    "text": "Đặt câu hỏi và khuyến khích học sinh trả lời câu hoàn chỉnh."
-                  },
-                  {
-                    "text": "Ví dụ:",
-                    "list": [
-                      {
-                        "text": "Ở trang 6: Chỉ vào bức tranh và hỏi.",
+                    {
+                        "text": "Learn vocabulary of movement: turn to left, turn to right, take a step back, hands up high, push-up, jumping jack, run."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills"
+                    },
+                    {
+                        "text": "Develop the other skills: ",
                         "list": [
-                          {
-                            "text": "<i>Pogo có thể làm gì? -> Pogo có thể hít đất</i>."
-                          },
-                          {
-                            "text": "<i>Curly có thể hít đất không? -> Có, cậu ấy có thể hít đất.</i>"
-                          }
+                            {
+                                "text": "<strong>Cognitive Development:</strong> students understand that exercises is part of being healthy."
+                            },
+                            {
+                                "text": "<strong>Gross motor skill:</strong> move along the song, do exercise with 5 postural exercises."
+                            },
+                            {
+                                "text": "<strong>Fine motor skills:</strong> play interactive games."
+                            }
                         ]
-                      }
-                    ]
-                  }
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>5 phút</i>"
             },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Hình trượt – Tập thể dục 2 </strong>",
+            "materials": {
+                "title": "Materials",
                 "list": [
-                  {
-                    "text": "Giáo viên mở thẻ hình, yêu cầu học sinh lắng nghe và lặp lại từ vựng.  "
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh. "
-                  }
+                    {
+                        "text": "Kidsloop CMS: 5-6_U3_LP20: Exercise 4"
+                    }
                 ]
-              },
-              {
-                "text": "<strong>Từ vựng - Tập thể dục 3</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào từ vựng để lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Ghép – giơ tay lên cai, hít đất, chạy, lùi 1 bước </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và kéo từ vựng từ bên trái để ghép với hình tương ứng ở bên phải."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Chọn đáp án đúng - Tập thể dục 4</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào các bức tranh và chọn đáp án đúng."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hoạt động",
-              "text": "<i>20 mins</i>"
             },
-            "right_content": [
-              {
-                "text": "Hoạt động thể chất:  <strong>“5 bài tập tư thế”</strong>"
-              },
-              {
+            "lessons": {
+                "title": "Lesson Flow",
                 "list": [
-                  {
-                    "text": "Giáo viên nói học sinh đứng dậy và sử dụng ghế của các con để tập thể dục."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh tập thể dục."
-                  }
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students <i>“Good morning/afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with <i>“How are you today?”</i>. Encourage students to reply back with <i>“I am ___ (good)”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Dance: Work on our fitness”<br/><i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Play the song (dance) : <b>“Work on our fitness”</b>."
+                                    },
+                                    {
+                                        "text": "Ask students to listen and dance along."
+                                    },
+                                    {
+                                        "text": "Teacher plays a song again, teacher pauses the song at the keywords and asks students to say the keywords <b>(turn to left, turn to right, take a step back, hands up high).</b>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Slam dunk time! Board book”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Review keywords of the lesson <b>(push up, run, jumping jack)</b>."
+                                    },
+                                    {
+                                        "text": "Before reading, play the story book at page 6, 7, 8 and have your students point out the keywords in the story and repeat the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher plays the story book again, asks students to listen and clap their hands when they hear the keywords. "
+                                    },
+                                    {
+                                        "text": "Ask questions and encourage students to answer in complete sentences. "
+                                    },
+                                    {
+                                        "text": "For example: ",
+                                        "list": [
+                                            {
+                                                "text": "<i>What can Pogo do? &#x02192; Pogo can do push-up.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Can Curly do push-up? &#x02192; Yes, he can.</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<strong>Image slider - Exercise 2</strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, asks students to listen and repeat the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Keywords - Exercises 3</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the keywords to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Pairing - Hands up high, Push-up, Run, Jumping jack </strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and drag the keywords from the left to match them with corresponding images on the right."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Choose the correct answers - Exercises 4</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, look at the pictures and choose the correct answers."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "Physical Activity:  <strong>“5 postural exercises”</strong>"
+                            },
+                            {
+                                "list": [
+                                    {
+                                        "text": "Teacher asks students to stand up and use their chair to do exercise."
+                                    },
+                                    {
+                                        "text": "Teacher instructs students to do exercises."
+                                    },
+                                    {
+                                        "text": "<u>How to do</u>:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Stretch and relax: </b>Sit up tall in the chair with your feet on the floor. Raise both arms overhead, clasp hands and gently look up at your hands. Hold for 5 seconds. Slowly lower arms back to side, relax shoulders down and elongate neck holding for 5 seconds. Repeat 3 times. <img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_1.png\"width=\"150\">"
+                                            },
+                                            {
+                                                "text": "<b>Overhead stretch: </b> Sit up tall in the chair with your feet on the floor. Raise your left arm overhead. Reach up with your right hand and grab your left wrist. Gently pull your left arm and bend your trunk slightly to your right. Hold for 10 seconds. Lower your hands and repeat with the right arm.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_2.png\"width=\"150\">"
+                                            },
+                                            {
+                                                "text": "<b>Dragonfly:</b> Sit up straight in the chair with your feet on the floor. Lift your arms up to shoulder height palms facing to the rear. Pinch your shoulder blades together pushing your arms backwards with elbows straight. Hold for 3 seconds. Return your arms to starting position at shoulders. Push back again holding for 3 seconds. Repeat 10 times.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_3.png\"width=\"150\">"
+                                            },
+                                            {
+                                                "text": "<b>Reach and grab: </b> Sit up tall in the chair with your feet flat on the floor. Reach left hand up and behind the back (palm facing your back). Reach the right arm down and around to the back (palm facing out). Try to clasp your fingers together and hold for 5 seconds. Relax arms and switch lifting right arm up and back and left arm down and back. Repeat 2 times. If you cannot clasp the fingers together just reach the hands together.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_4.png\"width=\"150\">"
+                                            },
+                                            {
+                                                "text": "<b>Twists: </b> Sit in the chair with your feet flat on the floor. Look over your right shoulder, reach your right hand behind the chair and your left hand to the right side of the chair. Hold this position for 10 seconds. Repeat to the left side and hold for 10 seconds.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_5.png\"width=\"150\">"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again <strong>“Work on our fitness”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sources"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "https://www.yourtherapysource.com/files/Tip_Sheet_Freebie_Posture."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              },
-              {
-                "text": "<u>Cách chơi: </u>"
-              },
-              {
+            }
+        },
+        {
+            "lang": "vi",
+            "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
+            "lesson_name": "BÀI 20: TẬP THỂ DỤC 4",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
                 "list": [
-                  {
-                    "text": "<b>Kéo dãn và thư giãn: </b> Ngồi thẳng lưng, đặt chân lên sàn. Nâng hai tay qua đầu, chắp tay và nhẹ nhàng nhìn lên hai bàn tay. Giữ trong 5 giây. Từ từ hạ tay xuống và thả lỏng vai và giữ cổ trong 5 giây. Lặp lại 3 lần.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_1.png\"width=\"150\">"
-                  },
-                  {
-                    "text": "<b>Duỗi căng tay qua đầu:  </b> Ngồi thẳng lưng với chân đặt lên sàn. Nâng cánh tay trái qua đầu. Đưa tay phải lên và nắm lấy cổ tay trái. Nhẹ nhàng kéo cánh tay trái và hơi uốn cong sang bên phải. Giữ trong 10 giây. Hạ tay xuống và lặp lại vơi cánh tay phải.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_2.png\"width=\"150\">"
-                  },
-                  {
-                    "text": "<b>Tư thế Chuồn chuồn: </b> Ngồi thẳng lưng với chân đặt lên sàn. Nâng cánh tay lên cao bằng vai, lòng bàn tay hướng về sau. Chụm hai vai lại, đẩy cánh tay về phía sau với khuỷu tay duỗi thẳng. Giữ trong 3 giây. Đưa cánh tay quay về vị trí ban đầu ngang vai. Đẩy lại và giữ trong 3 giây. Lặp lại 10 lần.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_3.png\"width=\"150\">"
-                  },
-                  {
-                    "text": "<b>Tiếp cận và nắm lấy:</b> Ngồi thẳng lưng với chân đặt lên sàn. Đưa tay trái lên và ra sau lưng (lòng bàn tay hướng về phía sau). Đưa cánh tay phải xuống và vòng ra sau (lòng bàn tay hướng ra ngoài). Cố gắng đan các ngón tay vào nhau và giữ trong 5 giây. Thư giãn cánh tay và chuyển đổi nâng cánh tay phải lên và ra sau và cánh tay trái xuống và trở lại. Lặp lại 2 lần. Nếu bạn không thể đan các ngón tay vào nhau, chỉ cần đưa hai bàn tay vào nhau.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_4.png\"width=\"150\">"
-                  },
-                  {
-                    "text": "<b>Xoắn: </b> Ngồi trên ghế với bàn chân đặt trên sàn. Nhìn qua vai phải, vươn tay phải ra sau ghế và tay trái để thành ghế phải. Giữ tư thế này trong 10 giây. Lặp lại với bên trái và giữ trong 10 giây.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_5.png\"width=\"150\">"
-                  }
+                    {
+                        "text": "Học từ vựng về sự vận động: quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao, hít đất, bật nhảy, chạy."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói"
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<strong>Phát triển nhận thức:</strong> học sinh hiểu rằng tập thể dục là một phần để trở nên khỏe mạnh."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát, tập thể dục với bài tập 5 tư thế."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> trò chơi tương tác"
+                            }
+                        ]
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
             },
-            "right_content": [
-              {
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
                 "list": [
-                  {
-                    "text": "Mở lại bài hát  <b>“Work on our fitness”</b>"
-                  },
-                  {
-                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
+                    {
+                        "text": "KidsLoop CMS: 5-6_U3_LP20_Exercise 4"
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Nguồn"
             },
-            "right_content": [
-              {
+            "lessons": {
+                "title": "Tiến trình bài học",
                 "list": [
-                  {
-                    "text": "https://www.yourtherapysource.com/files/Tip_Sheet_Freebie_Posture.pdf"
-                  }
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Chào buổi sáng/chiều”</i>. Vẫy tay với học sinh và khuyến khích các con vẫy tay lại với giáo viên đồng thời lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với câu <i>“Bạn có khỏe không?”</i>. Khuyến khích học sinh trả lời lại <i>“Con …(khỏe)”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Dance: Work on our fitness”<br/><i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Phát bài hát:  <b>“Work on our fitness”.</b>"
+                                    },
+                                    {
+                                        "text": "Nói học sinh lắng nghe và nhảy theo bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở bài hát lại lần nữa, giáo viên dừng nhạc ở từ vựng và nói học sinh đọc từ vựng <b>(quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao)</b>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“Slam dunk time! Board book”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Ôn tập từ vựng của bài học <b>(hít đất, chạy, bật nhảy)</b>."
+                                    },
+                                    {
+                                        "text": "Trước khi đọc, mở câu chuyện ở trang 6, 7, 8 và để học sinh chỉ vào từ vựng trong câu chuyện và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở câu chuyện lại lần nữa, nói học sinh lắng nghe và vỗ tay khi các con nghe thấy từ vựng."
+                                    },
+                                    {
+                                        "text": "Đặt câu hỏi và khuyến khích học sinh trả lời câu hoàn chỉnh."
+                                    },
+                                    {
+                                        "text": "Ví dụ:",
+                                        "list": [
+                                            {
+                                                "text": "Ở trang 6: Chỉ vào bức tranh và hỏi.",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Pogo có thể làm gì? -> Pogo có thể hít đất</i>."
+                                                    },
+                                                    {
+                                                        "text": "<i>Curly có thể hít đất không? -> Có, cậu ấy có thể hít đất.</i>"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Hình trượt – Tập thể dục 2 </strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở thẻ hình, yêu cầu học sinh lắng nghe và lặp lại từ vựng.  "
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Từ vựng - Tập thể dục 3</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào từ vựng để lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Ghép – giơ tay lên cai, hít đất, chạy, lùi 1 bước </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và kéo từ vựng từ bên trái để ghép với hình tương ứng ở bên phải."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Chọn đáp án đúng - Tập thể dục 4</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào các bức tranh và chọn đáp án đúng."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "Hoạt động thể chất:  <strong>“5 bài tập tư thế”</strong>"
+                            },
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giáo viên nói học sinh đứng dậy và sử dụng ghế của các con để tập thể dục."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh tập thể dục."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<u>Cách chơi: </u>"
+                            },
+                            {
+                                "list": [
+                                    {
+                                        "text": "<b>Kéo dãn và thư giãn: </b> Ngồi thẳng lưng, đặt chân lên sàn. Nâng hai tay qua đầu, chắp tay và nhẹ nhàng nhìn lên hai bàn tay. Giữ trong 5 giây. Từ từ hạ tay xuống và thả lỏng vai và giữ cổ trong 5 giây. Lặp lại 3 lần.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_1.png\"width=\"150\">"
+                                    },
+                                    {
+                                        "text": "<b>Duỗi căng tay qua đầu:  </b> Ngồi thẳng lưng với chân đặt lên sàn. Nâng cánh tay trái qua đầu. Đưa tay phải lên và nắm lấy cổ tay trái. Nhẹ nhàng kéo cánh tay trái và hơi uốn cong sang bên phải. Giữ trong 10 giây. Hạ tay xuống và lặp lại vơi cánh tay phải.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_2.png\"width=\"150\">"
+                                    },
+                                    {
+                                        "text": "<b>Tư thế Chuồn chuồn: </b> Ngồi thẳng lưng với chân đặt lên sàn. Nâng cánh tay lên cao bằng vai, lòng bàn tay hướng về sau. Chụm hai vai lại, đẩy cánh tay về phía sau với khuỷu tay duỗi thẳng. Giữ trong 3 giây. Đưa cánh tay quay về vị trí ban đầu ngang vai. Đẩy lại và giữ trong 3 giây. Lặp lại 10 lần.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_3.png\"width=\"150\">"
+                                    },
+                                    {
+                                        "text": "<b>Tiếp cận và nắm lấy:</b> Ngồi thẳng lưng với chân đặt lên sàn. Đưa tay trái lên và ra sau lưng (lòng bàn tay hướng về phía sau). Đưa cánh tay phải xuống và vòng ra sau (lòng bàn tay hướng ra ngoài). Cố gắng đan các ngón tay vào nhau và giữ trong 5 giây. Thư giãn cánh tay và chuyển đổi nâng cánh tay phải lên và ra sau và cánh tay trái xuống và trở lại. Lặp lại 2 lần. Nếu bạn không thể đan các ngón tay vào nhau, chỉ cần đưa hai bàn tay vào nhau.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_4.png\"width=\"150\">"
+                                    },
+                                    {
+                                        "text": "<b>Xoắn: </b> Ngồi trên ghế với bàn chân đặt trên sàn. Nhìn qua vai phải, vươn tay phải ra sau ghế và tay trái để thành ghế phải. Giữ tư thế này trong 10 giây. Lặp lại với bên trái và giữ trong 10 giây.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/04/Do_exercise_5.png\"width=\"150\">"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát  <b>“Work on our fitness”</b>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Nguồn"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "https://www.yourtherapysource.com/files/Tip_Sheet_Freebie_Posture.pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+            }
+        }
+    ]
 }

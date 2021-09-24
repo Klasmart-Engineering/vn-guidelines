@@ -1,526 +1,526 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 16: HEALTHY EATING 4",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 years old"
+            "lang": "en",
+            "unit": "UNIT 3: MY SELF",
+            "lesson_name": "LESSON 16: HEALTHY EATING 4",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn name of of food: cupcake, cookie, candy, blueberry, celery."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop the other skills:",
+                        "list": [
+                            {
+                                "text": "<b>Cognitive development:</b> students can identify the healthy food."
+                            },
+                            {
+                                "text": "<b>Gross motor skills:</b> movement following the song to clap the hands, jump up, sit down, thumb up."
+                            },
+                            {
+                                "text": "<b>Fine motor skills:</b> play interactive games."
+                            },
+                            {
+                                "text": "<b>Aesthetic Development:</b> make a healthy snack plate."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 4-5_U3_LP16_Healthy eating 4."
+                    },
+                    {
+                        "text": "Paper plate, glue, crayon, scissors, handout."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students <i>“Good morning / afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with <i>“How are you today?” </i> Encourage students to reply back with <i>“I am ___ (good).”</i>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Bada food patrol” Dance.<i><br/>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Play the <b>Dance: Bada food patrol</b>, pause at the keywords and review the actions:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Cupcake:</b> clap your hand."
+                                            },
+                                            {
+                                                "text": "<b>Cookie:</b> jump up."
+                                            },
+                                            {
+                                                "text": "<b>Candy:</b> sit down."
+                                            },
+                                            {
+                                                "text": "<b>Blueberry:</b> thumb up."
+                                            },
+                                            {
+                                                "text": "<b>Celery:</b> thumb up."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song again and have student move and dance along following the action above."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Bada food patrol” Boardbook<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Ask students to read the title of the story: Bada food patrol"
+                                    },
+                                    {
+                                        "text": "Play the story book, ask students to listen to the story."
+                                    },
+                                    {
+                                        "text": "Teacher instructs students to repeat each sentence of the story."
+                                    },
+                                    {
+                                        "text": "Ask students some questions:",
+                                        "list": [
+                                            {
+                                                "text": "<i>What food do you like?</i>"
+                                            },
+                                            {
+                                                "text": "<i>Is it a healthy food?</i>"
+                                            },
+                                            {
+                                                "text": "<i>What food do you often eat for breakfast?</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>5 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords - Healthy eating 2 </b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures and keywords to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<b>Flashcards - Healthy Eating 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
+                                    },
+                                    {
+                                        "text": "Record their voice and check the answers."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Matching - Healthy eating</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, drag and drop the stickers on the correct boxes."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Do",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "<b>STEAM activity: Healthy eating plate</b>",
+                                "list": [
+                                    {
+                                        "text": "Work in individually."
+                                    },
+                                    {
+                                        "text": "Teacher prepares the paper plate, crayon, scissors, glue and handout for each students."
+                                    },
+                                    {
+                                        "text": "Teacher instructs students how to make a healthy eating plate."
+                                    },
+                                    {
+                                        "text": "How to do:",
+                                        "list": [
+                                            {
+                                                "text": "Students choose 3 healthy snacks that they like in the handout and color it."
+                                            },
+                                            {
+                                                "text": "Cut out 3 healthy snacks and then stick it into the paper plate. "
+                                            },
+                                            {
+                                                "text": "Ask students to write their name on their plate.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/plate-1-e1621493414504.png\">"
+                                            },
+                                            {
+                                                "text": "After students complete their plate, teacher points to their plate and asks them to say their healthy nacks."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song <strong>“Bada food patrol”</strong> again."
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom."
+                                    },
+                                    {
+                                        "text": "Say goodbye to students."
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn name of of food: cupcake, cookie, candy, blueberry, celery."
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop the other skills:",
-            "list": [
-              {
-                "text": "<b>Cognitive development:</b> students can identify the healthy food."
-              },
-              {
-                "text": "<b>Gross motor skills:</b> movement following the song to clap the hands, jump up, sit down, thumb up."
-              },
-              {
-                "text": "<b>Fine motor skills:</b> play interactive games."
-              },
-              {
-                "text": "<b>Aesthetic Development:</b> make a healthy snack plate."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U3_LP16_Healthy eating 4."
-          },
-          {
-            "text": "Paper plate, glue, crayon, scissors, handout."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
+            "lang": "vi",
+            "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
+            "lesson_name": "BÀI 16: ĂN UỐNG KHỎE MẠNH 4",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ về tên thực phẩm: bánh xốp, bánh, kẹo, việt quất, rau cần."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<b>Phát triển nhận thức: </b> học sinh có thể xác định được thực phẩm lành mạnh."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, vỗ tay, nhảy lên, ngồi xuống, giơ ngón tay cái lên."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận động tinh:</b> qua các trò chơi tương tác."
+                            },
+                            {
+                                "text": "<b>Phát triển thẩm mỹ:</b> làm một đĩa thức ăn nhẹ tốt cho sức khỏe."
+                            }
+                        ]
+                    }
+                ]
             },
-            "right_content": [
-              {
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
                 "list": [
-                  {
-                    "text": "Greet students <i>“Good morning / afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with <i>“How are you today?” </i> Encourage students to reply back with <i>“I am ___ (good).”</i>"
-                  }
+                    {
+                        "text": "Kidsloop CMS: 4-5_U3_LP16_Healthy eating 4."
+                    },
+                    {
+                        "text": "Đĩa giấy, hồ dán, bút màu sáp, kéo, bản mẫu."
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Bada food patrol” Dance.<i><br/>5 mins</i>"
             },
-            "right_content": [
-              {
+            "lessons": {
+                "title": "Tiến trình bài học",
                 "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Play the <b>Dance: Bada food patrol</b>, pause at the keywords and review the actions:",
-                    "list": [
-                      {
-                        "text": "<b>Cupcake:</b> clap your hand."
-                      },
-                      {
-                        "text": "<b>Cookie:</b> jump up."
-                      },
-                      {
-                        "text": "<b>Candy:</b> sit down."
-                      },
-                      {
-                        "text": "<b>Blueberry:</b> thumb up."
-                      },
-                      {
-                        "text": "<b>Celery:</b> thumb up."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song again and have student move and dance along following the action above."
-                  }
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Chào buổi sáng / buổi chiều”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với câu “<i>Các con có khỏe không?</i>”. Khuyến khích học sinh trả lời lại với “<i>Con ___ (tốt).</i>”"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Bada food patrol” Dance”.<br/><i><i>5 phút</i></i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Phát bài <b>Dance: Bada food patrol</b>, dừng ở các từ vựng (<b>bánh xốp, bánh qui, kẹo, quả việt quất, cần tây</b>) và ôn tập các động tác:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Cupcake:</b> vỗ tay."
+                                            },
+                                            {
+                                                "text": "<b>Cookie:</b> nhảy lên."
+                                            },
+                                            {
+                                                "text": "<b>Candy:</b> ngồi xuống."
+                                            },
+                                            {
+                                                "text": "<b>Blueberry:</b> giơ ngón tay cái lên."
+                                            },
+                                            {
+                                                "text": "<b>Celery:</b> giơ ngón tay cái lên."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên mở lại bài hát và yêu cầu học sinh cùng thực hiện các động tác trên theo nhạc."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách ",
+                            "text": "“Bada food patrol” Boardbook<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Yêu cầu học sinh đọc tựa đề của truyện:<b> Bada food patrol</b>."
+                                    },
+                                    {
+                                        "text": "Mở truyện, yêu cầu học sinh lắng nghe truyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên hướng dẫn học sinh lặp lại từng câu của truyện."
+                                    },
+                                    {
+                                        "text": "Đặt vài câu hỏi cho học sinh:",
+                                        "list": [
+                                            {
+                                                "text": "<i>Con thích món ăn gì?</i>"
+                                            },
+                                            {
+                                                "text": "<i>Nó có phải là đồ ăn bổ dưỡng không?</i>"
+                                            },
+                                            {
+                                                "text": "<i>Các con thường ăn sáng đồ ăn gì?</i>"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>5 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<b>Từ vựng – Ăn uống lành mạnh 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh và từ vựng để lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<b>Thẻ hình – Ăn uống khỏe mạnh 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
+                                    },
+                                    {
+                                        "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Ghép - Ăn uống khỏe mạnh </b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, kéo và thả hình dán vào đúng ô trống."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hoạt động",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "text": "<b>Hoạt động Khoa học – Nghệ thuật: Đĩa thức ăn tốt cho sức khỏe.</b>",
+                                "list": [
+                                    {
+                                        "text": "Hoạt động cá nhân."
+                                    },
+                                    {
+                                        "text": "Giáo viên chuẩn bị đĩa giấy, màu sáp, kéo, hồ dán và bản mẫu cho từng học sinh."
+                                    },
+                                    {
+                                        "text": "Cách làm:",
+                                        "list": [
+                                            {
+                                                "text": "Học sinh chọn 3 món ăn lành mạnh mà bé thích từ bản mẫu và tô màu nó."
+                                            },
+                                            {
+                                                "text": "Cắt 3 món ăn đó ra và sau đó dán nó vào đĩa giấy. (Giáo viên có thể giúp học sinh cắt 3 món ăn từ bản mẫu)."
+                                            },
+                                            {
+                                                "text": "Nói học sinh ghi tên của mình lên đĩa.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/plate-1-e1621493414504.png\">"
+                                            },
+                                            {
+                                                "text": "Sau khi học sinh hoàn thành đĩa thức ăn, giáo viên chỉ vào đĩa của học sinh và nói các con nói về bữa ăn nhẹ của mình."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <strong>“Bada food patrol”</strong>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Bada food patrol” Boardbook<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Ask students to read the title of the story: Bada food patrol"
-                  },
-                  {
-                    "text": "Play the story book, ask students to listen to the story."
-                  },
-                  {
-                    "text": "Teacher instructs students to repeat each sentence of the story."
-                  },
-                  {
-                    "text": "Ask students some questions:",
-                    "list": [
-                      {
-                        "text": "<i>What food do you like?</i>"
-                      },
-                      {
-                        "text": "<i>Is it a healthy food?</i>"
-                      },
-                      {
-                        "text": "<i>What food do you often eat for breakfast?</i>"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>5 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords - Healthy eating 2 </b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures and keywords to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<b>Flashcards - Healthy Eating 2</b>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
-                  },
-                  {
-                    "text": "Record their voice and check the answers."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Matching - Healthy eating</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, drag and drop the stickers on the correct boxes."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Do",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "text": "<b>STEAM activity: Healthy eating plate</b>",
-                "list": [
-                  {
-                    "text": "Work in individually."
-                  },
-                  {
-                    "text": "Teacher prepares the paper plate, crayon, scissors, glue and handout for each students."
-                  },
-                  {
-                    "text": "Teacher instructs students how to make a healthy eating plate."
-                  },
-                  {
-                    "text": "How to do:",
-                    "list": [
-                      {
-                        "text": "Students choose 3 healthy snacks that they like in the handout and color it."
-                      },
-                      {
-                        "text": "Cut out 3 healthy snacks and then stick it into the paper plate. "
-                      },
-                      {
-                        "text": "Ask students to write their name on their plate.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/plate-1-e1621493414504.png\">"
-                      },
-                      {
-                        "text": "After students complete their plate, teacher points to their plate and asks them to say their healthy nacks."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song <strong>“Bada food patrol”</strong> again."
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom."
-                  },
-                  {
-                    "text": "Say goodbye to students."
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 16: ĂN UỐNG KHỎE MẠNH 4",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 tuổi"
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ về tên thực phẩm: bánh xốp, bánh, kẹo, việt quất, rau cần."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
+            "type": "others",
             "list": [
-              {
-                "text": "<b>Phát triển nhận thức: </b> học sinh có thể xác định được thực phẩm lành mạnh."
-              },
-              {
-                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, vỗ tay, nhảy lên, ngồi xuống, giơ ngón tay cái lên."
-              },
-              {
-                "text": "<b>Kĩ năng vận động tinh:</b> qua các trò chơi tương tác."
-              },
-              {
-                "text": "<b>Phát triển thẩm mỹ:</b> làm một đĩa thức ăn nhẹ tốt cho sức khỏe."
-              }
+                {
+                    "img": "https://kidsloop.vn/wp-content/uploads/2021/05/plate-2.png"
+                }
             ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U3_LP16_Healthy eating 4."
-          },
-          {
-            "text": "Đĩa giấy, hồ dán, bút màu sáp, kéo, bản mẫu."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Chào buổi sáng / buổi chiều”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với câu “<i>Các con có khỏe không?</i>”. Khuyến khích học sinh trả lời lại với “<i>Con ___ (tốt).</i>”"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Bada food patrol” Dance”.<br/><i><i>5 phút</i></i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Phát bài <b>Dance: Bada food patrol</b>, dừng ở các từ vựng (<b>bánh xốp, bánh qui, kẹo, quả việt quất, cần tây</b>) và ôn tập các động tác:",
-                    "list": [
-                      {
-                        "text": "<b>Cupcake:</b> vỗ tay."
-                      },
-                      {
-                        "text": "<b>Cookie:</b> nhảy lên."
-                      },
-                      {
-                        "text": "<b>Candy:</b> ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Blueberry:</b> giơ ngón tay cái lên."
-                      },
-                      {
-                        "text": "<b>Celery:</b> giơ ngón tay cái lên."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên mở lại bài hát và yêu cầu học sinh cùng thực hiện các động tác trên theo nhạc."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách ",
-              "text": "“Bada food patrol” Boardbook<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Yêu cầu học sinh đọc tựa đề của truyện:<b> Bada food patrol</b>."
-                  },
-                  {
-                    "text": "Mở truyện, yêu cầu học sinh lắng nghe truyện."
-                  },
-                  {
-                    "text": "Giáo viên hướng dẫn học sinh lặp lại từng câu của truyện."
-                  },
-                  {
-                    "text": "Đặt vài câu hỏi cho học sinh:",
-                    "list": [
-                      {
-                        "text": "<i>Con thích món ăn gì?</i>"
-                      },
-                      {
-                        "text": "<i>Nó có phải là đồ ăn bổ dưỡng không?</i>"
-                      },
-                      {
-                        "text": "<i>Các con thường ăn sáng đồ ăn gì?</i>"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>5 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<b>Từ vựng – Ăn uống lành mạnh 2</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh và từ vựng để lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<b>Thẻ hình – Ăn uống khỏe mạnh 2</b>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
-                  },
-                  {
-                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Ghép - Ăn uống khỏe mạnh </b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, kéo và thả hình dán vào đúng ô trống."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hoạt động",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "text": "<b>Hoạt động Khoa học – Nghệ thuật: Đĩa thức ăn tốt cho sức khỏe.</b>",
-                "list": [
-                  {
-                    "text": "Hoạt động cá nhân."
-                  },
-                  {
-                    "text": "Giáo viên chuẩn bị đĩa giấy, màu sáp, kéo, hồ dán và bản mẫu cho từng học sinh."
-                  },
-                  {
-                    "text": "Cách làm:",
-                    "list": [
-                      {
-                        "text": "Học sinh chọn 3 món ăn lành mạnh mà bé thích từ bản mẫu và tô màu nó."
-                      },
-                      {
-                        "text": "Cắt 3 món ăn đó ra và sau đó dán nó vào đĩa giấy. (Giáo viên có thể giúp học sinh cắt 3 món ăn từ bản mẫu)."
-                      },
-                      {
-                        "text": "Nói học sinh ghi tên của mình lên đĩa.<img src=\"https://kidsloop.vn/wp-content/uploads/2021/05/plate-1-e1621493414504.png\">"
-                      },
-                      {
-                        "text": "Sau khi học sinh hoàn thành đĩa thức ăn, giáo viên chỉ vào đĩa của học sinh và nói các con nói về bữa ăn nhẹ của mình."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <strong>“Bada food patrol”</strong>"
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "type": "others",
-      "list": [
-        {
-          "img": "https://kidsloop.vn/wp-content/uploads/2021/05/plate-2.png"
         }
-      ]
-    }
-  ]
+    ]
 }

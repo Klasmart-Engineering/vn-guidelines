@@ -1,161 +1,163 @@
 .page-guidelines {
-  &.new {
-    * {
-      line-height: 150%;
-    }
-
-    .module-title {
-      margin-top: 15px;
-      margin-bottom: 30px;
-
-      + .module-lesson-table {
-        margin-top: 0;
-      }
-
-      .lesson-unit {
-        margin-top: 0;
-      }
-
-      ul {
-        margin-top: 10px;
-
-        li {
-          width: 20%;
-
-          a {
-            width: 50px;
-            height: 50px;
-
-            img {
-              width: 20px;
-            }
-          }
-
-          span {
-            font-size: 16px;
-            line-height: 20px;
-            min-height: 0;
-          }
+    &.new {
+        * {
+            line-height: 150%;
         }
-      }
+
+        .module-title {
+            margin-top: 15px;
+            margin-bottom: 30px;
+
+            + .module-lesson-table {
+                margin-top: 0;
+            }
+
+            .lesson-unit {
+                margin-top: 0;
+            }
+
+            ul {
+                margin-top: 10px;
+
+                li {
+                    width: 20%;
+
+                    a {
+                        width: 50px;
+                        height: 50px;
+
+                        img {
+                            width: 20px;
+                        }
+                    }
+
+                    span {
+                        font-size: 16px;
+                        line-height: 20px;
+                        min-height: 0;
+                    }
+                }
+            }
+        }
+
+        .module-lesson-table {
+            .table-wrap {
+                box-shadow: 0 0 5px rgba(#000, 0.1);
+                border-radius: 20px;
+                overflow: hidden;
+            }
+
+            table {
+                tbody,
+                thead {
+                    tr {
+                        &.tr-thead {
+                            td {
+                                padding-top: 15px;
+                                padding-bottom: 15px;
+                            }
+                        }
+
+                        &.tr-tfoot {
+                            td {
+                                padding-top: 2.5px;
+                                padding-bottom: 2.5px;
+                            }
+                        }
+
+                        &.tr-thead.triple {
+                            td {
+                                border-radius: 0;
+                                text-align: center;
+
+                                ~ td {
+                                    border-left: solid 1px rgba(#fff, 0.3);
+                                }
+
+                                &:nth-of-type(1) {
+                                    border-radius: 18px 0 0 0;
+                                }
+
+                                &:nth-of-type(3) {
+                                    border-radius: 0 18px 0 0;
+                                }
+                            }
+                        }
+
+                        td {
+                            padding-top: 10px;
+                            padding-bottom: 10px;
+
+                            ul {
+                                margin: 0;
+
+                                li {
+                                    line-height: 150%;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                tbody {
+                    tr {
+                        td {
+                            vertical-align: top;
+
+                            ul {
+                                margin-top: 0;
+                            }
+
+                            * {
+                                ~ ul {
+                                    margin-top: 5px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            + .module-title {
+                margin-top: 30px;
+            }
+        }
     }
 
-    .module-lesson-table {
-      .table-wrap {
+    .objectives-table {
         box-shadow: 0 0 5px rgba(#000, 0.1);
         border-radius: 20px;
         overflow: hidden;
-      }
 
-      table {
-        tbody, thead {
-          tr {
-            &.tr-thead {
-              td {
-                padding-top: 15px;
-                padding-bottom: 15px;
-              }
-            }
+        > tbody {
+            > tr {
+                &.tr-thead {
+                    + tr {
+                        table {
+                            > tr {
+                                border-bottom: solid 1px
+                                    rgba($primary-color, 0.3);
 
-            &.tr-tfoot {
-              td {
-                padding-top: 2.5px;
-                padding-bottom: 2.5px;
-              }
-            }
+                                tr {
+                                    border-bottom: none;
+                                }
 
-            &.tr-thead.triple {
-              td {
-                border-radius: 0;
-                text-align: center;
-
-                ~ td {
-                  border-left: solid 1px rgba(#fff, 0.3);
+                                &:last-of-type {
+                                    border-bottom: none;
+                                }
+                            }
+                        }
+                    }
                 }
-
-                &:nth-of-type(1) {
-                  border-radius: 18px 0 0 0;
-                }
-
-                &:nth-of-type(3) {
-                  border-radius: 0 18px 0 0;
-                }
-              }
             }
-
-            td {
-              padding-top: 10px;
-              padding-bottom: 10px;
-
-              ul {
-                margin: 0;
-
-                li {
-                  line-height: 150%;
-                }
-              }
-            }
-          }
         }
+    }
 
-        tbody {
-          tr {
-            td {
-              vertical-align: top;
-
-              ul {
-                margin-top: 0;
-              }
-
-              * {
-                ~ ul {
-                  margin-top: 5px;
-                }
-              }
+    .module-title {
+        .lesson-unit {
+            &.blue {
+                color: $primary-color;
             }
-          }
         }
-      }
-
-      + .module-title {
-        margin-top: 30px;
-      }
     }
-  }
-
-  .objectives-table {
-    box-shadow: 0 0 5px rgba(#000, 0.1);
-    border-radius: 20px;
-    overflow: hidden;
-
-    > tbody {
-      > tr {
-        &.tr-thead {
-          + tr {
-            table {
-              > tr {
-                border-bottom: solid 1px rgba($primary-color, 0.3);
-
-                tr {
-                  border-bottom: none;
-                }
-
-                &:last-of-type {
-                  border-bottom: none;
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-
-  .module-title {
-    .lesson-unit {
-      &.blue {
-        color: $primary-color;
-      }
-    }
-  }
 }

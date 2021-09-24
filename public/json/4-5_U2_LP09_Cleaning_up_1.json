@@ -1,574 +1,574 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 2: MY FAMILY",
-      "lesson_name": "LESSON 9: CLEANING UP 1",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 years old"
+            "lang": "en",
+            "unit": "UNIT 2: MY FAMILY",
+            "lesson_name": "LESSON 9: CLEANING UP 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn some vocabulary: broom, sweep, sponge, wipe, mop, clean, mess."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop the other skills:",
+                        "list": [
+                            {
+                                "text": "<b>Socio - emotional Development:</b> Social skill development - Student understands cause-and-effect relationships."
+                            },
+                            {
+                                "text": "<b>Gross motor skills:</b> movement following the song, such as sit down, hug yourself, jump up and down, fold the arms, hop on the right foot, put the hands on the hips."
+                            },
+                            {
+                                "text": "<b>Fine motor skills:</b> play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 4-5_U2_LP2_Cleaning up."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students <i>“Good morning / afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Ask students <i>“What is your name?”</i> and instructs students to introduce their name by the structure <i>“My name is ___”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Every mess I make”<br/><i>Dance.<br/>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Teacher says: “We will sing a song about how to clean up”."
+                                    },
+                                    {
+                                        "text": "Play the dance song: <b>“Every mess I make”</b> and ask students to listen to the song."
+                                    },
+                                    {
+                                        "text": "Play the song the second time. Make the actions and encourage students to follow along the video:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Broom:</b> sit down."
+                                            },
+                                            {
+                                                "text": "<b>Mop:</b> hug yourself."
+                                            },
+                                            {
+                                                "text": "<b>Clean:</b> jump up and down."
+                                            },
+                                            {
+                                                "text": "<b>Wipe:</b> fold your arms."
+                                            },
+                                            {
+                                                "text": "<b>Mess:</b> hop on your right foot."
+                                            },
+                                            {
+                                                "text": "<b>Sweep:</b> put your hands on your hips."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song again. Have the students make the actions along the video."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Clean up time! story book”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>)."
+                                    },
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>)."
+                                    },
+                                    {
+                                        "text": "Teacher opens each page of book again and asks students:",
+                                        "list": [
+                                            {
+                                                "text": "<i>What are the Penguins making for Mommy and Daddy? &#x02192; The Penguins are making a card."
+                                            },
+                                            {
+                                                "text": "<i>What does Jess use to make a card sparkle and shine? &#x02192; Jess uses glitter."
+                                            },
+                                            {
+                                                "text": "<i>What does Curly use to add colorful shapes? &#x02192; Curly uses glue."
+                                            },
+                                            {
+                                                "text": "<i>After making the card, what party do the penguins have? &#x02192; The Penguins have dance party."
+                                            },
+                                            {
+                                                "text": "<i>What does Jess do to help cleaning up? &#x02192; Jess helps sweep the room."
+                                            },
+                                            {
+                                                "text": "<i>What does Curly do to help cleaning up? &#x02192; Curly helps wiping the glue."
+                                            },
+                                            {
+                                                "text": "<i>What does Pogo do to help cleaning up? &#x02192; Pogo helps mopping up the floor."
+                                            },
+                                            {
+                                                "text": "<i>Who found the card? &#x02192; Pogo found the card."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher flips through the book and stops at random pages contain the day’s keywords (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>).",
+                                        "list": [
+                                            {
+                                                "text": "Point to an image, ask students to say keywords."
+                                            },
+                                            {
+                                                "text": "Teacher corrects their pronunciation."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keyword - Cleaning up</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the pictures and keywords to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Image slider - Cleaning up</b>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the image slider, asks students to look at the pictures, listen and repeat the keywords.  "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<b>Memory game - Cleaning up 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and turn over 2 cards to find pairs of pictures"
+                                    },
+                                    {
+                                        "text": "Ask students to say the keywords."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Memory game - Cleaning up 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and turn over 2 cards to find the pairs of pictures."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Learn - Mop, Broom</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and click on correct letters to make the words."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Image pairing - Cleaning up/b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and drag images from the left to match them with corresponding images on the right."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Drag & drop - Cleaning</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and match the words with the correct pictures."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song <strong>“Every mess I make”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA TÔI",
+            "lesson_name": "BÀI 9: DỌN DẸP 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "4-5 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng: cây chổi, quét, miếng xốp, lau chùi, giẻ lau, làm sạch, sự lộn xộn."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<b>Phát triển tình cảm và kĩ năng xã hội: </b> Phát triển kĩ năng xã hội – Học sinh hiểu về mối quan hệ nguyên nhân – kết quả."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc - ngồi xuống, tự ôm mình, nhảy lên và xuống, khoanh tay, nhảy chân phải, đặt tay lên hông."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận động tinh:</b> Trò chơi tương tác."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 4-5_U2_LP9_Cleaning up 1."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Chào buổi sáng / buổi chiều”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Hỏi <i>”Con tên là gì?” </i> và hướng dẫn học sinh giới thiệu tên với cấu trúc <i>“Con tên là___”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Every mess I make” Dance <br/><i><i>10 phút</i></i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về dọn dẹp nhà nhé các con.”</i>"
+                                    },
+                                    {
+                                        "text": "Phát bài hát (bài nhảy): <b>“Every mess I make”</b> và yêu cầu học sinh lắng nghe bài hát."
+                                    },
+                                    {
+                                        "text": "Mở bài hát lần thứ hai. Tạo động tác và khuyến khích học sinh làm theo:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Broom:</b> ngồi xuống."
+                                            },
+                                            {
+                                                "text": "<b>Mop:</b> tự ôm mình."
+                                            },
+                                            {
+                                                "text": "<b>Clean:</b> nhảy lên và xuống."
+                                            },
+                                            {
+                                                "text": "<b>Wipe:</b> khoanh tay."
+                                            },
+                                            {
+                                                "text": "<b>Mess:</b> nhảy chân phải."
+                                            },
+                                            {
+                                                "text": "<b>Sweep:</b> đặt tay lên hông."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở lại bài hát lại lần nữa. Để học sinh làm hành động theo bài hát."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách ",
+                            "text": "“Clean up time! story book”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn</b>)."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách “<b>Clean up time! storybook</b>”, nói học sinh lắng nghe câu truyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở từng trang sách lần nữa và hỏi học sinh:",
+                                        "list": [
+                                            {
+                                                "text": "<i>Các chú chim cánh cụt làm gì cho ba và mẹ? &#x02192; Các chú chim cánh cụt làm cái thiệp."
+                                            },
+                                            {
+                                                "text": "<i>Jess dùng gì để làm cái thiệp lấp lánh và tỏa sáng? &#x02192; Jess dùng kim tuyến."
+                                            },
+                                            {
+                                                "text": "<i>Curly dùng cái gì để dán hình có nhiều màu sắc vào? &#x02192; Curly dùng hồ dán."
+                                            },
+                                            {
+                                                "text": "<i>Sau khi làm cái thiệp, các chú chim cánh cụt có bữa tiệc gì? &#x02192; Các chú chim cánh cụt có tiệc nhảy."
+                                            },
+                                            {
+                                                "text": "<i>Jess làm gì để giúp dọn dẹp? &#x02192; Jess giúp quét nhà."
+                                            },
+                                            {
+                                                "text": "<i>Curly làm gì để giúp dọn dẹp? &#x02192; Curly giúp lau chùi hồ dán."
+                                            },
+                                            {
+                                                "text": "<i>Pogo làm gì để giúp dọn dẹp? &#x02192; Pogo giúp lau sàn nhà."
+                                            },
+                                            {
+                                                "text": "<i>Ai tìm thấy tấm thiệp? &#x02192; Pogo đã tìm thấy tấm thiệp. "
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập lại từ vựng"
+                                    },
+                                    {
+                                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn</b>).",
+                                        "list": [
+                                            {
+                                                "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
+                                            },
+                                            {
+                                                "text": "Giáo viên gọi học sinh lặp lại từ vựng."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<b>Từ vựng - Dọn dẹp</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh và từ vựng để lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Hình trượt - Dọn dẹp</b>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<b>Trò chơi trí nhớ - Dọn dẹp 1</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cặp hình ảnh."
+                                    },
+                                    {
+                                        "text": "Học sinh đọc lại từ vựng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Trò chơi trí nhớ - Dọn dẹp 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cặp hình ảnh."
+                                    },
+                                    {
+                                        "text": "Học sinh đọc lại từ vựng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Học – Giẻ lau, cây chổi</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và bấm vào chữ cái để tạo từ đúng. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Ghép hình - Dọn dẹp</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và kéo hình từ bên trái để nối chúng với hình tương ứng bên phải."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Kéo và thả - dọn dẹp </b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và ghép từ với hình đúng.  "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <strong>“Every mess I make”</strong>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn some vocabulary: broom, sweep, sponge, wipe, mop, clean, mess."
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop the other skills:",
-            "list": [
-              {
-                "text": "<b>Socio - emotional Development:</b> Social skill development - Student understands cause-and-effect relationships."
-              },
-              {
-                "text": "<b>Gross motor skills:</b> movement following the song, such as sit down, hug yourself, jump up and down, fold the arms, hop on the right foot, put the hands on the hips."
-              },
-              {
-                "text": "<b>Fine motor skills:</b> play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U2_LP2_Cleaning up."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Greet students <i>“Good morning / afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
-                  },
-                  {
-                    "text": "Ask students <i>“What is your name?”</i> and instructs students to introduce their name by the structure <i>“My name is ___”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Every mess I make”<br/><i>Dance.<br/>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher says: “We will sing a song about how to clean up”."
-                  },
-                  {
-                    "text": "Play the dance song: <b>“Every mess I make”</b> and ask students to listen to the song."
-                  },
-                  {
-                    "text": "Play the song the second time. Make the actions and encourage students to follow along the video:",
-                    "list": [
-                      {
-                        "text": "<b>Broom:</b> sit down."
-                      },
-                      {
-                        "text": "<b>Mop:</b> hug yourself."
-                      },
-                      {
-                        "text": "<b>Clean:</b> jump up and down."
-                      },
-                      {
-                        "text": "<b>Wipe:</b> fold your arms."
-                      },
-                      {
-                        "text": "<b>Mess:</b> hop on your right foot."
-                      },
-                      {
-                        "text": "<b>Sweep:</b> put your hands on your hips."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song again. Have the students make the actions along the video."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Clean up time! story book”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>)."
-                  },
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>)."
-                  },
-                  {
-                    "text": "Teacher opens each page of book again and asks students:",
-                    "list": [
-                      {
-                        "text": "<i>What are the Penguins making for Mommy and Daddy? &#x02192; The Penguins are making a card."
-                      },
-                      {
-                        "text": "<i>What does Jess use to make a card sparkle and shine? &#x02192; Jess uses glitter."
-                      },
-                      {
-                        "text": "<i>What does Curly use to add colorful shapes? &#x02192; Curly uses glue."
-                      },
-                      {
-                        "text": "<i>After making the card, what party do the penguins have? &#x02192; The Penguins have dance party."
-                      },
-                      {
-                        "text": "<i>What does Jess do to help cleaning up? &#x02192; Jess helps sweep the room."
-                      },
-                      {
-                        "text": "<i>What does Curly do to help cleaning up? &#x02192; Curly helps wiping the glue."
-                      },
-                      {
-                        "text": "<i>What does Pogo do to help cleaning up? &#x02192; Pogo helps mopping up the floor."
-                      },
-                      {
-                        "text": "<i>Who found the card? &#x02192; Pogo found the card."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play a game to review the keywords. "
-                  },
-                  {
-                    "text": "Teacher flips through the book and stops at random pages contain the day’s keywords (<b>broom, sweep, sponge, wipe, mop, clean, mess</b>).",
-                    "list": [
-                      {
-                        "text": "Point to an image, ask students to say keywords."
-                      },
-                      {
-                        "text": "Teacher corrects their pronunciation."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keyword - Cleaning up</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the pictures and keywords to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Image slider - Cleaning up</b>",
-                "list": [
-                  {
-                    "text": "Teacher plays the image slider, asks students to look at the pictures, listen and repeat the keywords.  "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation"
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<b>Memory game - Cleaning up 1</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and turn over 2 cards to find pairs of pictures"
-                  },
-                  {
-                    "text": "Ask students to say the keywords."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Memory game - Cleaning up 2</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and turn over 2 cards to find the pairs of pictures."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Learn - Mop, Broom</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and click on correct letters to make the words."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Image pairing - Cleaning up/b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and drag images from the left to match them with corresponding images on the right."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Drag & drop - Cleaning</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and match the words with the correct pictures."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song <strong>“Every mess I make”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 2: GIA ĐÌNH CỦA TÔI",
-      "lesson_name": "BÀI 9: DỌN DẸP 1",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "4-5 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng: cây chổi, quét, miếng xốp, lau chùi, giẻ lau, làm sạch, sự lộn xộn."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<b>Phát triển tình cảm và kĩ năng xã hội: </b> Phát triển kĩ năng xã hội – Học sinh hiểu về mối quan hệ nguyên nhân – kết quả."
-              },
-              {
-                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc - ngồi xuống, tự ôm mình, nhảy lên và xuống, khoanh tay, nhảy chân phải, đặt tay lên hông."
-              },
-              {
-                "text": "<b>Kĩ năng vận động tinh:</b> Trò chơi tương tác."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 4-5_U2_LP9_Cleaning up 1."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Chào buổi sáng / buổi chiều”</i>. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Hỏi <i>”Con tên là gì?” </i> và hướng dẫn học sinh giới thiệu tên với cấu trúc <i>“Con tên là___”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Every mess I make” Dance <br/><i><i>10 phút</i></i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về dọn dẹp nhà nhé các con.”</i>"
-                  },
-                  {
-                    "text": "Phát bài hát (bài nhảy): <b>“Every mess I make”</b> và yêu cầu học sinh lắng nghe bài hát."
-                  },
-                  {
-                    "text": "Mở bài hát lần thứ hai. Tạo động tác và khuyến khích học sinh làm theo:",
-                    "list": [
-                      {
-                        "text": "<b>Broom:</b> ngồi xuống."
-                      },
-                      {
-                        "text": "<b>Mop:</b> tự ôm mình."
-                      },
-                      {
-                        "text": "<b>Clean:</b> nhảy lên và xuống."
-                      },
-                      {
-                        "text": "<b>Wipe:</b> khoanh tay."
-                      },
-                      {
-                        "text": "<b>Mess:</b> nhảy chân phải."
-                      },
-                      {
-                        "text": "<b>Sweep:</b> đặt tay lên hông."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở lại bài hát lại lần nữa. Để học sinh làm hành động theo bài hát."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách ",
-              "text": "“Clean up time! story book”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn</b>)."
-                  },
-                  {
-                    "text": "Giáo viên mở sách “<b>Clean up time! storybook</b>”, nói học sinh lắng nghe câu truyện."
-                  },
-                  {
-                    "text": "Giáo viên mở từng trang sách lần nữa và hỏi học sinh:",
-                    "list": [
-                      {
-                        "text": "<i>Các chú chim cánh cụt làm gì cho ba và mẹ? &#x02192; Các chú chim cánh cụt làm cái thiệp."
-                      },
-                      {
-                        "text": "<i>Jess dùng gì để làm cái thiệp lấp lánh và tỏa sáng? &#x02192; Jess dùng kim tuyến."
-                      },
-                      {
-                        "text": "<i>Curly dùng cái gì để dán hình có nhiều màu sắc vào? &#x02192; Curly dùng hồ dán."
-                      },
-                      {
-                        "text": "<i>Sau khi làm cái thiệp, các chú chim cánh cụt có bữa tiệc gì? &#x02192; Các chú chim cánh cụt có tiệc nhảy."
-                      },
-                      {
-                        "text": "<i>Jess làm gì để giúp dọn dẹp? &#x02192; Jess giúp quét nhà."
-                      },
-                      {
-                        "text": "<i>Curly làm gì để giúp dọn dẹp? &#x02192; Curly giúp lau chùi hồ dán."
-                      },
-                      {
-                        "text": "<i>Pogo làm gì để giúp dọn dẹp? &#x02192; Pogo giúp lau sàn nhà."
-                      },
-                      {
-                        "text": "<i>Ai tìm thấy tấm thiệp? &#x02192; Pogo đã tìm thấy tấm thiệp. "
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập lại từ vựng"
-                  },
-                  {
-                    "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>cây chổi, quét, cục xốp, giẻ lau, làm sạch, sự lộn xộn</b>).",
-                    "list": [
-                      {
-                        "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
-                      },
-                      {
-                        "text": "Giáo viên gọi học sinh lặp lại từ vựng."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<b>Từ vựng - Dọn dẹp</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh và từ vựng để lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Hình trượt - Dọn dẹp</b>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<b>Trò chơi trí nhớ - Dọn dẹp 1</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cặp hình ảnh."
-                  },
-                  {
-                    "text": "Học sinh đọc lại từ vựng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Trò chơi trí nhớ - Dọn dẹp 2</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm các cặp hình ảnh."
-                  },
-                  {
-                    "text": "Học sinh đọc lại từ vựng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Học – Giẻ lau, cây chổi</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và bấm vào chữ cái để tạo từ đúng. "
-                  }
-                ]
-              },
-              {
-                "text": "<b>Ghép hình - Dọn dẹp</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và kéo hình từ bên trái để nối chúng với hình tương ứng bên phải."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Kéo và thả - dọn dẹp </b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và ghép từ với hình đúng.  "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <strong>“Every mess I make”</strong>"
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

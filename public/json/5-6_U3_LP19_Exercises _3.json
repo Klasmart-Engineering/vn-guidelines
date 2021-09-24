@@ -1,525 +1,525 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 19: EXERCISES 3",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "UNIT 3: MY SELF",
+            "lesson_name": "LESSON 19: EXERCISES 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn vocabulary of movement: turn to left, turn to right, take a step back, hands up high, push-up, jumping jack, run."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop the other skills: ",
+                        "list": [
+                            {
+                                "text": "<b>Cognitive development</b>: students understand that exercises is part of being healthy."
+                            },
+                            {
+                                "text": "<b>Gross motor skills: </b>move along the song "
+                            },
+                            {
+                                "text": "<b>Fine motor skills: </b>play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U3_LP19: Exercise 3"
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students <i>“Good morning/afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with <i>“How are you today?”</i>. Encourage students to reply back with <i>“I am ___ (good).”</i> "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Dance: Work on our fitness”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Teacher says: <i>“We will sing a song about movement”</i>."
+                                    },
+                                    {
+                                        "text": "Play the song (dance): <strong>“Work on our fitness”</strong>."
+                                    },
+                                    {
+                                        "text": "Play the song, ask students to listen and dance along."
+                                    },
+                                    {
+                                        "text": "Teacher plays a song again and pauses the song at the keywords <strong>(turn to left, turn to right, take a step back, hands up high)</strong>."
+                                    },
+                                    {
+                                        "text": "Teacher describes keywords by body language and asks students to repeat keywords several times."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Slam dunk time! Board book”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson <strong>(push up, run, jumping)</strong>."
+                                    },
+                                    {
+                                        "text": "Teacher plays each page of the storybook <strong>“Slam dunk time!” </strong> and asks students to listen to the story. "
+                                    },
+                                    {
+                                        "text": "Teacher plays the story book again, pauses at page 6, 7 and 8. Teacher reads and teaches the keywords of the day which are <strong>push up, run, jumping jack</strong>."
+                                    },
+                                    {
+                                        "text": "For example: ",
+                                        "list": [
+                                            {
+                                                "text": "At page 6: Point to the picture and ask:",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>What can Pogo do? &#x02192; Pogo can do push-up.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>Can Curly do push-up? &#x02192; Yes, he can.</i> "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Have students to repeat the keyword: <b>“push-up”</b>"
+                                            },
+                                            {
+                                                "text": "Ask students to repeat the keyword several times in chorus and individually and correct their pronunciation."
+                                            },
+                                            {
+                                                "text": "Do the same in the next pages."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book and stops at a random page containing the day’s keywords <b>(push up, run, jumping jack)</b>."
+                                            },
+                                            {
+                                                "text": "Point to an image and ask students to say the keyword."
+                                            },
+                                            {
+                                                "text": "Teacher asks students to repeat the keywords several times."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Teacher calls out the movements and asks students to do it."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<strong>Image slider - Exercise 2</strong>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, asks students to listen and repeat the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Keywords - Exercises 3</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, click on the keywords to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<strong>Choose the correct answers - Exercises 2</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, look at the images and read the questions and choose the correct answers."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag & Drop - Exercise</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, look at the pictures, click on the words to listen and drag the corrects keywords to the images."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Drag & Drop - Work on our Fitness 2</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, drag the pictures to match with the keywords."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Memory game - Hands up high, Push-up, Run, Jumping jack</strong>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and turn over 2 cards to find the pairs of the pictures."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song again  <strong>“Work on our fitness”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
-        }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn vocabulary of movement: turn to left, turn to right, take a step back, hands up high, push-up, jumping jack, run."
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop the other skills: ",
-            "list": [
-              {
-                "text": "<b>Cognitive development</b>: students understand that exercises is part of being healthy."
-              },
-              {
-                "text": "<b>Gross motor skills: </b>move along the song "
-              },
-              {
-                "text": "<b>Fine motor skills: </b>play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U3_LP19: Exercise 3"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
+            "lang": "vi",
+            "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
+            "lesson_name": "BÀI 19: TẬP THỂ DỤC 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
                 "list": [
-                  {
-                    "text": "Greet students <i>“Good morning/afternoon”</i>. Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with <i>“How are you today?”</i>. Encourage students to reply back with <i>“I am ___ (good).”</i> "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Dance: Work on our fitness”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher says: <i>“We will sing a song about movement”</i>."
-                  },
-                  {
-                    "text": "Play the song (dance): <strong>“Work on our fitness”</strong>."
-                  },
-                  {
-                    "text": "Play the song, ask students to listen and dance along."
-                  },
-                  {
-                    "text": "Teacher plays a song again and pauses the song at the keywords <strong>(turn to left, turn to right, take a step back, hands up high)</strong>."
-                  },
-                  {
-                    "text": "Teacher describes keywords by body language and asks students to repeat keywords several times."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Slam dunk time! Board book”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson <strong>(push up, run, jumping)</strong>."
-                  },
-                  {
-                    "text": "Teacher plays each page of the storybook <strong>“Slam dunk time!” </strong> and asks students to listen to the story. "
-                  },
-                  {
-                    "text": "Teacher plays the story book again, pauses at page 6, 7 and 8. Teacher reads and teaches the keywords of the day which are <strong>push up, run, jumping jack</strong>."
-                  },
-                  {
-                    "text": "For example: ",
-                    "list": [
-                      {
-                        "text": "At page 6: Point to the picture and ask:",
+                    {
+                        "text": "Học từ vựng về sự vận động: quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao, hít đất, bật nhảy, chạy."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói"
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
                         "list": [
-                          {
-                            "text": "<i>What can Pogo do? &#x02192; Pogo can do push-up.</i>"
-                          },
-                          {
-                            "text": "<i>Can Curly do push-up? &#x02192; Yes, he can.</i> "
-                          }
+                            {
+                                "text": "<strong>Phát triển nhận thức :</strong> học sinh hiểu rằng tập thể dục là một phần để trở nên khỏe mạnh."
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát"
+                            },
+                            {
+                                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác"
+                            }
                         ]
-                      },
-                      {
-                        "text": "Have students to repeat the keyword: <b>“push-up”</b>"
-                      },
-                      {
-                        "text": "Ask students to repeat the keyword several times in chorus and individually and correct their pronunciation."
-                      },
-                      {
-                        "text": "Do the same in the next pages."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play a game to review the keywords",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at a random page containing the day’s keywords <b>(push up, run, jumping jack)</b>."
-                      },
-                      {
-                        "text": "Point to an image and ask students to say the keyword."
-                      },
-                      {
-                        "text": "Teacher asks students to repeat the keywords several times."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Teacher calls out the movements and asks students to do it."
-                  }
+                    }
                 ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
             },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<strong>Image slider - Exercise 2</strong>",
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
                 "list": [
-                  {
-                    "text": "Teacher plays the flashcards, asks students to listen and repeat the keywords. "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
+                    {
+                        "text": "KidsLoop CMS: 5-6_U3_LP19_Exercise 3"
+                    }
                 ]
-              },
-              {
-                "text": "<strong>Keywords - Exercises 3</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, click on the keywords to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<strong>Choose the correct answers - Exercises 2</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, look at the images and read the questions and choose the correct answers."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag & Drop - Exercise</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, look at the pictures, click on the words to listen and drag the corrects keywords to the images."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Drag & Drop - Work on our Fitness 2</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, drag the pictures to match with the keywords."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Memory game - Hands up high, Push-up, Run, Jumping jack</strong>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and turn over 2 cards to find the pairs of the pictures."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
             },
-            "right_content": [
-              {
+            "lessons": {
+                "title": "Tiến trình bài học",
                 "list": [
-                  {
-                    "text": "Play the song again  <strong>“Work on our fitness”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say thank you and goodbye to their peers and to the teacher."
-                  }
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Chào buổi sáng/chiều”</i>. Vẫy tay với học sinh và khuyến khích các con vẫy tay lại với giáo viên đồng thời lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với câu  <i>“Bạn có khỏe không?”</i>. Khuyến khích học sinh trả lời lại <i>“Con …(khỏe)”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Dance: Work on our fitness”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về sự vận động”</i>."
+                                    },
+                                    {
+                                        "text": "Phát bài hát: <strong>“Work on our fitness”</strong>."
+                                    },
+                                    {
+                                        "text": "Mở bài hát, nói học sinh lắng nghe và nhảy theo bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở bài hát lại lần nữa, giáo viên dừng nhạc ở từ vựng <strong>(quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao)</strong>.  "
+                                    },
+                                    {
+                                        "text": "Giáo viên mô tả từ vựng bằng ngôn ngữ hình thể và nói học sinh lặp lại từ vựng vài lần."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm cho học sinh."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách",
+                            "text": "“Slam dunk time! Board book”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <strong>(hít đất, chạy, bật nhảy).</strong> "
+                                    },
+                                    {
+                                        "text": "Giáo viên mở từng trang của quyển sách <strong>“Slam dunk time!” </strong> và nói học sinh lắng nghe câu chuyện. "
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách lại lần nữa trang, dừng ở trang 6, 7 và 8, giáo viên đọc và dạy từ vựng của bài học là từ <strong>hít đất, chạy, bật nhảy</strong>.  "
+                                    },
+                                    {
+                                        "text": "Ví dụ:",
+                                        "list": [
+                                            {
+                                                "text": "Ở trang 6: Chỉ vào bức tranh và hỏi.",
+                                                "list": [
+                                                    {
+                                                        "text": "<i>Pogo có thể làm gì? &#x02192; Pogo có thể hít đất.</i>"
+                                                    },
+                                                    {
+                                                        "text": "<i>Curly có thể hít đất không? &#x02192; Có, bạn ấy có thể hít đất.</i> "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Cho học sinh lặp lại từ vựng: <strong>“hít đất” </strong>"
+                                            },
+                                            {
+                                                "text": "Nói học sinh lặp lại từ vựng đồng thanh và cá nhân vài lần và sửa phát âm của học sinh."
+                                            },
+                                            {
+                                                "text": "Làm tương tự ở trang tiếp theo."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập từ vựng.",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng <strong>(hít đất, chạy, bật nhảy)</strong>."
+                                            },
+                                            {
+                                                "text": "Giáo viên chỉ vào hình ảnh và nói học sinh đọc từ vựng."
+                                            },
+                                            {
+                                                "text": "Giáo viên yêu cầu học sinh lặp lại từ vựng vài lần."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên gọi tên vận động và yêu cầu học sinh làm nó."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<strong>Hình trượt – Tập thể dục 2 </strong>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở thẻ hình, yêu cầu học sinh lắng nghe và lặp lại từ vựng.  "
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Từ vựng - Tập thể dục 3</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào từ vựng để lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<strong>Chọn đáp án đúng – Tập thể dục 2</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào hình ảnh và đọc câu hỏi và chọn đáp án đúng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và thả - Tập thể dục</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào các bức tranh, bấm vào từ để lắng nghe và kéo từ vựng đúng vào hình ảnh. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Kéo và thả</strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, kéo hình để ghép với từ vựng. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<strong>Trò chơi trí nhớ - Giơ tay lên cao, hít đất, chạy, lùi 1 bước  </strong>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát  <strong>“Work on our fitness”</strong>."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 19: TẬP THỂ DỤC 3",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
+            }
         }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng về sự vận động: quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao, hít đất, bật nhảy, chạy."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói"
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<strong>Phát triển nhận thức :</strong> học sinh hiểu rằng tập thể dục là một phần để trở nên khỏe mạnh."
-              },
-              {
-                "text": "<strong>Kỹ năng vận động thô:</strong> vận động theo bài hát"
-              },
-              {
-                "text": "<strong>Kỹ năng vận động tinh:</strong> chơi trò chơi tương tác"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "KidsLoop CMS: 5-6_U3_LP19_Exercise 3"
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Chào buổi sáng/chiều”</i>. Vẫy tay với học sinh và khuyến khích các con vẫy tay lại với giáo viên đồng thời lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với câu  <i>“Bạn có khỏe không?”</i>. Khuyến khích học sinh trả lời lại <i>“Con …(khỏe)”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Dance: Work on our fitness”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về sự vận động”</i>."
-                  },
-                  {
-                    "text": "Phát bài hát: <strong>“Work on our fitness”</strong>."
-                  },
-                  {
-                    "text": "Mở bài hát, nói học sinh lắng nghe và nhảy theo bài hát."
-                  },
-                  {
-                    "text": "Giáo viên mở bài hát lại lần nữa, giáo viên dừng nhạc ở từ vựng <strong>(quay sang trái, quay sang phải, lùi lại 1 bước, giơ tay lên cao)</strong>.  "
-                  },
-                  {
-                    "text": "Giáo viên mô tả từ vựng bằng ngôn ngữ hình thể và nói học sinh lặp lại từ vựng vài lần."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm cho học sinh."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách",
-              "text": "“Slam dunk time! Board book”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <strong>(hít đất, chạy, bật nhảy).</strong> "
-                  },
-                  {
-                    "text": "Giáo viên mở từng trang của quyển sách <strong>“Slam dunk time!” </strong> và nói học sinh lắng nghe câu chuyện. "
-                  },
-                  {
-                    "text": "Giáo viên mở sách lại lần nữa trang, dừng ở trang 6, 7 và 8, giáo viên đọc và dạy từ vựng của bài học là từ <strong>hít đất, chạy, bật nhảy</strong>.  "
-                  },
-                  {
-                    "text": "Ví dụ:",
-                    "list": [
-                      {
-                        "text": "Ở trang 6: Chỉ vào bức tranh và hỏi.",
-                        "list": [
-                          {
-                            "text": "<i>Pogo có thể làm gì? &#x02192; Pogo có thể hít đất.</i>"
-                          },
-                          {
-                            "text": "<i>Curly có thể hít đất không? &#x02192; Có, bạn ấy có thể hít đất.</i> "
-                          }
-                        ]
-                      },
-                      {
-                        "text": "Cho học sinh lặp lại từ vựng: <strong>“hít đất” </strong>"
-                      },
-                      {
-                        "text": "Nói học sinh lặp lại từ vựng đồng thanh và cá nhân vài lần và sửa phát âm của học sinh."
-                      },
-                      {
-                        "text": "Làm tương tự ở trang tiếp theo."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập từ vựng.",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng <strong>(hít đất, chạy, bật nhảy)</strong>."
-                      },
-                      {
-                        "text": "Giáo viên chỉ vào hình ảnh và nói học sinh đọc từ vựng."
-                      },
-                      {
-                        "text": "Giáo viên yêu cầu học sinh lặp lại từ vựng vài lần."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên gọi tên vận động và yêu cầu học sinh làm nó."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<strong>Hình trượt – Tập thể dục 2 </strong>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở thẻ hình, yêu cầu học sinh lắng nghe và lặp lại từ vựng.  "
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh. "
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Từ vựng - Tập thể dục 3</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào từ vựng để lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<strong>Chọn đáp án đúng – Tập thể dục 2</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào hình ảnh và đọc câu hỏi và chọn đáp án đúng."
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và thả - Tập thể dục</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào các bức tranh, bấm vào từ để lắng nghe và kéo từ vựng đúng vào hình ảnh. "
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Kéo và thả</strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, kéo hình để ghép với từ vựng. "
-                  }
-                ]
-              },
-              {
-                "text": "<strong>Trò chơi trí nhớ - Giơ tay lên cao, hít đất, chạy, lùi 1 bước  </strong>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và lật 2 tấm thẻ để tìm cặp hình ảnh."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát  <strong>“Work on our fitness”</strong>."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

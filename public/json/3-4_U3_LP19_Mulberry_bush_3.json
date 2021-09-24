@@ -1,516 +1,516 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 19: MULBERRY BUSH 3",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 years old"
+            "lang": "en",
+            "unit": "UNIT 3: MY SELF",
+            "lesson_name": "LESSON 19: MULBERRY BUSH 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "3-4 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "Learn the keywords: bush, early, morning, go round."
+                    },
+                    {
+                        "text": "Learn to take care of themselves and practice healthy habits."
+                    },
+                    {
+                        "text": "Develop speaking and listening skills."
+                    },
+                    {
+                        "text": "Develop the other skills:",
+                        "list": [
+                            {
+                                "text": "Cognitive Development: Nutrition and health – Know some morning routines."
+                            },
+                            {
+                                "text": "Gross motor skills: movement following the song."
+                            },
+                            {
+                                "text": "Fine motor skills: play interactive games."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 3-4_U3_LP19: Mulberry bush 3."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students. <i>“Hello”</i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with the sentence <i>“Nice to meet you __”</i> and ask students to repeat this sentence."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Mulberry Bush”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song."
+                                    },
+                                    {
+                                        "text": "Teacher says: <i>“We will sing a song about the morning routines.”</i>"
+                                    },
+                                    {
+                                        "text": "Play the song of <b>“Mulberry bush”</b> and ask students to listen to the song."
+                                    },
+                                    {
+                                        "text": "Have students do action following the song, such as:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Go round:</b> turn round."
+                                            },
+                                            {
+                                                "text": "<b>Bush:</b> clap the hand."
+                                            },
+                                            {
+                                                "text": "<b>Early in the morning:</b> jump."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play the song again and ask students to sing and do actions along."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Mulberry Bush”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>bush, early, morning, go round</b>)."
+                                    },
+                                    {
+                                        "text": "Teacher plays storybook <b>“Mulberry Bush”</b> and asks students to listen to the story."
+                                    },
+                                    {
+                                        "text": "Teacher plays the story book again in page 2 and 3 to teach the keywords: go round, bush, early, morning."
+                                    },
+                                    {
+                                        "text": "For example: ",
+                                        "list": [
+                                            {
+                                                "text": "At page 2, point to the picture and ask: “<i>What do they do? &#x02192; They go round the bush</i>”. Then, have students to repeat the keyword “go round” and “bush”. Ask question: “<i>What is the name of the bush? &#x02192; Mulberry bush.</i>”"
+                                            },
+                                            {
+                                                "text": "At page 3, ask the question “<i>When do they go round the bush? &#x02192; They go round the bush in the early morning</i>”."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Have students repeat the words or sentences again several times and correct their pronunciation."
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords (<b>go round, bush, morning, early, wash face, comb hair, brush teeth, and put on clothes</b>).",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book and stops at a random page."
+                                            },
+                                            {
+                                                "text": "Point to an image and ask students to say the keywords."
+                                            },
+                                            {
+                                                "text": "Teacher asks students to repeat keywords several times."
+                                            },
+                                            {
+                                                "text": "Teacher corrects their pronunciation."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords – Mulberry bush 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite student to come to the board, click on the pictures and ask students to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Image slider - go round, bush, early, morning</b>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords. "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<b>Memory game - Early, Morning, Bush, Go Round</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite a student to choose and open 2 pictures to find the matched pictures. If they are matched, ask student to read the word aloud and invite other students to continue playing."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Drag & Drop shadow - Mulberry bush</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board, drag and drop the stickers into the correct the shadows."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Place the stickers - Mulberry bush</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and drag the stickers into the picture to complete the picture."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Color – Bush</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to come to the board and color the bush."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song <strong>“Mulberry Bush”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
+            "lesson_name": "BÀI 19: BỤI CÂY DÂU TẰM 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "3-4 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "Học từ vựng: bụi cây, sớm, sáng, đi vòng quanh."
+                    },
+                    {
+                        "text": "Học các chăm sóc bản thân và thực hiện những thói quen tốt cho sức khỏe."
+                    },
+                    {
+                        "text": "Phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "Phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<b>Phát triển nhận thức:</b> Dinh dưỡng và sức khỏe – Biết về các thói quen vào buổi sáng."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo bài hát."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận động tinh:</b> chơi trò chơi tương tác."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 3-4_U3_LP19: Mulberry bush 3."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và yêu cầu học sinh lặp lại câu này."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Mulberry Bush”<br/><i><i>10 phút</i></i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về các thói quen buổi sáng”</i>."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở bài hát <b>“Mulberry bush”</b> và nói học sinh lắng nghe bài hát."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh làm động tác theo lời bài hát, như:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Go round: </b> xoay vòng tròn."
+                                            },
+                                            {
+                                                "text": "<b>Bush:</b> vỗ tay."
+                                            },
+                                            {
+                                                "text": "<b>Early in the morning:</b> nhảy lên."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở bài hát lần nữa và nói học sinh hát và làm động tác theo bài hát."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách ",
+                            "text": "“Mulberry Bush”<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <b>(đi vòng quanh, bụi cây, buổi sáng, sớm)</b>."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách <b>“Mulberry bush”</b> và yêu cầu học sinh lắng nghe truyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách lại lần nữa, dừng ở trang 2 đến 3, giáo viên đọc và dạy từ vựng (<b>đi vòng quanh, bụi cây, buổi sáng, sớm</b>)."
+                                    },
+                                    {
+                                        "text": "Ví dụ:",
+                                        "list": [
+                                            {
+                                                "text": "Ở trang 2, chỉ vào bức tranh và hỏi “<i>Họ làm gì? &#x02192; Họ đi vòng quanh bụi cây</i>”. Yêu cầu học sinh lặp lại từ “vòng quanh” và “bụi cây”. Đặt câu hỏi “<i>Tên của bụi cây đó là gì? &#x02192; Bụi cây dâu tằm</i>”."
+                                            },
+                                            {
+                                                "text": "Ở trang 3, hỏi câu hỏi “<i>Họ đi vòng quanh bụi cây khi nào? &#x02192; Họ đi vòng quanh bụi cây vào buổi sáng sớm.</i>”"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Nói học sinh lặp lại từ vựng hoặc cả câu và sửa phát âm của học sinh."
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập toàn bộ từ vựng (đi vòng quanh, bụi cây, buổi sáng, sớm, rửa mặt, chải tóc, đánh răng, và mặc quần áo).",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng."
+                                            },
+                                            {
+                                                "text": "Giáo viên chỉ vào hình ảnh và nói học sinh đọc từ vựng."
+                                            },
+                                            {
+                                                "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần."
+                                            },
+                                            {
+                                                "text": "Giáo viên sửa phát âm cho học sinh."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<b>Từ vựng – Bụi dâu tằm 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Hình trượt – Đi xung quanh, bụi, sớm, buổi sáng</b>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng. Giáo viên chỉnh sửa phát âm cho học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<b>Trò chơi trí nhớ - Sớm, buổi sáng, bụi, đi xung quanh</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh chọn 2 hình để tìm hình thích hợp với nhau. Nếu 2 hình đúng thì mời học sinh đọc lớn từ vựng tương ứng. Tiếp tục mời các học sinh khác chơi trò chơi."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Kéo và thả bóng – Bụi dâu tằm </b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, kéo và thả hình dán vào đúng cái bóng của chúng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Đặt các hình dán – Bụi dâu tằm</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và kéo các hình dán vào bức tranh để hoàn thiện bức tranh. "
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Tô màu – Bụi</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và tô màu bụi cây."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <b>“Mulberry Bush”</b>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu các học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt các học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "Learn the keywords: bush, early, morning, go round."
-          },
-          {
-            "text": "Learn to take care of themselves and practice healthy habits."
-          },
-          {
-            "text": "Develop speaking and listening skills."
-          },
-          {
-            "text": "Develop the other skills:",
-            "list": [
-              {
-                "text": "Cognitive Development: Nutrition and health – Know some morning routines."
-              },
-              {
-                "text": "Gross motor skills: movement following the song."
-              },
-              {
-                "text": "Fine motor skills: play interactive games."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 3-4_U3_LP19: Mulberry bush 3."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Greet students. <i>“Hello”</i>. Wave at students and encourage them to wave back to you as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with the sentence <i>“Nice to meet you __”</i> and ask students to repeat this sentence."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Mulberry Bush”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song."
-                  },
-                  {
-                    "text": "Teacher says: <i>“We will sing a song about the morning routines.”</i>"
-                  },
-                  {
-                    "text": "Play the song of <b>“Mulberry bush”</b> and ask students to listen to the song."
-                  },
-                  {
-                    "text": "Have students do action following the song, such as:",
-                    "list": [
-                      {
-                        "text": "<b>Go round:</b> turn round."
-                      },
-                      {
-                        "text": "<b>Bush:</b> clap the hand."
-                      },
-                      {
-                        "text": "<b>Early in the morning:</b> jump."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play the song again and ask students to sing and do actions along."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Mulberry Bush”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>bush, early, morning, go round</b>)."
-                  },
-                  {
-                    "text": "Teacher plays storybook <b>“Mulberry Bush”</b> and asks students to listen to the story."
-                  },
-                  {
-                    "text": "Teacher plays the story book again in page 2 and 3 to teach the keywords: go round, bush, early, morning."
-                  },
-                  {
-                    "text": "For example: ",
-                    "list": [
-                      {
-                        "text": "At page 2, point to the picture and ask: “<i>What do they do? &#x02192; They go round the bush</i>”. Then, have students to repeat the keyword “go round” and “bush”. Ask question: “<i>What is the name of the bush? &#x02192; Mulberry bush.</i>”"
-                      },
-                      {
-                        "text": "At page 3, ask the question “<i>When do they go round the bush? &#x02192; They go round the bush in the early morning</i>”."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Have students repeat the words or sentences again several times and correct their pronunciation."
-                  },
-                  {
-                    "text": "Play a game to review the keywords (<b>go round, bush, morning, early, wash face, comb hair, brush teeth, and put on clothes</b>).",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at a random page."
-                      },
-                      {
-                        "text": "Point to an image and ask students to say the keywords."
-                      },
-                      {
-                        "text": "Teacher asks students to repeat keywords several times."
-                      },
-                      {
-                        "text": "Teacher corrects their pronunciation."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords – Mulberry bush 2</b>",
-                "list": [
-                  {
-                    "text": "Invite student to come to the board, click on the pictures and ask students to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Image slider - go round, bush, early, morning</b>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcard, asks students to look at the pictures, listen and repeat the keywords. "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<b>Memory game - Early, Morning, Bush, Go Round</b>",
-                "list": [
-                  {
-                    "text": "Invite a student to choose and open 2 pictures to find the matched pictures. If they are matched, ask student to read the word aloud and invite other students to continue playing."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Drag & Drop shadow - Mulberry bush</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board, drag and drop the stickers into the correct the shadows."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Place the stickers - Mulberry bush</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and drag the stickers into the picture to complete the picture."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Color – Bush</b>",
-                "list": [
-                  {
-                    "text": "Invite students to come to the board and color the bush."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song <strong>“Mulberry Bush”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 19: BỤI CÂY DÂU TẰM 3",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "3-4 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "Học từ vựng: bụi cây, sớm, sáng, đi vòng quanh."
-          },
-          {
-            "text": "Học các chăm sóc bản thân và thực hiện những thói quen tốt cho sức khỏe."
-          },
-          {
-            "text": "Phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "Phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<b>Phát triển nhận thức:</b> Dinh dưỡng và sức khỏe – Biết về các thói quen vào buổi sáng."
-              },
-              {
-                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo bài hát."
-              },
-              {
-                "text": "<b>Kĩ năng vận động tinh:</b> chơi trò chơi tương tác."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 3-4_U3_LP19: Mulberry bush 3."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh <i>“Xin chào”</i>. Vẫy tay với học sinh và khuyến khích các con chào lại cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với câu <i>“Rất vui được gặp các con”</i> và yêu cầu học sinh lặp lại câu này."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Mulberry Bush”<br/><i><i>10 phút</i></i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về các thói quen buổi sáng”</i>."
-                  },
-                  {
-                    "text": "Giáo viên mở bài hát <b>“Mulberry bush”</b> và nói học sinh lắng nghe bài hát."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh làm động tác theo lời bài hát, như:",
-                    "list": [
-                      {
-                        "text": "<b>Go round: </b> xoay vòng tròn."
-                      },
-                      {
-                        "text": "<b>Bush:</b> vỗ tay."
-                      },
-                      {
-                        "text": "<b>Early in the morning:</b> nhảy lên."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở bài hát lần nữa và nói học sinh hát và làm động tác theo bài hát."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách ",
-              "text": "“Mulberry Bush”<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học <b>(đi vòng quanh, bụi cây, buổi sáng, sớm)</b>."
-                  },
-                  {
-                    "text": "Giáo viên mở sách <b>“Mulberry bush”</b> và yêu cầu học sinh lắng nghe truyện."
-                  },
-                  {
-                    "text": "Giáo viên mở sách lại lần nữa, dừng ở trang 2 đến 3, giáo viên đọc và dạy từ vựng (<b>đi vòng quanh, bụi cây, buổi sáng, sớm</b>)."
-                  },
-                  {
-                    "text": "Ví dụ:",
-                    "list": [
-                      {
-                        "text": "Ở trang 2, chỉ vào bức tranh và hỏi “<i>Họ làm gì? &#x02192; Họ đi vòng quanh bụi cây</i>”. Yêu cầu học sinh lặp lại từ “vòng quanh” và “bụi cây”. Đặt câu hỏi “<i>Tên của bụi cây đó là gì? &#x02192; Bụi cây dâu tằm</i>”."
-                      },
-                      {
-                        "text": "Ở trang 3, hỏi câu hỏi “<i>Họ đi vòng quanh bụi cây khi nào? &#x02192; Họ đi vòng quanh bụi cây vào buổi sáng sớm.</i>”"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Nói học sinh lặp lại từ vựng hoặc cả câu và sửa phát âm của học sinh."
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập toàn bộ từ vựng (đi vòng quanh, bụi cây, buổi sáng, sớm, rửa mặt, chải tóc, đánh răng, và mặc quần áo).",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng."
-                      },
-                      {
-                        "text": "Giáo viên chỉ vào hình ảnh và nói học sinh đọc từ vựng."
-                      },
-                      {
-                        "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần."
-                      },
-                      {
-                        "text": "Giáo viên sửa phát âm cho học sinh."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<b>Từ vựng – Bụi dâu tằm 2</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Hình trượt – Đi xung quanh, bụi, sớm, buổi sáng</b>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào bức tranh, lắng nghe và lặp lại từ vựng. Giáo viên chỉnh sửa phát âm cho học sinh."
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<b>Trò chơi trí nhớ - Sớm, buổi sáng, bụi, đi xung quanh</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh chọn 2 hình để tìm hình thích hợp với nhau. Nếu 2 hình đúng thì mời học sinh đọc lớn từ vựng tương ứng. Tiếp tục mời các học sinh khác chơi trò chơi."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Kéo và thả bóng – Bụi dâu tằm </b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, kéo và thả hình dán vào đúng cái bóng của chúng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Đặt các hình dán – Bụi dâu tằm</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và kéo các hình dán vào bức tranh để hoàn thiện bức tranh. "
-                  }
-                ]
-              },
-              {
-                "text": "<b>Tô màu – Bụi</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và tô màu bụi cây."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <b>“Mulberry Bush”</b>"
-                  },
-                  {
-                    "text": "Yêu cầu các học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt các học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

@@ -1,57 +1,65 @@
 {
-  "name": "kidsloop-guidelines",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "bootstrap": "^4.6.0",
-    "bootstrap-vue": "^2.21.2",
-    "core-js": "^3.6.5",
-    "css-loader": "^5.2.4",
-    "moment": "^2.29.1",
-    "node-sass": "^5.0.0",
-    "sass": "^1.32.11",
-    "sass-loader": "^10.1.1",
-    "vue": "^2.6.11",
-    "vue-axios": "^3.2.4",
-    "vue-json-editor": "^1.4.3",
-    "vue-loader": "^14.2.2",
-    "vue-meta": "^2.4.0",
-    "vuex": "^3.6.2",
-    "webpack": "^4.45.0"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "vue-router": "^3.5.1",
-    "vue-template-compiler": "^2.6.11"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
+    "name": "kidsloop-guidelines",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint",
+        "prepare": "husky install"
     },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
+    "dependencies": {
+        "axios": "^0.21.1",
+        "bootstrap": "^4.6.0",
+        "bootstrap-vue": "^2.21.2",
+        "core-js": "^3.6.5",
+        "css-loader": "^5.2.4",
+        "moment": "^2.29.1",
+        "node-sass": "^5.0.0",
+        "sass": "^1.32.11",
+        "sass-loader": "^10.1.1",
+        "vue": "^2.6.11",
+        "vue-axios": "^3.2.4",
+        "vue-json-editor": "^1.4.3",
+        "vue-loader": "^14.2.2",
+        "vue-meta": "^2.4.0",
+        "vuex": "^3.6.2",
+        "webpack": "^4.45.0"
     },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead"
-  ]
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-eslint": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^6.7.2",
+        "eslint-plugin-vue": "^6.2.2",
+        "husky": "^7.0.0",
+        "lint-staged": "^11.1.2",
+        "prettier": "2.4.1",
+        "pretty-quick": "^3.1.1",
+        "vue-router": "^3.5.1",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/essential",
+            "eslint:recommended"
+        ],
+        "parserOptions": {
+            "parser": "babel-eslint"
+        },
+        "rules": {}
+    },
+    "lint-staged": {
+        "**/*": "prettier --write --ignore-unknown"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ]
 }

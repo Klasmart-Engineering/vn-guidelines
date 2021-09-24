@@ -1,33 +1,33 @@
 stages:
-   - build
-   - deploy
+    - build
+    - deploy
 
 # build stage
 build_app:
-   image: node:14
-   stage: build
-   only:
-      - master
-   script:
-      - npm install
-      - npm run build
-   cache:
-     paths:
-       - node_modules/
-   artifacts:
-      paths:
-         # build folder
-         - dist/
-      expire_in: 1 hour
+    image: node:14
+    stage: build
+    only:
+        - master
+    script:
+        - npm install
+        - npm run build
+    cache:
+        paths:
+            - node_modules/
+    artifacts:
+        paths:
+            # build folder
+            - dist/
+        expire_in: 1 hour
 
 # production stage
 production:
-   image: node:14
-   stage: deploy
-   before_script:
-      - mkdir -p ~/.ssh
-      - echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-      - chmod 600 ~/.ssh/id_rsa
-      - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
-   script:
-      - scp -P 234 -r dist/* stackops@103.245.249.109:/var/www/guidelines/
+    image: node:14
+    stage: deploy
+    before_script:
+        - mkdir -p ~/.ssh
+        - echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        - chmod 600 ~/.ssh/id_rsa
+        - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+    script:
+        - scp -P 234 -r dist/* stackops@103.245.249.109:/var/www/guidelines/

@@ -1,537 +1,537 @@
 {
-  "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
-  "content": [
-    {
-      "lang": "en",
-      "unit": "UNIT 3: MY SELF",
-      "lesson_name": "LESSON 15: HEALTHY HABITS 3",
-      "description": [
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
         {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 years old"
+            "lang": "en",
+            "unit": "UNIT 3: MY SELF",
+            "lesson_name": "LESSON 15: HEALTHY HABITS 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 years old"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 minutes"
+                }
+            ],
+            "learning": {
+                "title": "Learning objectives",
+                "subtitle": "Students will be able to:",
+                "list": [
+                    {
+                        "text": "learn vocabulary of personal hygiene: wash your hands, dry your hands, eat soup, rest."
+                    },
+                    {
+                        "text": "develop speaking and listening skills"
+                    },
+                    {
+                        "text": "develop the other skills:",
+                        "list": [
+                            {
+                                "text": "<b>Cognitive development:</b> physical development – nutrition and health."
+                            },
+                            {
+                                "text": "<b>Physical development:</b> movement following the song to touch the head, pretend sneezing, pretend grabbing a tissue."
+                            },
+                            {
+                                "text": "<b>Fine motor skills:</b> play interactive games"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Materials",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U3_LP15_Healthy habits 3."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Lesson Flow",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Opening",
+                            "text": "<i>3 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Greet students. <i>“Good morning/afternoon.”</i> Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
+                                    },
+                                    {
+                                        "text": "Reply with <i>“How are you today?”</i> Encourage students to reply back with <i>“I am ___ (good)”</i>."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Sing",
+                            "text": "“Dance: Three sick Kittens”<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Start the lesson by listening to the song"
+                                    },
+                                    {
+                                        "text": "Teacher says: “<i>We will sing a song about symptoms of sickness</i>”"
+                                    },
+                                    {
+                                        "text": "Play the song (dance): “<b>Three sick Kittens”.”</b>"
+                                    },
+                                    {
+                                        "text": "Make actions and encourage students to follow:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Sick:</b> touch your forehead."
+                                            },
+                                            {
+                                                "text": "<b>Sneeze:</b> pretend sneezing."
+                                            },
+                                            {
+                                                "text": "<b>Grab a tissue:</b> pretend grabbing a tissue."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Play a song again, pause the song and focus on the keyword and ask students to repeat the keywords in several times. "
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Read",
+                            "text": "“Three sick Kittens” boardbook<br/><i>10 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Introduce the topic and keywords of the lesson (<b>wash your hands, dry your hands, eat soup, rest</b>)."
+                                    },
+                                    {
+                                        "text": "Teacher plays the boardbook “<b>Three sick Kittens</b>” and asks students to listen to the story."
+                                    },
+                                    {
+                                        "text": "Teacher plays the story again and asks students question.",
+                                        "list": [
+                                            {
+                                                "text": "<i>Where has Bada come? &#x02192; Bada has come to visit the Kittens.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What happens with the Kittens? &#x02192; The Kittens are sick.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What has Bada brought for Kittens? &#x02192; Bada has brought the soup for Kittens.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What should the Kittens do to keep their hands clean? &#x02192; They should wash their hands.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What do the Kittens do on Mat? &#x02192; They dry their hands on Mat.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What should the Kittens use to dry their hands? &#x02192; They should dry their hands with a towel.</i>"
+                                            },
+                                            {
+                                                "text": "<i>What do the Kittens do after they wash their hands and dry their hands? &#x02192; They have a bowl of soup and rest.</i>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Teacher asks students to repeat the keywords and corrects their pronunciation. (<b>wash your hands, dry your hands, eat soup, rest</b>)."
+                                    },
+                                    {
+                                        "text": "Play a game to review the keywords.",
+                                        "list": [
+                                            {
+                                                "text": "Teacher flips through the book and stops at a random page containing the day’s keywords (<b>wash your hands, dry your hands, eat soup, rest</b>)."
+                                            },
+                                            {
+                                                "text": "Point to an image and ask students to say the keywords."
+                                            },
+                                            {
+                                                "text": "Teacher asks students to repeat the keywords several times and corrects their pronunciation."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Play",
+                            "text": "<i>20 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Reinforce vocabulary"
+                            },
+                            {
+                                "text": "<b>Keywords - Healthy habits 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite student to come to the board, click on the pictures and asks students to listen and repeat the keywords."
+                                    },
+                                    {
+                                        "text": "Teacher corrects their pronunciation"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Flashcards - Healthy habits 3</b>",
+                                "list": [
+                                    {
+                                        "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
+                                    },
+                                    {
+                                        "text": "Record their voice and check the answers."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Interactive games"
+                            },
+                            {
+                                "text": "<b>Choose the correct answer - Wash your hands</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite student to come to the board, look at the picture and the question and choose the correct answer."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Choose the correct word - Rest</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite student to come to the board, look at the picture and choose the correct word."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Memory game - Healthy Habits 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to turn over 2 cards to find the pairs of pictures and then say the word aloud."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Drag & Drop - Healthy Habits</b>",
+                                "list": [
+                                    {
+                                        "text": "Invite students to go to the board and match the pictures, keywords and then say the word aloud."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Closing",
+                            "text": "<i>2 mins</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Play the song <strong>“Three sick Kittens”</strong> again"
+                                    },
+                                    {
+                                        "text": "Tell students to tidy up the classroom"
+                                    },
+                                    {
+                                        "text": "Say goodbye to students"
+                                    },
+                                    {
+                                        "text": "Ask students to say goodbye to their peers and to the teacher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         },
         {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 minutes"
+            "lang": "vi",
+            "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
+            "lesson_name": "BÀI 15: THÓI QUEN SỐNG KHỎE 3",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "5-6 tuổi"
+                },
+                {
+                    "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
+                    "text": "45 phút"
+                }
+            ],
+            "learning": {
+                "title": "Mục tiêu bài học",
+                "subtitle": "Học sinh sẽ được:",
+                "list": [
+                    {
+                        "text": "học từ vựng về vệ sinh cá nhân: rửa tay, lau khô tay, ăn cháo, nghỉ ngơi."
+                    },
+                    {
+                        "text": "phát triển kĩ năng nghe và nói."
+                    },
+                    {
+                        "text": "phát triển các kĩ năng khác:",
+                        "list": [
+                            {
+                                "text": "<b>Phát triển nhận thức:</b> giáo dục phát triển thể chất - dinh dưỡng và sức khỏe."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, học sinh chạm tay vào đầu, giả vờ hắt hơi, giả vờ lấy khăn giấy."
+                            },
+                            {
+                                "text": "<b>Kĩ năng vận động tinh:</b> chơi trò chơi tương tác."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "materials": {
+                "title": "Dụng cụ - Học liệu",
+                "list": [
+                    {
+                        "text": "Kidsloop CMS: 5-6_U3_LP15_Healthy habits 3."
+                    }
+                ]
+            },
+            "lessons": {
+                "title": "Tiến trình bài học",
+                "list": [
+                    {
+                        "left_content": {
+                            "title": "Mở đầu",
+                            "text": "<i>3 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Chào học sinh “<i>Chào buổi sáng / buổi chiều</i>”. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
+                                    },
+                                    {
+                                        "text": "Trả lời với “<i>Các con khỏe không?</i>”. Khuyến khích học sinh trả lời lại với “<i>Con ___(khỏe)</i>”"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Hát",
+                            "text": "“Three sick Kittens”.<br/><i><i>10 phút</i></i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Bắt đầu bài học bằng một bài hát."
+                                    },
+                                    {
+                                        "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về cách giữ vệ sinh cá nhân.”</i>"
+                                    },
+                                    {
+                                        "text": "Phát bài hát: <b>“Three sick kittens”</b>."
+                                    },
+                                    {
+                                        "text": "Tạo động tác và khuyến khích học sinh làm theo:",
+                                        "list": [
+                                            {
+                                                "text": "<b>Sick:</b> chạm vào trán."
+                                            },
+                                            {
+                                                "text": "<b>Sneeze:</b> giả vờ hắt hơi."
+                                            },
+                                            {
+                                                "text": "<b>Grab a tissue:</b> giả vờ lấy khăn giấy."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Mở lại bái hát lần nữa, ngừng nhạc và tập trung vào từ vựng và nói học sinh lặp lại từ vựng vài lần."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Đọc sách ",
+                            "text": "“Three sick kittens” boardbook<br/><i>10 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<strong>rửa tay, lau khô tay, ăn cháo, nghỉ ngơi</strong>)."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở sách <b>“Three sick Kittens boardbook”</b>, nói học sinh lắng nghe câu truyện."
+                                    },
+                                    {
+                                        "text": "Giáo viên mở lại từng trang của câu truyện và đặt câu hỏi:",
+                                        "list": [
+                                            {
+                                                "text": "<i>Bada đi đâu? &#x02192; Bada đi thăm các chú mèo con.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Chuyện gì xảy ra với các chú mèo? &#x02192; Các chú mèo con bị bệnh.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Bada mang cái gì cho các chú mèo con? &#x02192; Bada mang cháo cho các chú mèo con.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Các chú mèo con nên làm gì để giữ tay sạch sẽ? &#x02192; Các chú mèo con nên rửa tay.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Các chú mèo con làm gì với Mat? &#x02192; Các chú mèo lau khô tay trên Mat.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Các chú  mèo con nên dùng gì để lau khô tay? &#x02192; Các chú mèo nên lau khô tay với khăn.</i>"
+                                            },
+                                            {
+                                                "text": "<i>Các chú mèo con làm gì sau khi rửa tay và lau khô tay?-> Các chú mèo ăn cháo và nghỉ ngơi.</i>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "Giáo viên nói học sinh lặp lại từ vựng và sửa phát âm của học sinh <b>(rửa tay, lau khô tay, ăn canh nóng, nghỉ ngơi)</b>."
+                                    },
+                                    {
+                                        "text": "Chơi trò chơi để ôn tập từ vựng.",
+                                        "list": [
+                                            {
+                                                "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>rửa tay, lau khô tay, ăn canh nóng, nghỉ ngơi</b>)"
+                                            },
+                                            {
+                                                "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
+                                            },
+                                            {
+                                                "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần và sửa phát âm cho học sinh."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Vui chơi",
+                            "text": "<i>20 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "title": "Củng cố từ vựng"
+                            },
+                            {
+                                "text": "<b>Từ vựng – Thói quen sống khỏe 2.</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
+                                    },
+                                    {
+                                        "text": "Giáo viên sửa phát âm của học sinh."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Thẻ hình – Thói quen sống khỏe 3</b>",
+                                "list": [
+                                    {
+                                        "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
+                                    },
+                                    {
+                                        "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả. "
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Trò chơi tương tác"
+                            },
+                            {
+                                "text": "<b>Chọn đáp án đúng – rửa tay</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và câu hỏi và chọn đáp án đúng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Chọn từ đúng – Nghỉ ngơi</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng, nhìn vào bức tranh và chọn từ đúng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Trò chơi trí nhớ - Thói quen sống khỏe 2</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lật 2 bức tranh để tìm các cặp hình ảnh, sau đó đọc to từ vựng."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b>Kéo và thả - Thói quen sống khỏe</b>",
+                                "list": [
+                                    {
+                                        "text": "Mời học sinh lên bảng và nối từ vựng với tranh và đọc to từ vựng."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "left_content": {
+                            "title": "Kết thúc",
+                            "text": "<i>2 phút</i>"
+                        },
+                        "right_content": [
+                            {
+                                "list": [
+                                    {
+                                        "text": "Mở lại bài hát <b>“Three sick Kittens”</b>"
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh dọn dẹp lớp học."
+                                    },
+                                    {
+                                        "text": "Tạm biệt học sinh."
+                                    },
+                                    {
+                                        "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
-      ],
-      "learning": {
-        "title": "Learning objectives",
-        "subtitle": "Students will be able to:",
-        "list": [
-          {
-            "text": "learn vocabulary of personal hygiene: wash your hands, dry your hands, eat soup, rest."
-          },
-          {
-            "text": "develop speaking and listening skills"
-          },
-          {
-            "text": "develop the other skills:",
-            "list": [
-              {
-                "text": "<b>Cognitive development:</b> physical development – nutrition and health."
-              },
-              {
-                "text": "<b>Physical development:</b> movement following the song to touch the head, pretend sneezing, pretend grabbing a tissue."
-              },
-              {
-                "text": "<b>Fine motor skills:</b> play interactive games"
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Materials",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U3_LP15_Healthy habits 3."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Lesson Flow",
-        "list": [
-          {
-            "left_content": {
-              "title": "Opening",
-              "text": "<i>3 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Greet students. <i>“Good morning/afternoon.”</i> Wave at students and encourage them to wave back to the teacher as they repeat the greeting."
-                  },
-                  {
-                    "text": "Reply with <i>“How are you today?”</i> Encourage students to reply back with <i>“I am ___ (good)”</i>."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Sing",
-              "text": "“Dance: Three sick Kittens”<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Start the lesson by listening to the song"
-                  },
-                  {
-                    "text": "Teacher says: “<i>We will sing a song about symptoms of sickness</i>”"
-                  },
-                  {
-                    "text": "Play the song (dance): “<b>Three sick Kittens”.”</b>"
-                  },
-                  {
-                    "text": "Make actions and encourage students to follow:",
-                    "list": [
-                      {
-                        "text": "<b>Sick:</b> touch your forehead."
-                      },
-                      {
-                        "text": "<b>Sneeze:</b> pretend sneezing."
-                      },
-                      {
-                        "text": "<b>Grab a tissue:</b> pretend grabbing a tissue."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Play a song again, pause the song and focus on the keyword and ask students to repeat the keywords in several times. "
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Read",
-              "text": "“Three sick Kittens” boardbook<br/><i>10 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Introduce the topic and keywords of the lesson (<b>wash your hands, dry your hands, eat soup, rest</b>)."
-                  },
-                  {
-                    "text": "Teacher plays the boardbook “<b>Three sick Kittens</b>” and asks students to listen to the story."
-                  },
-                  {
-                    "text": "Teacher plays the story again and asks students question.",
-                    "list": [
-                      {
-                        "text": "<i>Where has Bada come? &#x02192; Bada has come to visit the Kittens.</i>"
-                      },
-                      {
-                        "text": "<i>What happens with the Kittens? &#x02192; The Kittens are sick.</i>"
-                      },
-                      {
-                        "text": "<i>What has Bada brought for Kittens? &#x02192; Bada has brought the soup for Kittens.</i>"
-                      },
-                      {
-                        "text": "<i>What should the Kittens do to keep their hands clean? &#x02192; They should wash their hands.</i>"
-                      },
-                      {
-                        "text": "<i>What do the Kittens do on Mat? &#x02192; They dry their hands on Mat.</i>"
-                      },
-                      {
-                        "text": "<i>What should the Kittens use to dry their hands? &#x02192; They should dry their hands with a towel.</i>"
-                      },
-                      {
-                        "text": "<i>What do the Kittens do after they wash their hands and dry their hands? &#x02192; They have a bowl of soup and rest.</i>"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Teacher asks students to repeat the keywords and corrects their pronunciation. (<b>wash your hands, dry your hands, eat soup, rest</b>)."
-                  },
-                  {
-                    "text": "Play a game to review the keywords.",
-                    "list": [
-                      {
-                        "text": "Teacher flips through the book and stops at a random page containing the day’s keywords (<b>wash your hands, dry your hands, eat soup, rest</b>)."
-                      },
-                      {
-                        "text": "Point to an image and ask students to say the keywords."
-                      },
-                      {
-                        "text": "Teacher asks students to repeat the keywords several times and corrects their pronunciation."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Play",
-              "text": "<i>20 mins</i>"
-            },
-            "right_content": [
-              {
-                "title": "Reinforce vocabulary"
-              },
-              {
-                "text": "<b>Keywords - Healthy habits 2</b>",
-                "list": [
-                  {
-                    "text": "Invite student to come to the board, click on the pictures and asks students to listen and repeat the keywords."
-                  },
-                  {
-                    "text": "Teacher corrects their pronunciation"
-                  }
-                ]
-              },
-              {
-                "text": "<b>Flashcards - Healthy habits 3</b>",
-                "list": [
-                  {
-                    "text": "Teacher plays the flashcards, invites students to look at the pictures and say the words."
-                  },
-                  {
-                    "text": "Record their voice and check the answers."
-                  }
-                ]
-              },
-              {
-                "title": "Interactive games"
-              },
-              {
-                "text": "<b>Choose the correct answer - Wash your hands</b>",
-                "list": [
-                  {
-                    "text": "Invite student to come to the board, look at the picture and the question and choose the correct answer."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Choose the correct word - Rest</b>",
-                "list": [
-                  {
-                    "text": "Invite student to come to the board, look at the picture and choose the correct word."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Memory game - Healthy Habits 2</b>",
-                "list": [
-                  {
-                    "text": "Invite students to turn over 2 cards to find the pairs of pictures and then say the word aloud."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Drag & Drop - Healthy Habits</b>",
-                "list": [
-                  {
-                    "text": "Invite students to go to the board and match the pictures, keywords and then say the word aloud."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Closing",
-              "text": "<i>2 mins</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Play the song <strong>“Three sick Kittens”</strong> again"
-                  },
-                  {
-                    "text": "Tell students to tidy up the classroom"
-                  },
-                  {
-                    "text": "Say goodbye to students"
-                  },
-                  {
-                    "text": "Ask students to say goodbye to their peers and to the teacher"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "lang": "vi",
-      "unit": "CHƯƠNG 3: BẢN THÂN BÉ",
-      "lesson_name": "BÀI 15: THÓI QUEN SỐNG KHỎE 3",
-      "description": [
-        {
-          "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-          "text": "5-6 tuổi"
-        },
-        {
-          "icon": "https://i.ibb.co/k0pRHVq/gl-history-solid.png",
-          "text": "45 phút"
-        }
-      ],
-      "learning": {
-        "title": "Mục tiêu bài học",
-        "subtitle": "Học sinh sẽ được:",
-        "list": [
-          {
-            "text": "học từ vựng về vệ sinh cá nhân: rửa tay, lau khô tay, ăn cháo, nghỉ ngơi."
-          },
-          {
-            "text": "phát triển kĩ năng nghe và nói."
-          },
-          {
-            "text": "phát triển các kĩ năng khác:",
-            "list": [
-              {
-                "text": "<b>Phát triển nhận thức:</b> giáo dục phát triển thể chất - dinh dưỡng và sức khỏe."
-              },
-              {
-                "text": "<b>Kĩ năng vận đông thô:</b> vận động theo nhạc, học sinh chạm tay vào đầu, giả vờ hắt hơi, giả vờ lấy khăn giấy."
-              },
-              {
-                "text": "<b>Kĩ năng vận động tinh:</b> chơi trò chơi tương tác."
-              }
-            ]
-          }
-        ]
-      },
-      "materials": {
-        "title": "Dụng cụ - Học liệu",
-        "list": [
-          {
-            "text": "Kidsloop CMS: 5-6_U3_LP15_Healthy habits 3."
-          }
-        ]
-      },
-      "lessons": {
-        "title": "Tiến trình bài học",
-        "list": [
-          {
-            "left_content": {
-              "title": "Mở đầu",
-              "text": "<i>3 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Chào học sinh “<i>Chào buổi sáng / buổi chiều</i>”. Vẫy tay với học sinh và khuyến khích học sinh vẫy tay lại với giáo viên cũng như lặp lại lời chào."
-                  },
-                  {
-                    "text": "Trả lời với “<i>Các con khỏe không?</i>”. Khuyến khích học sinh trả lời lại với “<i>Con ___(khỏe)</i>”"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Hát",
-              "text": "“Three sick Kittens”.<br/><i><i>10 phút</i></i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Bắt đầu bài học bằng một bài hát."
-                  },
-                  {
-                    "text": "Giáo viên nói: <i>“Hôm nay chúng ta sẽ nghe một bài hát về cách giữ vệ sinh cá nhân.”</i>"
-                  },
-                  {
-                    "text": "Phát bài hát: <b>“Three sick kittens”</b>."
-                  },
-                  {
-                    "text": "Tạo động tác và khuyến khích học sinh làm theo:",
-                    "list": [
-                      {
-                        "text": "<b>Sick:</b> chạm vào trán."
-                      },
-                      {
-                        "text": "<b>Sneeze:</b> giả vờ hắt hơi."
-                      },
-                      {
-                        "text": "<b>Grab a tissue:</b> giả vờ lấy khăn giấy."
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Mở lại bái hát lần nữa, ngừng nhạc và tập trung vào từ vựng và nói học sinh lặp lại từ vựng vài lần."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Đọc sách ",
-              "text": "“Three sick kittens” boardbook<br/><i>10 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Giới thiệu chủ đề và từ vựng quan trọng của bài học (<strong>rửa tay, lau khô tay, ăn cháo, nghỉ ngơi</strong>)."
-                  },
-                  {
-                    "text": "Giáo viên mở sách <b>“Three sick Kittens boardbook”</b>, nói học sinh lắng nghe câu truyện."
-                  },
-                  {
-                    "text": "Giáo viên mở lại từng trang của câu truyện và đặt câu hỏi:",
-                    "list": [
-                      {
-                        "text": "<i>Bada đi đâu? &#x02192; Bada đi thăm các chú mèo con.</i>"
-                      },
-                      {
-                        "text": "<i>Chuyện gì xảy ra với các chú mèo? &#x02192; Các chú mèo con bị bệnh.</i>"
-                      },
-                      {
-                        "text": "<i>Bada mang cái gì cho các chú mèo con? &#x02192; Bada mang cháo cho các chú mèo con.</i>"
-                      },
-                      {
-                        "text": "<i>Các chú mèo con nên làm gì để giữ tay sạch sẽ? &#x02192; Các chú mèo con nên rửa tay.</i>"
-                      },
-                      {
-                        "text": "<i>Các chú mèo con làm gì với Mat? &#x02192; Các chú mèo lau khô tay trên Mat.</i>"
-                      },
-                      {
-                        "text": "<i>Các chú  mèo con nên dùng gì để lau khô tay? &#x02192; Các chú mèo nên lau khô tay với khăn.</i>"
-                      },
-                      {
-                        "text": "<i>Các chú mèo con làm gì sau khi rửa tay và lau khô tay?-> Các chú mèo ăn cháo và nghỉ ngơi.</i>"
-                      }
-                    ]
-                  },
-                  {
-                    "text": "Giáo viên nói học sinh lặp lại từ vựng và sửa phát âm của học sinh <b>(rửa tay, lau khô tay, ăn canh nóng, nghỉ ngơi)</b>."
-                  },
-                  {
-                    "text": "Chơi trò chơi để ôn tập từ vựng.",
-                    "list": [
-                      {
-                        "text": "Giáo viên lật sách và dừng ở trang bất kì có chứa từ vựng (<b>rửa tay, lau khô tay, ăn canh nóng, nghỉ ngơi</b>)"
-                      },
-                      {
-                        "text": "Chỉ vào hình ảnh và nói học sinh đọc từ vựng."
-                      },
-                      {
-                        "text": "Giáo viên nói học sinh lặp lại từ vựng vài lần và sửa phát âm cho học sinh."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Vui chơi",
-              "text": "<i>20 phút</i>"
-            },
-            "right_content": [
-              {
-                "title": "Củng cố từ vựng"
-              },
-              {
-                "text": "<b>Từ vựng – Thói quen sống khỏe 2.</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, bấm vào các bức tranh và nói học sinh lắng nghe và lặp lại từ vựng."
-                  },
-                  {
-                    "text": "Giáo viên sửa phát âm của học sinh."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Thẻ hình – Thói quen sống khỏe 3</b>",
-                "list": [
-                  {
-                    "text": "Giáo viên mở các thẻ hình, yêu cầu học sinh nhìn vào hình và đọc từ."
-                  },
-                  {
-                    "text": "Thu âm giọng đọc của học sinh và kiểm tra kết quả. "
-                  }
-                ]
-              },
-              {
-                "title": "Trò chơi tương tác"
-              },
-              {
-                "text": "<b>Chọn đáp án đúng – rửa tay</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và câu hỏi và chọn đáp án đúng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Chọn từ đúng – Nghỉ ngơi</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng, nhìn vào bức tranh và chọn từ đúng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Trò chơi trí nhớ - Thói quen sống khỏe 2</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lật 2 bức tranh để tìm các cặp hình ảnh, sau đó đọc to từ vựng."
-                  }
-                ]
-              },
-              {
-                "text": "<b>Kéo và thả - Thói quen sống khỏe</b>",
-                "list": [
-                  {
-                    "text": "Mời học sinh lên bảng và nối từ vựng với tranh và đọc to từ vựng."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "left_content": {
-              "title": "Kết thúc",
-              "text": "<i>2 phút</i>"
-            },
-            "right_content": [
-              {
-                "list": [
-                  {
-                    "text": "Mở lại bài hát <b>“Three sick Kittens”</b>"
-                  },
-                  {
-                    "text": "Yêu cầu học sinh dọn dẹp lớp học."
-                  },
-                  {
-                    "text": "Tạm biệt học sinh."
-                  },
-                  {
-                    "text": "Yêu cầu học sinh nói cảm ơn, tạm biệt với các bạn trong lớp và giáo viên."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }
