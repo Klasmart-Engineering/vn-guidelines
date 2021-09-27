@@ -219,14 +219,14 @@
                                 },
                                 { "text": "<b>Check Meaning </b>" },
                                 {
-                                    "text": "Repeat steps 1 - 6 for Circle the correct word activity.",
+                                    "text": "Repeat steps 1 - 6 for Drag and drop activity.",
                                     "list": [
                                         { "text": "Auto audio of 1 keyword." },
                                         {
-                                            "text": "3 pictures of different items."
+                                            "text": "3 pictures below of keywords."
                                         },
                                         {
-                                            "text": "Students must circle the correct word."
+                                            "text": "Students must listen and drag the correct picture to the box."
                                         }
                                     ]
                                 }
@@ -455,16 +455,16 @@
                                 },
                                 { "text": "<b>Kiểm tra sự hiểu biết</b>" },
                                 {
-                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động Khoanh tròn từ đúng.",
+                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động Kéo và thả.",
                                     "list": [
                                         {
-                                            "text": "Tự động phát âm thanh của 1 từ vựng"
+                                            "text": "Tự động phát âm thanh 1 từ vựng"
                                         },
                                         {
-                                            "text": "3 bức tranh với các đồ vật khác nhau."
+                                            "text": "3 bức tranh về từ vựng bên dưới"
                                         },
                                         {
-                                            "text": "Học sinh phải khoanh tròn từ đúng."
+                                            "text": "Trẻ phải nghe và kéo bức tranh đúng vào hộp"
                                         }
                                     ]
                                 }
