@@ -1,0 +1,461 @@
+{
+    "banner": "https://i.ibb.co/9p7wMjP/gl-03.jpg",
+    "content": [
+        {
+            "lang": "en",
+            "unit": "Unit 9 - Lesson 1: Review Unit 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "Level 2"
+                }
+            ],
+            "objectives": {
+                "title": "Lesson Objectives:",
+                "list": [
+                    {
+                        "name": "Speaking",
+                        "types": [
+                            {
+                                "name": "Vocabulary",
+                                "contents": [
+                                    {
+                                        "text": "Students will be review the class rules: Be Nice, Listen, Raise Your Hand and Sit Nicely."
+                                    },
+                                    {
+                                        "text": "Review the Vocabulary from Unit 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sentence Pattern",
+                                "contents": [
+                                    {
+                                        "text": "Review the Sentence Patterns from Unit 1"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Whole-Child",
+                        "types": [
+                            {
+                                "name": "Social and Emotional Learning",
+                                "contents": [
+                                    { "text": "Expressing emotions." },
+                                    { "text": "Regulating behaviour." },
+                                    {
+                                        "text": "Demostrating respectful interactions."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cognitive Development",
+                                "contents": [
+                                    {
+                                        "text": "Engaging in socio-dramatic play. "
+                                    },
+                                    {
+                                        "text": "Matching, comparing and/or classifying objects."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Physical Coordination",
+                                "contents": [
+                                    {
+                                        "text": "Improving movement and coordination."
+                                    },
+                                    { "text": "Using tools." }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "learning": {
+                "title": "Review",
+                "subtitle": "Lesson 1: Review Unit 1",
+                "duration": "Duration: 30 mins",
+                "aim": "Aim of the lesson:",
+                "desc": "By the end of this lesson, students will have been reviewed and practised vocabulary within sentence patterns relating to emotions in the context of the topic of \"My Kindergarten\"."
+            },
+            "lessons": {
+                "types": [
+                    { "text": "Lesson Stages", "width": "10%" },
+                    { "text": "Stage Aims", "width": "20%" },
+                    { "text": "Procedures", "width": "70%" }
+                ],
+                "list": [
+                    {
+                        "lesson": "CRM (Classroom Management) & Lead-In <br> <i>5 mins</i>",
+                        "stage": "Introduce classroom management system. <br>Set context for the lesson and generate interest in the topic and see what kids already know about it.",
+                        "procedures": {
+                            "text": "<b>Review CRM & Lead into the Lesson</b>",
+                            "list": [
+                                {
+                                    "text": " Introduce Classroom Rules via slides (Audio autoplay saying the specific classroom rule. Children have to tap/click the correct image. Repeat for each of the classroom rules)."
+                                },
+                                {
+                                    "text": "Remind the children of the theme: \"Today we will continue talking about our school.\" "
+                                },
+                                {
+                                    "text": "Ask the children questions to refresh their memory from the previous lesson. for example \"What words did we learn last time?\""
+                                },
+                                {
+                                    "text": "<i>Questions may be presented and answered in Vietnamese if the questions are a bit complicated."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "Review Key Vocabulary <br> <i>10 mins</i>",
+                        "stage": "Show how the Key Vocabulary is used within the set context of \"My Kindergarten\" ",
+                        "procedures": {
+                            "text": "<b>Review the Key Vocabulary</b>",
+                            "list": [
+                                {
+                                    "text": "Using Flashcards to introduce the key vocabulary. (First play \"If You're Happy and You Know It\" video song.)",
+                                    "list": [
+                                        {
+                                            "text": "Flashcards with words: teacher, student, classroom, letter, pen, open, close, class,board, desk, draw."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Test students' prior knowledge. Allow them time to attempt to say the words before you say the words."
+                                },
+                                {
+                                    "text": "Ask students to repeat the word after you. If a child doesn't want to repeat the word, that is ok. Give them time to gain confidence."
+                                },
+                                {
+                                    "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\""
+                                },
+                                {
+                                    "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "How to Refer Back to the CRM & Award Rewards",
+                        "stage": "",
+                        "procedures": {
+                            "list": [
+                                {
+                                    "text": "<i>Praise children for trying, not just for correct answers. We will revisit the vocabulary, now is the time for children to enjoy, gain confidence and want to try.  ."
+                                },
+                                {
+                                    "text": "<i>Never take stars away from a child- that is negative reinforcement and doesn't work well. Simply award MORE stars to children who did behave and did try.  Tell those who didn't that if they behave and follow the Class Rules and try in the next activity, then you can give them more stars, and you'd love to do that! Really encourage them to want to try.  "
+                                },
+                                {
+                                    "text": "<i>For the same reasons, never give stars for winning or getting an answer correct - always for good behaviour and for trying.  Otherwise, the stronger children get all the rewards and the children who need more support get discouraged and stop trying."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "Explain Meaning & Check Understanding <br> <i>15 mins</i>",
+                        "stage": "Use different activities to give children repeated exposure to meaning of the vocabulary and sentence patterns. <br>Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
+                        "procedures": {
+                            "text": "<b>Explain Meaning</b>",
+                            "list": [
+                                {
+                                    "text": "Explain Drag and drop Activity (in Vietnamese if necessary)",
+                                    "list": [
+                                        {
+                                            "text": "Drag and drop (true and false)"
+                                        },
+                                        {
+                                            "text": "Autoplay audio sentence: It's a _____."
+                                        },
+                                        {
+                                            "text": "Picture in the middle of Keyword"
+                                        },
+                                        {
+                                            "text": "2 drop areas (right, green tick & left, red cross)"
+                                        },
+                                        {
+                                            "text": "Students must listen to the sentence and drag the picture to the correct side"
+                                        }
+                                    ]
+                                },
+                                { "text": "Demo Activity." },
+                                {
+                                    "text": "Ask ICQs (in Vietnamese if necessary)"
+                                },
+                                {
+                                    "text": "Proceed with the activities taking turns allowing different children to try. Remember not to force children to try, allow them to gain confidence over time. "
+                                },
+                                {
+                                    "text": "Use an Attention Getter to get the children's attention. When they are paying attention, praise them for completing the activity and tell them, clearly and slowly, \"Everyone, sit down!\"."
+                                },
+                                {
+                                    "text": "Once the children are all sitting and paying attention, refer back to the Classroom Rules and Reward students who followed the behaviour rules during the activity with stars."
+                                },
+                                { "text": "<b>Check Understanding</b>" },
+                                {
+                                    "text": "Repeat steps 1 - 6 for Multiple Hotspot Activity.",
+                                    "list": [
+                                        {
+                                            "text": "9 pictures (3 of the correct emotion)"
+                                        },
+                                        {
+                                            "text": "Autoplay audio of word. E.g. happy"
+                                        },
+                                        {
+                                            "text": "Children have to choose the 3 correct pictures."
+                                        },
+                                        {
+                                            "text": "Repeat for all 8 emotion words."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Repeat steps 1 - 6 for Multiple Hotspot Activity.",
+                                    "list": [
+                                        {
+                                            "text": "9 pictures of the emotions (1 of the correct emotion)"
+                                        },
+                                        {
+                                            "text": "Auto play audio question, for example: How are you? I'm happy"
+                                        },
+                                        {
+                                            "text": "Children then must find the child that is happy and tap/click on them."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "end": "END OF LESSON REVIEW UNIT 1"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "lang": "vi",
+            "unit": "Chương 9 - Bài 1: Ôn tập - Chương 1",
+            "description": [
+                {
+                    "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
+                    "text": "Cấp độ 2"
+                }
+            ],
+            "objectives": {
+                "title": "Mục tiêu bài học:",
+                "list": [
+                    {
+                        "name": "Kỹ năng nói",
+                        "types": [
+                            {
+                                "name": "Từ vựng",
+                                "contents": [
+                                    {
+                                        "text": "Trẻ sẽ được ôn tập các nội quy của lớp học: tử tế, lắng nghe, giơ tay và ngồi đúng chỗ."
+                                    },
+                                    { "text": "Ôn tập từ vựng chương 1." }
+                                ]
+                            },
+                            {
+                                "name": "Mẫu câu",
+                                "contents": [
+                                    { "text": "Ôn tập mẫu câu chương 1" }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phát triển Toàn diện",
+                        "types": [
+                            {
+                                "name": "Năng lực cảm xúc và xã hội",
+                                "contents": [
+                                    { "text": "Biểu lộ cảm xúc." },
+                                    { "text": "Điều chỉnh hành vi." },
+                                    {
+                                        "text": "Thể hiện sự tương tác tôn trọng."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phát triển nhận thức",
+                                "contents": [
+                                    {
+                                        "text": "Tham gia vào các hoạt động đóng vai. "
+                                    },
+                                    {
+                                        "text": "Ghép nối, so sánh, phân loại đồ vật."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phối hợp thể chất",
+                                "contents": [
+                                    {
+                                        "text": "Cải thiện vận động và phối hợp."
+                                    },
+                                    { "text": "Sử dụng công cụ." }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "learning": {
+                "title": "Ôn tập",
+                "subtitle": "Bài 1: Ôn tập - Chương 1",
+                "duration": "Thời gian: 30 phút",
+                "aim": "Mục tiêu bài học:",
+                "desc": "Ở bài học này, học sinh sẽ được ôn tập và thực hành từ vựng  trong mẫu câu liên quan đến cảm xúc trong ngữ cảnh của chủ đề \"Trường mầm non của bé\"."
+            },
+            "lessons": {
+                "types": [
+                    { "text": "Các giai đoạn của bài học", "width": "20%" },
+                    { "text": "Mục tiêu của giai đoạn", "width": "20%" },
+                    { "text": "Các bước thực hiện", "width": "60%" }
+                ],
+                "list": [
+                    {
+                        "lesson": "Quy trình quản lý lớp học & Dẫn dắt vào bài học <br> <i>5 phút</i>",
+                        "stage": "Giới thiệu quy trình quản lý lớp học. <br>Đặt bối cảnh cho buổi học và tạo ra sự quan tâm đến chủ đề và xem những gì trẻ đã biết về chủ đề đó.",
+                        "procedures": {
+                            "text": "<b>Ôn tập quy trình quản lý lớp học & dẫn dắt vào bài học</b>",
+                            "list": [
+                                {
+                                    "text": " Giới thiệu Nội quy lớp học qua Hoạt động phát slide thuyết trình về nội quy lớp học. (Tự động phát âm thanh cho biết nội quy lớp học cụ thể. Trẻ phải nhấn / nhấp vào hình ảnh chính xác. Lặp lại cho từng nội quy trong lớp học)."
+                                },
+                                {
+                                    "text": "Nhắc lại trẻ chủ đề: \"Hôm nay chúng ta sẽ tiếp tục trò chuyện về trường học của chúng ta\"."
+                                },
+                                {
+                                    "text": "Hỏi trẻ những câu hỏi để kích hoạt lại trí nhớ của trẻ từ bài học trước. Ví dụ: \"Lần trước chúng ta đã học từ gì?\""
+                                },
+                                {
+                                    "text": "<i>Các câu hỏi có thể được trình bày và trả lời bằng tiếng Việt nếu câu hỏi hơi phức tạp."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "Ôn tập từ vựng <br> <i>10 phút</i>",
+                        "stage": "Chỉ ra cách dùng từ vựng trong ngữ cảnh \"Trường mầm non của bé\" ",
+                        "procedures": {
+                            "text": "<b> Ôn tập từ vựng</b>",
+                            "list": [
+                                {
+                                    "text": "Sử dụng thẻ hình ảnh để giới thiệu từ vựng. (Đầu tiên phát bài hát: If You're Happy and You Know It)",
+                                    "list": [
+                                        {
+                                            "text": "Thẻ hình ảnh với các từ vựng: teacher, student, classroom, letter, pen, open, close, class,board, desk, draw. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Kiểm tra kiến thức trước của học sinh. Cho phép trẻ có thời gian để cố gắng trả lời trước khi bạn gợi ý. "
+                                },
+                                {
+                                    "text": "Yêu cầu học sinh nhắc lại từ theo bạn. Nếu một đứa trẻ không muốn lặp lại từ đó, điều đó không sao cả. Hãy cho trẻ thời gian để có được sự tự tin."
+                                },
+                                {
+                                    "text": "Sử dụng một hoạt động thu hút sự chú ý khi cần sự chú ý của trẻ. Khi trẻ đang chú ý, hãy khen ngợi trẻ đã hoàn thành hoạt động và nói với trẻ, rõ ràng và chậm rãi, \"Tất cả ngồi xuống!\""
+                                },
+                                {
+                                    "text": "Khi tất cả học sinh đã ngồi và chú ý, hãy ôn lại Nội quy lớp học và Khen thưởng những học sinh tuân thủ các quy tắc hành vi trong hoạt động với các ngôi sao phần thưởng. "
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "Cách nhắc lại Nội quy quản lý lớp học & Phần thưởng ",
+                        "stage": "",
+                        "procedures": {
+                            "list": [
+                                {
+                                    "text": "<i>Khen ngợi trẻ vì đã cố gắng chứ không chỉ khen khi trẻ trả lời đúng. Chúng ta sẽ cùng nhau ôn lại từ vựng, bây giờ là lúc trẻ thích thú, tự tin và muốn thử sức."
+                                },
+                                {
+                                    "text": "<i>Đừng bao giờ lấy đi những ngôi sao phần thưởng khỏi trẻ - đó mang lại sự tiêu cực và không có hiệu quả. Đơn giản chỉ cần cho THÊM sao cho những trẻ đã cư xử tốt và có cố gắng. Hãy nói với những trẻ không biết điều đó nếu trẻ cư xử đúng và tuân theo Nội quy lớp học và cố gắng trong hoạt động tiếp theo, thì bạn có thể cho trẻ nhiều sao hơn, và bạn sẽ thích làm điều đó! Hãy thực sự khuyến khích trẻ cố gắng hết mình. "
+                                },
+                                {
+                                    "text": "<i>Vì những lý do tương tự, đừng bao giờ cho trẻ sao khi chiến thắng một trò chơi hoặc khi đưa ra được một câu trả lời đúng - luôn luôn dành tặng sao cho những hành vi tốt và sự cố gắng. Nếu không, những đứa trẻ học lực tốt hơn sẽ nhận được tất cả phần thưởng và những đứa trẻ cần được hỗ trợ nhiều hơn sẽ nản lòng và ngừng cố gắng. "
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lesson": "Giải thích ý nghĩa & Kiểm tra sự hiểu biết <br> <i>15 phút</i>",
+                        "stage": "Sử dụng các hoạt động khác nhau để giúp trẻ tiếp xúc nhiều lần với nghĩa của từ vựng và mẫu câu. <br>Hãy nhớ rằng sự tập trung của trẻ ở lứa tuổi này rất ngắn, và trẻ cần được vui vẻ và học qua những trò chơi thu hút và gây hứng thú ít nhất là trong vài phút mỗi lần. ",
+                        "procedures": {
+                            "text": "<b>Giải thích ý nghĩa </b>",
+                            "list": [
+                                {
+                                    "text": "Giải thích hoạt động kéo và thả (bằng tiếng việt nếu cần) ",
+                                    "list": [
+                                        { "text": "Kéo và thả (đúng và sai)" },
+                                        {
+                                            "text": "Tự động phát âm thanh câu: It's a _____."
+                                        },
+                                        { "text": "Bức tranh từ vựng ở giữa " },
+                                        {
+                                            "text": "2 khu vực thả (bên phải, dấu tích màu xanh lá cây và bên trái, dấu chéo màu đỏ)"
+                                        },
+                                        {
+                                            "text": "Trẻ phải nghe câu và kéo hình về khu vực đúng."
+                                        }
+                                    ]
+                                },
+                                { "text": "Làm mẫu hoạt động." },
+                                {
+                                    "text": "Hỏi câu hỏi để kiểm tra lại các hướng dẫn (bằng tiếng Việt nếu cần)"
+                                },
+                                {
+                                    "text": "Tiến hành lần lượt các hoạt động cho phép các trẻ khác nhau thử sức. Hãy nhớ đừng ép trẻ cố gắng, hãy để trẻ tự tin theo thời gian."
+                                },
+                                {
+                                    "text": "Sử dụng một hoạt động thu hút sự chú ý khi cần sự chú ý của trẻ. Khi trẻ đang chú ý, hãy khen ngợi trẻ đã hoàn thành hoạt động và nói với trẻ, rõ ràng và chậm rãi, \"Tất cả ngồi xuống!\""
+                                },
+                                {
+                                    "text": "Khi tất cả học sinh đã ngồi và chú ý, hãy ôn lại Nội quy lớp học và Khen thưởng những học sinh tuân thủ các quy tắc hành vi trong hoạt động với các ngôi sao phần thưởng."
+                                },
+                                { "text": "<b>Kiểm tra sự hiểu biết</b>" },
+                                {
+                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động Multiple Hotspot.",
+                                    "list": [
+                                        {
+                                            "text": "9 bức tranh (3 bức tranh đúng với cảm xúc)"
+                                        },
+                                        {
+                                            "text": "Tự động phát âm thanh từ. Ví dụ: happy"
+                                        },
+                                        {
+                                            "text": "Trẻ phái chọn 3 bức tranh đúng"
+                                        },
+                                        {
+                                            "text": "Lặp lại cho tất cả 8 từ vựng chỉ cảm xúc."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động Multiple Hotspot.",
+                                    "list": [
+                                        {
+                                            "text": "9 bức tranh về cảm xúc (1 bức tranh là cảm xúc đúng)"
+                                        },
+                                        {
+                                            "text": "Tự động phát âm thanh câu hỏi, ví dụ: How are you? I'm happy"
+                                        },
+                                        {
+                                            "text": "Trẻ phải tìm hình ảnh đứa trẻ vui vẻ và chạm / nhấn vào chúng."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "end": "KẾT THÚC BÀI 1 - ÔN TẬP CHƯƠNG 1"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
