@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueMeta from 'vue-meta'
+import moment from 'moment';
 import App from './App.vue'
 import { store } from './store'
 import { router } from './route'
@@ -13,3 +14,9 @@ new Vue({
     store,
     render: (h) => h(App),
 }).$mount('#app')
+
+Vue.filter('formatDate', function(value) {
+    if (value) {
+        return moment(value*1000).format('YYYY-MM-DD HH:mm:ss')
+    }
+});
