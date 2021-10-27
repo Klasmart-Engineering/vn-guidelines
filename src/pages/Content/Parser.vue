@@ -85,7 +85,7 @@ export default {
                 id: item.id,
                 name: item.name,
                 content_type_name: item.content_type_name,
-                keywords: item.keywords.join(','),
+                keywords: item.keywords.join(';'),
                 description: item.description,
                 items_count: item.items_count,
                 publish_status: item.publish_status,
@@ -97,9 +97,9 @@ export default {
             if (this.fileName.length) {
                 let csvContent = 'data:text/csv;charset=utf-8,'
                 csvContent += [
-                    Object.keys(arrExtractedData[0]).join(';'), // titles
+                    Object.keys(arrExtractedData[0]).join(','), // titles
                     ...arrExtractedData.map((item) =>
-                        Object.values(item).join(';')
+                        Object.values(item).join(',')
                     ), // values
                 ]
                     .join('\n')
