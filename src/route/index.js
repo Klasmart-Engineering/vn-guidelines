@@ -6,6 +6,7 @@ import Create from '../pages/Guidelines/Create'
 import ListB from '../pages/GuidelinesB/Index'
 import ShowB from '../pages/GuidelinesB/Show'
 import CreateB from '../pages/GuidelinesB/Create'
+import Parser from '../pages/Content/Parser'
 
 Vue.use(VueRouter)
 
@@ -39,6 +40,11 @@ const routes = [
         path: '/editor-b',
         name: 'guidelines-create-b',
         component: CreateB,
+    },
+    {
+        path: '/content',
+        name: 'content-parser',
+        component: Parser,
     },
 ]
 

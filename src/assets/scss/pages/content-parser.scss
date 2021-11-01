@@ -1,0 +1,37 @@
+.page-content-parser {
+    .editor-wrap {
+        .jsoneditor-vue {
+            height: 40vh;
+        }
+
+        .actions-wrap {
+            display: flex;
+            align-items: center;
+            left: 0;
+            width: 100%;
+            bottom: -51px;
+
+            .btn {
+                text-transform: uppercase;
+            }
+
+            .btn-reset {
+                margin-left: 10px;
+            }
+
+            .input-name-wrap {
+                margin-left: auto;
+                margin-right: 0px;
+
+                input {
+                    width: 200px;
+                    padding: 0 15px;
+                    line-height: 38px;
+                    height: 38px;
+                    border: solid 1px $primary-color;
+                    border-radius: 5px;
+                }
+            }
+        }
+    }
+}
