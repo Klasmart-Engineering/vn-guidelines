@@ -27,9 +27,6 @@
                                             v-if="
                                                 object.indexOf(
                                                     'U' + (index + 1)
-                                                ) >= 0 ||
-                                                object.indexOf(
-                                                    'Unit_' + (index + 1)
                                                 ) >= 0
                                             "
                                         >
