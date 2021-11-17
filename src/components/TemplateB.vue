@@ -45,9 +45,11 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 text-center">
-                                    <div class="lesson-unit" v-if="data.unit">
-                                        {{ data.unit }}
-                                    </div>
+                                    <div
+                                        class="lesson-unit"
+                                        v-if="data.unit"
+                                        v-html="data.unit"
+                                    ></div>
                                 </div>
                             </div>
                             <div class="row" v-if="data.description">
@@ -252,9 +254,8 @@
                                     <div
                                         class="lesson-unit blue"
                                         v-if="data.unit"
-                                    >
-                                        {{ data.learning.title }}
-                                    </div>
+                                        v-html="data.learning.title"
+                                    ></div>
                                 </div>
                             </div>
                         </div>
