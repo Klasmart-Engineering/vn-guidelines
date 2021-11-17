@@ -3,11 +3,11 @@
     "content": [
         {
             "lang": "en",
-            "unit": "HUMMINGBIRD STANDARD PROGRAMME <br/> Unit 1 - Lesson 8: Review Unit 1",
+            "unit": "HUMMINGBIRD STANDARD PROGRAMME <br/> Unit 1 - Lesson 8: Review",
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-                    "text": "LEVEL 3 <br/> 5-6 YEARS OLD"
+                    "text": "LEVEL 1 <BR/> 3-4 YEARS OLD"
                 }
             ],
             "objectives": {
@@ -22,13 +22,17 @@
                                     {
                                         "text": "Students will be review the class rules: Be Nice, Listen, Raise Your Hand and Sit Nicely."
                                     },
-                                    { "text": "Review the Vocabulary." }
+                                    {
+                                        "text": "Review the Vocabulary from Unit 1"
+                                    }
                                 ]
                             },
                             {
                                 "name": "Sentence Pattern",
                                 "contents": [
-                                    { "text": "Review the Sentence Patterns." }
+                                    {
+                                        "text": "Review the Sentence Patterns from Unit 1"
+                                    }
                                 ]
                             }
                         ]
@@ -71,9 +75,9 @@
                 ]
             },
             "learning": {
-                "title": "MY KINDERGARTEN",
+                "title": "My Kindergarten",
                 "subtitle": "Lesson 8: Review",
-                "duration": "Duration: 35 mins",
+                "duration": "Duration: 25 mins",
                 "aim": "Aim of the lesson:",
                 "desc": "By the end of this lesson, students will have been reviewed and practised vocabulary within sentence patterns relating to emotions in the context of the topic of \"My Kindergarten\"."
             },
@@ -85,7 +89,7 @@
                 ],
                 "list": [
                     {
-                        "lesson": "CRM (Classroom Management) & Lead-In <br> <i>5 mins</i>",
+                        "lesson": "CRM (Classroom Management) & Lead-In <br> <i>2 mins</i>",
                         "stage": "Introduce classroom management system. <br>Set context for the lesson and generate interest in the topic and see what kids already know about it.",
                         "procedures": {
                             "text": "<b>Review CRM & Lead into the Lesson</b>",
@@ -112,10 +116,10 @@
                             "text": "<b>Review the Key Vocabulary</b>",
                             "list": [
                                 {
-                                    "text": "Using Flashcards to introduce the key vocabulary. (First play the song: \"If You're Happy and You Know It\")",
+                                    "text": "Using Flashcards to introduce the key vocabulary. (First play \"If You're Happy and You Know It\" video song.)",
                                     "list": [
                                         {
-                                            "text": "Flashcards with words: happy, sad, shy, sleepy, angry, scared, excited, worried, class, board, computer, keyboard, mouse."
+                                            "text": "Flashcards with words: happy, sad, shy, sleepy, angry."
                                         }
                                     ]
                                 },
@@ -152,19 +156,22 @@
                         }
                     },
                     {
-                        "lesson": "Explain Meaning & Check Understanding <br> <i>20 mins</i>",
+                        "lesson": "Explain Meaning & Check Understanding <br> <i>13 mins</i>",
                         "stage": "Use different activities to give children repeated exposure to meaning of the vocabulary and sentence patterns. <br>Bear in mind their very short focus at this age, and that they need to be having fun and learning through play that engages and interests them for a few minutes at a time, at least.",
                         "procedures": {
                             "text": "<b>Explain Meaning</b>",
                             "list": [
                                 {
-                                    "text": "Explain Drag and drop (true and false) Activity (in Vietnamese if necessary)",
+                                    "text": "Explain Drag and drop Activity (in Vietnamese if necessary)",
                                     "list": [
+                                        {
+                                            "text": "Drag and drop (true and false)"
+                                        },
                                         {
                                             "text": "Autoplay audio sentence: It's a _____."
                                         },
                                         {
-                                            "text": "3 Pictures in the middle of Keyword"
+                                            "text": "Picture in the middle of Keyword"
                                         },
                                         {
                                             "text": "2 drop areas (right, green tick & left, red cross)"
@@ -201,26 +208,26 @@
                                             "text": "Children have to choose the 3 correct pictures."
                                         },
                                         {
-                                            "text": "Repeat for all 9 emotion words."
+                                            "text": "Repeat for all 4 emotion words."
                                         }
                                     ]
                                 },
                                 {
-                                    "text": "Repeat steps 1 - 6 for Multiple choice (with pictures) Activity.",
+                                    "text": "Repeat steps 1 - 6 for Multiple Hotspot Activity.",
                                     "list": [
                                         {
-                                            "text": "Auto play audio question, for example: How are you? I'm sleepy"
+                                            "text": "9 pictures of the emotions (1 of the correct emotion)"
                                         },
                                         {
-                                            "text": "3 pictures below e.g: happy, sad, shy"
+                                            "text": "Auto play audio question, for example: How are you? I'm happy"
                                         },
                                         {
-                                            "text": "Child must listen, read and tap/click correct picture."
+                                            "text": "Children then must find the child that is happy and tap/click on them."
                                         }
                                     ]
                                 }
                             ],
-                            "end": "END OF LESSON 8 - REVIEW"
+                            "end": "END OF LESSON REVIEW UNIT 1"
                         }
                     }
                 ]
@@ -228,11 +235,11 @@
         },
         {
             "lang": "vi",
-            "unit": "CHƯƠNG TRÌNH HUMMINGBIRD TIÊU CHUẨN <br/> Chương 1 - Bài 8: Ôn tập - Chương 1",
+            "unit": "CHƯƠNG TRÌNH HUMMINGBIRD TIÊU CHUẨN <br/> Chương 1 - Bài 8: Ôn tập",
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-                    "text": "Cấp độ 3 <br/> Độ tuổi: 5-6"
+                    "text": "Cấp độ 1 <br/> Độ tuổi: 3-4"
                 }
             ],
             "objectives": {
@@ -247,12 +254,14 @@
                                     {
                                         "text": "Trẻ sẽ được ôn tập các nội quy của lớp học: tử tế, lắng nghe, giơ tay và ngồi đúng chỗ."
                                     },
-                                    { "text": "Ôn tập từ vựng." }
+                                    { "text": "Ôn tập từ vựng chương 1." }
                                 ]
                             },
                             {
                                 "name": "Mẫu câu",
-                                "contents": [{ "text": "Ôn tập mẫu câu." }]
+                                "contents": [
+                                    { "text": "Ôn tập mẫu câu chương 1" }
+                                ]
                             }
                         ]
                     },
@@ -296,7 +305,7 @@
             "learning": {
                 "title": "TRƯỜNG MẦM NON CỦA BÉ",
                 "subtitle": "Bài 8: Ôn tập",
-                "duration": "Thời gian: 35 phút",
+                "duration": "Thời gian: 25 phút",
                 "aim": "Mục tiêu bài học:",
                 "desc": "Ở bài học này, học sinh sẽ được ôn tập và thực hành từ vựng  trong mẫu câu liên quan đến cảm xúc trong ngữ cảnh của chủ đề \"Trường mầm non của bé\"."
             },
@@ -308,7 +317,7 @@
                 ],
                 "list": [
                     {
-                        "lesson": "Quy trình quản lý lớp học & Dẫn dắt vào bài học <br> <i>5 phút</i>",
+                        "lesson": "Quy trình quản lý lớp học & Dẫn dắt vào bài học <br> <i>2 phút</i>",
                         "stage": "Giới thiệu quy trình quản lý lớp học. <br>Đặt bối cảnh cho buổi học và tạo ra sự quan tâm đến chủ đề và xem những gì trẻ đã biết về chủ đề đó.",
                         "procedures": {
                             "text": "<b>Ôn tập quy trình quản lý lớp học & dẫn dắt vào bài học</b>",
@@ -338,7 +347,7 @@
                                     "text": "Sử dụng thẻ hình ảnh để giới thiệu từ vựng. (Đầu tiên phát bài hát: If You're Happy and You Know It)",
                                     "list": [
                                         {
-                                            "text": "Thẻ hình ảnh với các từ vựng: happy, sad, shy, sleepy, angry, scared, excited, worried, class, board, computer, keyboard, mouse."
+                                            "text": "Thẻ hình ảnh với các từ vựng: happy, sad, shy, sleepy, angry. "
                                         }
                                     ]
                                 },
@@ -375,20 +384,19 @@
                         }
                     },
                     {
-                        "lesson": "Giải thích ý nghĩa & Kiểm tra sự hiểu biết <br> <i>20 phút</i>",
+                        "lesson": "Giải thích ý nghĩa & Kiểm tra sự hiểu biết <br> <i>13 phút</i>",
                         "stage": "Sử dụng các hoạt động khác nhau để giúp trẻ tiếp xúc nhiều lần với nghĩa của từ vựng và mẫu câu. <br>Hãy nhớ rằng sự tập trung của trẻ ở lứa tuổi này rất ngắn, và trẻ cần được vui vẻ và học qua những trò chơi thu hút và gây hứng thú ít nhất là trong vài phút mỗi lần. ",
                         "procedures": {
                             "text": "<b>Giải thích ý nghĩa </b>",
                             "list": [
                                 {
-                                    "text": "Giải thích hoạt động kéo và thả (đúng và sai)(bằng tiếng việt nếu cần) ",
+                                    "text": "Giải thích hoạt động kéo và thả (bằng tiếng việt nếu cần) ",
                                     "list": [
+                                        { "text": "Kéo và thả (đúng và sai)" },
                                         {
                                             "text": "Tự động phát âm thanh câu: It's a _____."
                                         },
-                                        {
-                                            "text": " 3 bức tranh về từ vựng ở giữa"
-                                        },
+                                        { "text": "Bức tranh từ vựng ở giữa " },
                                         {
                                             "text": "2 khu vực thả (bên phải, dấu tích màu xanh lá cây và bên trái, dấu chéo màu đỏ)"
                                         },
@@ -424,26 +432,26 @@
                                             "text": "Trẻ phái chọn 3 bức tranh đúng"
                                         },
                                         {
-                                            "text": "Lặp lại cho tất cả 9 từ vựng chỉ cảm xúc."
+                                            "text": "Lặp lại cho tất cả 4 từ vựng chỉ cảm xúc."
                                         }
                                     ]
                                 },
                                 {
-                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động  Câu hỏi trắc nghiệm (với các bức tranh).",
+                                    "text": "Lặp lại các bước 1 - 6 cho Hoạt động Multiple Hotspot.",
                                     "list": [
                                         {
-                                            "text": " Tự động phát âm thanh câu hỏi, ví dụ: How are you? I'm sleepy"
+                                            "text": "9 bức tranh về cảm xúc (1 bức tranh là cảm xúc đúng)"
                                         },
                                         {
-                                            "text": " 3 bức tranh bên dưới. Ví dụ: happy, sad, shy"
+                                            "text": "Tự động phát âm thanh câu hỏi, ví dụ: How are you? I'm happy"
                                         },
                                         {
-                                            "text": " Trẻ phải nghe, đọc và chạm / bấm vào bức tranh đúng."
+                                            "text": "Trẻ phải tìm hình ảnh đứa trẻ vui vẻ và chạm / nhấn vào chúng."
                                         }
                                     ]
                                 }
                             ],
-                            "end": "KẾT THÚC BÀI 8 - ÔN TẬP"
+                            "end": "KẾT THÚC BÀI 8 - ÔN TẬP CHƯƠNG 1"
                         }
                     }
                 ]
