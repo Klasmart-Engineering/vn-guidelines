@@ -68,7 +68,7 @@
                                                     alt=""
                                                 />
                                             </a>
-                                            <span>{{ item.text }}</span>
+                                            <span v-html="item.text"></span>
                                         </li>
                                     </ul>
                                 </div>
