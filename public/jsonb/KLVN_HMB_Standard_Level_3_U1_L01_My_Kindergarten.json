@@ -7,7 +7,7 @@
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-                    "text": "5-6 YEARS OLD"
+                    "text": "Level 3 <br/> 5-6 YEARS OLD"
                 }
             ],
             "objectives": {
@@ -245,11 +245,11 @@
         },
         {
             "lang": "vi",
-            "unit": "CHƯƠNG TRÌNH HUMMINGBIRD TIÊU CHUẨN <BR/> Chương 1 - Bài 1: Trường Mầm Non của bé",
+            "unit": "CHƯƠNG TRÌNH HUMMINGBIRD TIÊU CHUẨN <br/> Chương 1 - Bài 1: Trường Mầm Non của bé",
             "description": [
                 {
                     "icon": "https://i.ibb.co/bJRnPxF/gl-child-solid.png",
-                    "text": "Độ tuổi: 5-6"
+                    "text": "Cấp độ 3 <br/> Độ tuổi: 5-6"
                 }
             ],
             "objectives": {
