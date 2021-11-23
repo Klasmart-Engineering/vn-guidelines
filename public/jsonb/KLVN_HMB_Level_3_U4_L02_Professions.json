@@ -36,10 +36,11 @@
                             {
                                 "name": "Social and Emotional Learning",
                                 "contents": [
-                                    { "text": "Expressing emotions." },
-                                    { "text": "Regulating behaviour." },
                                     {
-                                        "text": "Demostrating respectful interactions."
+                                        "text": "Child talks positively about themself and others."
+                                    },
+                                    {
+                                        "text": "Child is able to communicate about how people can help each other."
                                     }
                                 ]
                             },

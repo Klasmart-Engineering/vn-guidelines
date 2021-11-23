@@ -44,10 +44,14 @@
                             {
                                 "name": "Social and Emotional Learning",
                                 "contents": [
-                                    { "text": "Expressing emotions." },
-                                    { "text": "Regulating behaviour." },
                                     {
-                                        "text": "Demostrating respectful interactions."
+                                        "text": "Can learn classroom routines and rules."
+                                    },
+                                    {
+                                        "text": "Can recognise emotion in self."
+                                    },
+                                    {
+                                        "text": "Can learn about asking and answering questions in a polite tone."
                                     }
                                 ]
                             },
