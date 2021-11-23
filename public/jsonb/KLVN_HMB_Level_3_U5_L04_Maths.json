@@ -256,9 +256,14 @@
                             {
                                 "name": "Năng lực cảm xúc và xã hội",
                                 "contents": [
-                                    { "text": "Tự tin trao đổi về sở thích." },
                                     {
-                                        "text": "Đặt câu hỏi và thể hiện sự quan tâm xã hội."
+                                        "text": "Có thể học các thói quen và quy tắc trong lớp học."
+                                    },
+                                    {
+                                        "text": "Có thể nhận ra cảm xúc của bản thân."
+                                    },
+                                    {
+                                        "text": "Trẻ có thể giao tiếp về cách mọi người có thể giúp đỡ lẫn nhau."
                                     }
                                 ]
                             },

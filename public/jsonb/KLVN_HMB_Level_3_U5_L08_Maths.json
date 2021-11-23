@@ -291,10 +291,14 @@
                             {
                                 "name": "Năng lực cảm xúc và xã hội",
                                 "contents": [
-                                    { "text": "Biểu lộ cảm xúc." },
-                                    { "text": "Điều chỉnh hành vi." },
                                     {
-                                        "text": "Thể hiện sự tương tác tôn trọng."
+                                        "text": "Có thể học các thói quen và quy tắc trong lớp học."
+                                    },
+                                    {
+                                        "text": "Có thể nhận ra cảm xúc trong bản thân."
+                                    },
+                                    {
+                                        "text": "Có thể học cách hỏi và trả lời câu hỏi với giọng lịch sự."
                                     }
                                 ]
                             },
