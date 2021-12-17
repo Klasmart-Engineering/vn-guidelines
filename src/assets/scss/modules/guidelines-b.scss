@@ -122,6 +122,23 @@
                 margin-top: 30px;
             }
         }
+
+        .module-lesson-table-wrap {
+            + .module-title {
+                margin-top: 30px;
+            }
+
+            table {
+                tbody {
+                    tr {
+                        td {
+                            padding-top: 20px;
+                            padding-bottom: 20px;
+                        }
+                    }
+                }
+            }
+        }
     }
 
     .objectives-table {

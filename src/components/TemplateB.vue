@@ -247,6 +247,152 @@
                         </div>
                     </section>
 
+                    <div
+                        class="module-lesson-table-wrap"
+                        v-if="data.teaching_tips"
+                    >
+                        <section
+                            class="module-lesson-table"
+                            v-for="(section, index) in data.teaching_tips"
+                            :key="index"
+                        >
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <table
+                                            class="objectives-table"
+                                            width="100%"
+                                            border="0"
+                                            cellpadding="0"
+                                            cellspacing="0"
+                                        >
+                                            <tbody>
+                                                <tr class="tr-thead">
+                                                    <table
+                                                        width="100%"
+                                                        border="0"
+                                                        cellpadding="0"
+                                                        cellspacing="0"
+                                                    >
+                                                        <tr>
+                                                            <td
+                                                                colspan="2"
+                                                                v-if="
+                                                                    section.title
+                                                                "
+                                                                v-html="
+                                                                    section.title
+                                                                "
+                                                            ></td>
+                                                        </tr>
+                                                    </table>
+                                                </tr>
+
+                                                <tr>
+                                                    <table
+                                                        width="100%"
+                                                        border="0"
+                                                        cellpadding="0"
+                                                        cellspacing="0"
+                                                    >
+                                                        <tr
+                                                            v-for="(
+                                                                item, index
+                                                            ) in section.list"
+                                                            :key="index"
+                                                        >
+                                                            <td
+                                                                width="100%"
+                                                                style="
+                                                                    padding: 0;
+                                                                "
+                                                            >
+                                                                <table
+                                                                    width="100%"
+                                                                    border="0"
+                                                                    cellpadding="0"
+                                                                    cellspacing="0"
+                                                                    class="
+                                                                        objectives-right
+                                                                    "
+                                                                >
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <td
+                                                                                width="30%"
+                                                                                style="
+                                                                                    padding: 0;
+                                                                                "
+                                                                            ></td>
+                                                                            <td
+                                                                                width="70%"
+                                                                                style="
+                                                                                    padding: 0;
+                                                                                "
+                                                                            ></td>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td
+                                                                                style="
+                                                                                    background-color: #fafafa;
+                                                                                "
+                                                                            >
+                                                                                <b
+                                                                                    v-html="
+                                                                                        item.name
+                                                                                    "
+                                                                                ></b>
+                                                                            </td>
+                                                                            <td
+                                                                                v-html="
+                                                                                    item.content
+                                                                                "
+                                                                            ></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </tr>
+
+                                                <tr>
+                                                    <table
+                                                        width="100%"
+                                                        border="0"
+                                                        cellpadding="0"
+                                                        cellspacing="0"
+                                                    >
+                                                        <tr class="tr-tfoot">
+                                                            <table
+                                                                width="100%"
+                                                                border="0"
+                                                                cellpadding="0"
+                                                                cellspacing="0"
+                                                            >
+                                                                <tr>
+                                                                    <td
+                                                                        colspan="2"
+                                                                    >
+                                                                        &nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </tr>
+                                                    </table>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+
+                <div class="page" v-if="data.type !== 'others'">
                     <section class="module-title" v-if="data.learning">
                         <div class="container">
                             <div class="row">
@@ -265,21 +411,17 @@
                         <div class="container">
                             <div class="row" v-if="data.learning">
                                 <div class="col-12">
-                                    <h4>{{ data.learning.subtitle }}</h4>
+                                    <h4 v-html="data.learning.subtitle"></h4>
                                     <p>
-                                        <i>{{ data.learning.duration }}</i>
+                                        <i v-html="data.learning.duration"></i>
                                     </p>
-                                    <p>
-                                        <b>{{ data.learning.aim }}</b>
-                                    </p>
-                                    <p>{{ data.learning.desc }}</p>
+                                    <p><b v-html="data.learning.aim"></b></p>
+                                    <p v-html="data.learning.desc"></p>
                                 </div>
                             </div>
                         </div>
                     </section>
-                </div>
 
-                <div class="page" v-if="data.type !== 'others'">
                     <section class="module-lesson-table" v-if="data.lessons">
                         <div class="container">
                             <div class="row">
