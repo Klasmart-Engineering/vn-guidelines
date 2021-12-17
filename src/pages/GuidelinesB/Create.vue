@@ -90,7 +90,7 @@ export default {
         },
         resetJson() {
             this.axios
-                .get('/json/sample.json?v=' + new Date().getTime())
+                .get('/jsonb/sample.json?v=' + new Date().getTime())
                 .then((response) => {
                     this.jsonData = response.data
                 })
