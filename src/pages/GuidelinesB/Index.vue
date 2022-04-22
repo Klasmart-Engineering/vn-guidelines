@@ -27,7 +27,13 @@
                                             v-if="
                                                 object.indexOf(
                                                     'U' + (index + 1)
-                                                ) >= 0
+                                                ) >= 0 ||
+                                                (object.indexOf(
+                                                    'KLVN_HMB_Showcase'
+                                                ) >= 0 &&
+                                                    object.indexOf(
+                                                        'U' + (index + 1)
+                                                    ) < 0)
                                             "
                                         >
                                             <router-link
