@@ -20,16 +20,12 @@ build_app:
             - dist/
         expire_in: 1 hour
 
-# production stage
 production:
     image: node:14
     stage: deploy
     only:
         - master
-    before_script:
-        - mkdir -p ~/.ssh
-        - echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-        - chmod 600 ~/.ssh/id_rsa
-        - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
     script:
-        - scp -P 234 -r dist/* stackops@103.245.249.109:/var/www/guidelines/
+        - 'curl --location --output artifacts.zip --header "PRIVATE-TOKEN: $PRIVATE_ACCESS_TOKEN" "https://gitlab.com/api/v4/projects/kidsloopvn%2Fcurricula-guidelines/jobs/$CI_JOB_ID/artifacts/download"'
+        - ls
+        - 'unzip artifacts.zip /var/www/guidelines'
